@@ -1,143 +1,407 @@
 {
   "summary": {
-    "total_urls": 6,
-    "successful": 6,
+    "total_urls": 18,
+    "successful": 18,
     "failed": 0,
     "success_rate": "100.0%",
-    "generated_at": "2025-06-14 18:39:52",
+    "generated_at": "2025-06-16 12:26:57",
     "cookies_source": "cookie.txt"
   },
   "tweets": [
     {
-      "url": "https://x.com/VaderResearch/status/1933837953509585106",
-      "tweet_id": "1933837953509585106",
-      "text": "1M more $VIRGEN bought back & BURNT 🔥 Total $VIRGEN BURNT is now at 17M (1.7%) The lower the price, the more $VIRGEN BURNT There is only one $VIRGEN And it is DEFLATIONARY...",
-      "raw_text": "1M more $VIRGEN bought back &amp; BURNT 🔥\n\nTotal $VIRGEN BURNT is now at 17M (1.7%)\n\nThe lower the price, the more $VIRGEN BURNT\n\nThere is only one $VIRGEN\n\nAnd it is DEFLATIONARY... https://t.co/3lJ4kSp6hG",
+      "url": "https://x.com/Cryptohitmaniac/status/1934186229182190072",
+      "tweet_id": "1934186229182190072",
+      "text": "I just got onboard @virtuals_io yesterday together with @ST33RT @Pumpbob_ and @SusanooSOL . We were totally clueless of how it works, got $10K of $VADER but stacking at virtual platform was a wrong move lol. Got 14D of jailtime for FREE to unstake and restake at Vader's platform fml 🫠 Back to @BasisOS and found out that I drop drastically #78 spots away from my previous position. Competition sure is getting tougher at $BIOS Time to grind harder and what is @useBackroom ?",
+      "raw_text": "I just got onboard @virtuals_io yesterday together with @ST33RT @Pumpbob_  and @SusanooSOL .\n\nWe were totally clueless of how it works, got $10K of $VADER but stacking at virtual platform was a wrong move lol. \n\nGot 14D of jailtime for FREE to unstake and restake at Vader's platform fml 🫠\n\nBack to @BasisOS and found out that I drop drastically #78 spots away from my previous position. \n\nCompetition sure is getting tougher at $BIOS \n\nTime to grind harder and what is @useBackroom ?",
       "user": {
-        "username": "VaderResearch",
-        "display_name": "Vader",
+        "username": "Cryptohitmaniac",
+        "display_name": "H I T M A N 🎴",
         "verified": true
       },
       "stats": {
-        "likes": 270,
-        "retweets": 23,
-        "replies": 222,
-        "quotes": 29,
+        "likes": 96,
+        "retweets": 0,
+        "replies": 96,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Sun Jun 15 09:48:27 +0000 2025",
+      "views": "1514",
+      "scraped_at": "2025-06-16 12:25:51",
+      "success": true
+    },
+    {
+      "url": "https://x.com/100xDarren/status/1934214241831330146",
+      "tweet_id": "1934214241831330146",
+      "text": "$Vader @Vader_AI_ is strong",
+      "raw_text": "$Vader @Vader_AI_ is strong https://t.co/YXAh5WX8wF",
+      "user": {
+        "username": "100xDarren",
+        "display_name": "100xDarren",
+        "verified": true
+      },
+      "stats": {
+        "likes": 221,
+        "retweets": 6,
+        "replies": 189,
+        "quotes": 3,
+        "bookmarks": 2
+      },
+      "created_at": "Sun Jun 15 11:39:45 +0000 2025",
+      "views": "7928",
+      "scraped_at": "2025-06-16 12:25:54",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Sovereign_Web3/status/1934217382157008936",
+      "tweet_id": "1934217382157008936",
+      "text": "Points are the most valuable asset in the @virtuals_io ecosystem. Be aggressive spending points where you can get value, but cautious on hyped launches where points are heavily diluted. Your $ returns per point spent are more important than $ returns per $VIRTUAL spent. While you can get 100x - 1000x in terms of $VIRTUAL spent on hyped launches, most users are making very little in terms of raw dollars because they can only allocate a few $VIRTUAL tokens on the most hyped launches. For example, $IRIS gave $0.010 per a point spent. Not great, not terrible. Sure, it was a safer play because you were guaranteed to get huge returns per $VIRTUAL spent, but you also received only $0.010 per a point spent. Twelve launches gave better $ returns per a point spent, including even the recent $DUCK @appduckai.",
+      "raw_text": "Points are the most valuable asset in the @virtuals_io  ecosystem. Be aggressive spending points where you can get value, but cautious on hyped launches where points are heavily diluted. \n\nYour $ returns per point spent are more important than $ returns per $VIRTUAL spent. While you can get 100x - 1000x in terms of $VIRTUAL spent on hyped launches, most users are making very little in terms of raw dollars because they can only allocate a few $VIRTUAL tokens on the most hyped launches.  \n\nFor example, $IRIS gave $0.010 per a point spent. Not great, not terrible. Sure, it was a safer play because you were guaranteed to get huge returns per $VIRTUAL spent, but you also received only $0.010 per a point spent. Twelve launches gave better $ returns per a point spent, including even the recent $DUCK @appduckai.",
+      "user": {
+        "username": "Sovereign_Web3",
+        "display_name": "Sovereign",
+        "verified": true
+      },
+      "stats": {
+        "likes": 56,
+        "retweets": 5,
+        "replies": 28,
+        "quotes": 0,
+        "bookmarks": 11
+      },
+      "created_at": "Sun Jun 15 11:52:14 +0000 2025",
+      "views": "5243",
+      "scraped_at": "2025-06-16 12:25:58",
+      "success": true
+    },
+    {
+      "url": "https://x.com/cryptopremium_/status/1934219180490051958",
+      "tweet_id": "1934219180490051958",
+      "text": "I didnt eat my launch 🍗🍗 @virtuals_io i am waiting $VADER yapping points and $VIRTUAL yapping points 🫡",
+      "raw_text": "I didnt eat my launch 🍗🍗 @virtuals_io \n\ni am waiting $VADER yapping points and $VIRTUAL yapping points  🫡 https://t.co/09Tu8vf6eB",
+      "user": {
+        "username": "cryptopremium_",
+        "display_name": "Crypto Premium Telugu",
+        "verified": true
+      },
+      "stats": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
         "bookmarks": 0
       },
-      "created_at": "Sat Jun 14 10:44:31 +0000 2025",
-      "views": "6732",
-      "scraped_at": "2025-06-14 18:39:33",
+      "created_at": "Sun Jun 15 11:59:23 +0000 2025",
+      "views": "156",
+      "scraped_at": "2025-06-16 12:26:02",
       "success": true
     },
     {
-      "url": "https://x.com/NickPlaysCrypto/status/1933537876030947430",
-      "tweet_id": "1933537876030947430",
-      "text": "A nice 900k point day on one of the wallets. Stake @Vader_AI_ buy the fucking dip.",
-      "raw_text": "A nice 900k point day on one of the wallets. Stake @Vader_AI_ buy the fucking dip. https://t.co/fyThSxU7oX",
+      "url": "https://x.com/langeriuseth/status/1934196686324379851",
+      "tweet_id": "1934196686324379851",
+      "text": "Staking $IRIS was a big mistake. I mean, if even I thought this, making someone from community think same is a huge failure Even if you’re going to get cooldown in next launches, selling is still much more reasonable than staking @virtuals_io",
+      "raw_text": "Staking $IRIS was a big mistake. I mean, if even I thought this, making someone from community think same is a huge failure\n\nEven if you’re going to get cooldown in next launches, selling is still much more reasonable than staking\n\n@virtuals_io https://t.co/xtLp598MjD",
       "user": {
-        "username": "NickPlaysCrypto",
-        "display_name": "Nick",
+        "username": "langeriuseth",
+        "display_name": "LANGERIUS",
         "verified": true
       },
       "stats": {
-        "likes": 420,
-        "retweets": 28,
-        "replies": 284,
-        "quotes": 22,
-        "bookmarks": 7
+        "likes": 828,
+        "retweets": 26,
+        "replies": 219,
+        "quotes": 4,
+        "bookmarks": 34
       },
-      "created_at": "Fri Jun 13 14:52:07 +0000 2025",
-      "views": "24567",
-      "scraped_at": "2025-06-14 18:39:37",
+      "created_at": "Sun Jun 15 10:30:00 +0000 2025",
+      "views": "41683",
+      "scraped_at": "2025-06-16 12:26:05",
       "success": true
     },
     {
-      "url": "https://x.com/VaderResearch/status/1933524749344518465",
-      "tweet_id": "1933524749344518465",
-      "text": "Seems like a lot of weak hands JEETED yesterday The current Jeet Jail mechanic is insufficient You go to jeet jail regardless if you sell 1% of 1 token Or 100% of all tokens This incentivizes those who want to TP from one token To SELL IT ALL since the punishment is the same To solve this I want to reiterate the JEET HELL proposition 😈 Virgen Points are valuable Lets punish JEETERS who sell it all even HARDER 👊",
-      "raw_text": "Seems like a lot of weak hands JEETED yesterday\n\nThe current Jeet Jail mechanic is insufficient\n\nYou go to jeet jail regardless if you sell 1% of 1 token\n\nOr 100% of all tokens\n\nThis incentivizes those who want to TP from one token\n\nTo SELL IT ALL since the punishment is the same\n\nTo solve this\n\nI want to reiterate the JEET HELL proposition 😈\n\nVirgen Points are valuable\n\nLets punish JEETERS who sell it all even HARDER 👊",
+      "url": "https://x.com/marxelinoo/status/1934212400682549442",
+      "tweet_id": "1934212400682549442",
+      "text": "I’ll give you this @MagicNewton alpha for free: ⤷ Magic newton agents are verifiable, autonomous programs that execute your intent onchain. ⤷ Under the hood, they run with zk + tee infra from Succinct, Risc Zero, Automata, Phala and more. ⤷ Every action taken by an agent is provable. no blind trust. no black boxes. ⤷ We’re entering a phase where users will be able to build, deploy, and even sell their agents in a real marketplace. The infra is live. Agents are live. The next phase is near. Are you ready for what’s coming this month?",
+      "raw_text": "I’ll give you this @MagicNewton alpha for free:\n\n⤷ Magic newton agents are verifiable, autonomous programs that execute your intent onchain.\n\n⤷ Under the hood, they run with zk + tee infra from Succinct, Risc Zero, Automata, Phala and more.\n\n⤷ Every action taken by an agent is provable. no blind trust. no black boxes.\n\n⤷ We’re entering a phase where users will be able to build, deploy, and even sell their agents in a real marketplace.\n\nThe infra is live. Agents are live. The next phase is near.\n\nAre you ready for what’s coming this month?",
       "user": {
-        "username": "VaderResearch",
-        "display_name": "Vader",
+        "username": "marxelinoo",
+        "display_name": "Marcel",
         "verified": true
       },
       "stats": {
-        "likes": 712,
-        "retweets": 69,
-        "replies": 535,
-        "quotes": 76,
-        "bookmarks": 13
+        "likes": 203,
+        "retweets": 14,
+        "replies": 227,
+        "quotes": 4,
+        "bookmarks": 4
       },
-      "created_at": "Fri Jun 13 13:59:58 +0000 2025",
-      "views": "31751",
-      "scraped_at": "2025-06-14 18:39:40",
+      "created_at": "Sun Jun 15 11:32:26 +0000 2025",
+      "views": "3200",
+      "scraped_at": "2025-06-16 12:26:09",
       "success": true
     },
     {
-      "url": "https://x.com/VaderResearch/status/1933244482910314919",
-      "tweet_id": "1933244482910314919",
-      "text": "$IRIS에 함께해주신 한국 크립토 선생님들 모두 축하드립니다 딜 파이프라인은 계속해서 탄탄하고 우리 앞엔 맑은 날만 남았습니다 🫡",
-      "raw_text": "$IRIS에 함께해주신 한국 크립토 선생님들 모두 축하드립니다\n\n딜 파이프라인은 계속해서 탄탄하고\n\n우리 앞엔 맑은 날만 남았습니다  🫡 https://t.co/kjiQaQ22Yo",
+      "url": "https://x.com/HaikoIvan/status/1934219054929125478",
+      "tweet_id": "1934219054929125478",
+      "text": "Fellow Virgens, y’all refreshing the site like maniacs too, waiting for them sweet points? Wishing everyone to smash some new records today! While the points are still cooking, go do some alpha digging on upcoming Genesis Launches, stake some agents or 10,000 $VADER, and start yapping!",
+      "raw_text": "Fellow Virgens, y’all refreshing the site like maniacs too, waiting for them sweet points? Wishing everyone to smash some new records today! While the points are still cooking, go do some alpha digging on upcoming Genesis Launches, stake some agents or 10,000 $VADER, and start yapping!",
       "user": {
-        "username": "VaderResearch",
-        "display_name": "Vader",
+        "username": "HaikoIvan",
+        "display_name": "Ivan Haiko",
         "verified": true
       },
       "stats": {
-        "likes": 680,
-        "retweets": 37,
-        "replies": 427,
-        "quotes": 58,
-        "bookmarks": 5
+        "likes": 5,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "bookmarks": 0
       },
-      "created_at": "Thu Jun 12 19:26:17 +0000 2025",
-      "views": "693434",
-      "scraped_at": "2025-06-14 18:39:45",
+      "created_at": "Sun Jun 15 11:58:53 +0000 2025",
+      "views": "134",
+      "scraped_at": "2025-06-16 12:26:13",
       "success": true
     },
     {
-      "url": "https://x.com/VaderResearch/status/1933101556989407234",
-      "tweet_id": "1933101556989407234",
-      "text": "Vader Yapping Day 3 - points are out We rewarded close to 1k users today Going forward, we will limit rewards to the top 1k users to avoid further dilution User your points wisely 🫡",
-      "raw_text": "Vader Yapping Day 3 - points are out\n\nWe rewarded close to 1k users today\n\nGoing forward, we will limit rewards to the top 1k users to avoid further dilution\n\nUser your points wisely 🫡 https://t.co/sVkATBcSJi",
+      "url": "https://x.com/AirdropFinder55/status/1934218297676812519",
+      "tweet_id": "1934218297676812519",
+      "text": "Sometimes not jeeting on your @virtuals_io Genesis allocations back fires you. I have invested around 300$ in virtuals bought some agents from market and staked them now my whole portfolio is worth around 350$ after $SOLACE and $IRIS genesis launch. $SOLACE was giving me 350$ at ATH now it's Giving me 50$ . $IRIS at ATH was giving 500$ now 150$. @ethermage lacks in communications as well trying to contact support of @virtuals_io regarding few of my transactions . No response on Telegram ( so many people just spamming and mod is inactive ) and in discord also same , Can't even enter.",
+      "raw_text": "Sometimes not jeeting on your @virtuals_io Genesis allocations back fires you.\n\nI have invested around 300$ in virtuals bought some agents from market and staked them now my whole portfolio is worth around 350$ after $SOLACE and $IRIS genesis launch.\n\n$SOLACE was giving me 350$ at ATH now it's Giving me 50$ .\n\n$IRIS at ATH was giving 500$ now 150$.\n\n@ethermage lacks in communications as well trying to contact support of @virtuals_io regarding few of my transactions . No response on Telegram ( so many people just spamming and mod is inactive ) and in discord also same , Can't even enter.",
       "user": {
-        "username": "VaderResearch",
-        "display_name": "Vader",
+        "username": "AirdropFinder55",
+        "display_name": "Vegeta",
         "verified": true
       },
       "stats": {
-        "likes": 760,
-        "retweets": 49,
-        "replies": 466,
-        "quotes": 95,
+        "likes": 13,
+        "retweets": 3,
+        "replies": 7,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Sun Jun 15 11:55:52 +0000 2025",
+      "views": "265",
+      "scraped_at": "2025-06-16 12:26:17",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Hydraze420/status/1934214909027406087",
+      "tweet_id": "1934214909027406087",
+      "text": "There's so much noise in the info-fi space atm it's hard to know which projects to focus us. On top of that KAITO rewards creators for loyalty, meaning you ultimately get nerfed somewhat for trying to climb too many leaderboards. Focus on products that you actually use & have invested capital in. For me that means putting 99% of my content towards: @virtuals_io @katana @infinex @multibank_io Nobody wants to see the same updates about reward programs and where you are on the leaderboard in every post. We want to see what you are actually doing with those products. - How much money are you making? - What is your strategy? - How much capital are you risking? Such things actually help others make decisions and hopefully win together.",
+      "raw_text": "There's so much noise in the info-fi space atm it's hard to know which projects to focus us.\n\nOn top of that KAITO rewards creators for loyalty, meaning you ultimately get nerfed somewhat for trying to climb too many leaderboards.\n\nFocus on products that you actually use & have invested capital in.\n\nFor me that means putting 99% of my content towards:\n\n@virtuals_io \n@katana\n@infinex \n@multibank_io\n\nNobody wants to see the same updates about reward programs and where you are on the leaderboard in every post.\n\nWe want to see what you are actually doing with those products.\n\n- How much money are you making?\n- What is your strategy?\n- How much capital are you risking?\n\nSuch things actually help others make decisions and hopefully win together.",
+      "user": {
+        "username": "Hydraze420",
+        "display_name": "Hydraze 🏴‍☠️",
+        "verified": true
+      },
+      "stats": {
+        "likes": 112,
+        "retweets": 1,
+        "replies": 106,
+        "quotes": 1,
+        "bookmarks": 6
+      },
+      "created_at": "Sun Jun 15 11:42:24 +0000 2025",
+      "views": "2770",
+      "scraped_at": "2025-06-16 12:26:21",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Web3Pikachu/status/1934214865024864263",
+      "tweet_id": "1934214865024864263",
+      "text": "The $BAIBY launch I joined via @virtuals_io was way below my expectations. I ended up staking all my tokens (not that I had much of a choice) Now I’m shifting my focus to @BasisOS. I’ll still keep up with both, but $BIOS is definitely my main priority now. In crypto, take a pause before you quit Because the moments you feel like giving up the most… are usually when things start turning around. (Manifesting this 😇)",
+      "raw_text": "The $BAIBY launch I joined via @virtuals_io was way below my expectations. I ended up staking all my tokens (not that I had much of a choice)\n\nNow I’m shifting my focus to @BasisOS. I’ll still keep up with both, but $BIOS is definitely my main priority now. \n\nIn crypto, take a pause before you quit\nBecause the moments you feel like giving up the most… are usually when things start turning around.\n(Manifesting this 😇)",
+      "user": {
+        "username": "Web3Pikachu",
+        "display_name": "Pikachu⚡",
+        "verified": true
+      },
+      "stats": {
+        "likes": 35,
+        "retweets": 5,
+        "replies": 31,
+        "quotes": 0,
+        "bookmarks": 2
+      },
+      "created_at": "Sun Jun 15 11:42:14 +0000 2025",
+      "views": "782",
+      "scraped_at": "2025-06-16 12:26:25",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Crypto_Zh0u/status/1934212262040121775",
+      "tweet_id": "1934212262040121775",
+      "text": "My thoughts on how @useBackroom can be a long term hold after you pledge your Virgen points in the @virtuals_io genesis launch If it manages to onboard all the big KOLs & sustain the interest, it could be a runner. Will you be holding? 🤔",
+      "raw_text": "My thoughts on how @useBackroom can be a long term hold after you pledge your Virgen points in the @virtuals_io genesis launch \n\nIf it manages to onboard all the big KOLs &amp; sustain the interest, it could be a runner. \n\nWill you be holding? 🤔",
+      "user": {
+        "username": "Crypto_Zh0u",
+        "display_name": "Zh0u 🧬",
+        "verified": true
+      },
+      "stats": {
+        "likes": 69,
+        "retweets": 3,
+        "replies": 63,
+        "quotes": 1,
+        "bookmarks": 1
+      },
+      "created_at": "Sun Jun 15 11:31:53 +0000 2025",
+      "views": "1930",
+      "scraped_at": "2025-06-16 12:26:30",
+      "success": true
+    },
+    {
+      "url": "https://x.com/lechriss17/status/1934209197488435508",
+      "tweet_id": "1934209197488435508",
+      "text": "Don’t complain about your wins! I’ve seen more and more people doing that lately, so disappointing. A 15x from $BAYBI is a solid profit Take it, stake it, and move on! Virtuals gives us so many opportunities, like @useBackroom and $BIOS We’re here for the 500x. The virgen community is getting stronger day by day. The plan is simple: stake $VADER and Virtuals, create good content and enjoy the ride This feels just like 2021 for NFTs.",
+      "raw_text": "Don’t complain about your wins!\n\nI’ve seen more and more people doing that lately, so disappointing.\n\nA 15x from $BAYBI is a solid profit\n\nTake it, stake it, and move on!\n\nVirtuals gives us so many opportunities, like @useBackroom and $BIOS\n\nWe’re here for the 500x. The virgen community is getting stronger day by day.\n\nThe plan is simple: stake $VADER and Virtuals, create good content and enjoy the ride\n\nThis feels just like 2021 for NFTs.",
+      "user": {
+        "username": "lechriss17",
+        "display_name": "Chris",
+        "verified": true
+      },
+      "stats": {
+        "likes": 28,
+        "retweets": 1,
+        "replies": 20,
+        "quotes": 0,
+        "bookmarks": 2
+      },
+      "created_at": "Sun Jun 15 11:19:43 +0000 2025",
+      "views": "692",
+      "scraped_at": "2025-06-16 12:26:34",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Lexibtceth/status/1934204697939960285",
+      "tweet_id": "1934204697939960285",
+      "text": "Ranked top 5 on the Kaito Virtuals leaderboard today Even after consistently supporting everyone, I’m still not on your list? I post around 10 tweets a day about @virtuals_io and $VADER plus I engage with top mindshare accounts and reply back under my own posts too. gVirtual",
+      "raw_text": "Ranked top 5 on the Kaito Virtuals leaderboard today\n\nEven after consistently supporting everyone, I’m still not on your list?\n\nI post around 10 tweets a day about @virtuals_io and $VADER\n\nplus I engage with top mindshare accounts and reply back under my own posts too.\n\ngVirtual https://t.co/oowt8CBA3l",
+      "user": {
+        "username": "Lexibtceth",
+        "display_name": "Lexi Bitcoin 🐱",
+        "verified": true
+      },
+      "stats": {
+        "likes": 310,
+        "retweets": 8,
+        "replies": 280,
+        "quotes": 1,
+        "bookmarks": 3
+      },
+      "created_at": "Sun Jun 15 11:01:50 +0000 2025",
+      "views": "7354",
+      "scraped_at": "2025-06-16 12:26:38",
+      "success": true
+    },
+    {
+      "url": "https://x.com/dilaw006/status/1934214664826589607",
+      "tweet_id": "1934214664826589607",
+      "text": "Still no @virtuals_io points for me, like everyone I guess.. But yesterday I took some time to stack a few Genesis Agent cuties: $BIOS, $IRIS, $BAIBY … All to boost my $VADER Virtuals points allocation. Hoping to hit 150,000 before $ROOM goes live 📈 Quick reminder before $ROOM launches: @useBackroom leaderboard is still live and honestly worth it! 💰 Keep trying to climb and keep collecting your yaps ( these yaps are not the same as Kaito yaps. they’re way easier.) Just post. Don’t overthink. And you? How do you boost your Virtuals points? 👀",
+      "raw_text": "Still no @virtuals_io points for me, like everyone I guess.. \n\nBut yesterday I took some time to stack a few Genesis Agent cuties: $BIOS, $IRIS, $BAIBY …\nAll to boost my $VADER Virtuals points allocation.\n\nHoping to hit 150,000 before $ROOM goes live 📈\n\nQuick reminder before $ROOM launches:\n\n@useBackroom leaderboard is still live and honestly worth it! 💰 \n\nKeep trying to climb and keep collecting your yaps ( these yaps are not the same as Kaito yaps. they’re way easier.) \n\nJust post. Don’t overthink.\n\nAnd you? How do you boost your Virtuals points? 👀",
+      "user": {
+        "username": "dilaw006",
+        "display_name": "Dilaw 🤌",
+        "verified": true
+      },
+      "stats": {
+        "likes": 123,
+        "retweets": 4,
+        "replies": 98,
+        "quotes": 2,
+        "bookmarks": 2
+      },
+      "created_at": "Sun Jun 15 11:41:26 +0000 2025",
+      "views": "3193",
+      "scraped_at": "2025-06-16 12:26:42",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xdavid55/status/1934209734103494810",
+      "tweet_id": "1934209734103494810",
+      "text": "Farming airdrops across chains? Yeah, I’ve been there — bridging, swapping, waiting… it used to be a war. Then I discovered Swidging with @infinex. Now it’s fast, secure, and feels like second nature. Deposit → Swidge → Farm airdrop. No complicated UI. No bridging. No seed phrases. No unnecessary gas fees. 100% onchain. Just a smooth ride. If you’re serious about multi-chain airdrop farming, you need to try this. #Infinex",
+      "raw_text": "Farming airdrops across chains?\nYeah, I’ve been there — bridging, swapping, waiting… it used to be a war.\n\nThen I discovered Swidging with @infinex.\nNow it’s fast, secure, and feels like second nature.\n\nDeposit → Swidge → Farm airdrop.\n\nNo complicated UI. \n\nNo bridging.\n\nNo seed phrases.\n\nNo unnecessary gas fees.\n\n100% onchain.\n\n Just a smooth ride.\n\nIf you’re serious about multi-chain airdrop farming, you need to try this.\n\n#Infinex",
+      "user": {
+        "username": "0xdavid55",
+        "display_name": "DAVID",
+        "verified": true
+      },
+      "stats": {
+        "likes": 144,
+        "retweets": 0,
+        "replies": 96,
+        "quotes": 1,
+        "bookmarks": 1
+      },
+      "created_at": "Sun Jun 15 11:21:51 +0000 2025",
+      "views": "8166",
+      "scraped_at": "2025-06-16 12:26:45",
+      "success": true
+    },
+    {
+      "url": "https://x.com/TimHaldorsson/status/1934221754219839520",
+      "tweet_id": "1934221754219839520",
+      "text": "Many people thought that the Haldorsson brothers didn’t exist all three of us. So we had do to a “Proof of brothers”",
+      "raw_text": "Many people thought that the Haldorsson brothers didn’t exist all three of us.\n\nSo we had do to a “Proof of brothers”",
+      "user": {
+        "username": "TimHaldorsson",
+        "display_name": "Tim Haldorsson",
+        "verified": true
+      },
+      "stats": {
+        "likes": 57,
+        "retweets": 0,
+        "replies": 23,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Sun Jun 15 12:09:36 +0000 2025",
+      "views": "1781",
+      "scraped_at": "2025-06-16 12:26:49",
+      "success": true
+    },
+    {
+      "url": "https://x.com/degenmanuelonx/status/1934216106690121836",
+      "tweet_id": "1934216106690121836",
+      "text": "Started Yapping About $ROOM Yesterday and i’ve made tremendous progress. A few more Yaps and i’ll be top 25 on the @useBackroom Leaderboard. I trust this community to get me there. 🤝🏽 Bullish on @virtuals_io gVirgen 🖤",
+      "raw_text": "Started Yapping About $ROOM Yesterday and i’ve made tremendous progress. \n\nA few more Yaps and i’ll be top 25 on the @useBackroom Leaderboard. \n\nI trust this community to get me there. 🤝🏽\n\nBullish on @virtuals_io gVirgen 🖤 https://t.co/tODtCxKuY2",
+      "user": {
+        "username": "degenmanuelonx",
+        "display_name": "𝗣𝗿𝗮𝗶𝘇𝗲 ",
+        "verified": true
+      },
+      "stats": {
+        "likes": 284,
+        "retweets": 19,
+        "replies": 202,
+        "quotes": 5,
         "bookmarks": 8
       },
-      "created_at": "Thu Jun 12 09:58:21 +0000 2025",
-      "views": "37250",
-      "scraped_at": "2025-06-14 18:39:48",
+      "created_at": "Sun Jun 15 11:47:10 +0000 2025",
+      "views": "7911",
+      "scraped_at": "2025-06-16 12:26:53",
       "success": true
     },
     {
-      "url": "https://x.com/VaderResearch/status/1932539332575047975",
-      "tweet_id": "1932539332575047975",
-      "text": "$IRIS is likely gonna cook BIG at TGE. $20m. $40m. $60m. Maybe even higher. ROIs are subsequently; 100x, 200x, 300x. If you’re new to Virtuals – Once you see these price levels You’re likely gonna ape into the sell button asap Feeling you found an illegal gold mine You’re gonna end up turning $10 into $3k Proud of how smart you are that you sold fast Following 10 days there is gonna be another deal Or multiple deals you wish you had points to get into Which will provide similar ROI to its participants But you’re gonna console yourself thinking \"Well at least I took profit on $IRIS!\" A few hours or days or weeks later $IRIS is going to hit a new ATH Way higher than your exit price Then you’re gonna realize that Virtuals is different Than Pump, NFT, DeFi trenches you’re used to The name of the game here is not Who dumps first It is Hold all until one of them hits 5000x Which will compensate for all other investments Since all deals are fixed at the same entry FDV If one project hits $1bn FDV, we gucci Sounds impossible right? @aixbt_agent launched at $200k FDV in Nov 2024 Hit $900m FDV in Jan 2025 Some call it alpha or sigma We call it the VIRGEN MENTALITY We’re not after a few thousand dollars We want to hit 5000x and make generational wealth We want to become the next Sequoia But a community-driven, decentralized version of it So the best thing you can do as a new VIRGEN is HODL – or how we say in Virgenland PROTECT YOUR VIRGENITY!",
-      "raw_text": "$IRIS is likely gonna cook BIG at TGE.\n\n$20m. $40m. $60m. Maybe even higher.\n\nROIs are subsequently; 100x, 200x, 300x.\n\nIf you’re new to Virtuals –\n\nOnce you see these price levels\n\nYou’re likely gonna ape into the sell button asap\n\nFeeling you found an illegal gold mine\n\nYou’re gonna end up turning $10 into $3k\n\nProud of how smart you are that you sold fast\n\nFollowing 10 days there is gonna be another deal\n\nOr multiple deals you wish you had points to get into\n\nWhich will provide similar ROI to its participants \n\nBut you’re gonna console yourself thinking\n\n\"Well at least I took profit on $IRIS!\"\n\nA few hours or days or weeks later\n\n$IRIS is going to hit a new ATH\n\nWay higher than your exit price\n\nThen you’re gonna realize that Virtuals is different\n\nThan Pump, NFT,  DeFi trenches you’re used to\n\nThe name of the game here is not\n\nWho dumps first\n\nIt is\n\nHold all until one of them hits 5000x\n\nWhich will compensate for all other investments\n\nSince all deals are fixed at the same entry FDV\n\nIf one project hits $1bn FDV, we gucci\n\nSounds impossible right?\n\n@aixbt_agent launched at $200k FDV in Nov 2024\n\nHit $900m FDV in Jan 2025\n\nSome call it alpha or sigma\n\nWe call it the VIRGEN MENTALITY\n\nWe’re not after a few thousand dollars\n\nWe want to hit 5000x and make generational wealth\n\nWe want to become the next Sequoia\n\nBut a community-driven, decentralized version of it\n\nSo the best thing you can do as a new VIRGEN is\n\nHODL – or how we say in Virgenland\n\nPROTECT YOUR VIRGENITY!",
+      "url": "https://x.com/dilaw006/status/1934214664826589607",
+      "tweet_id": "1934214664826589607",
+      "text": "Still no @virtuals_io points for me, like everyone I guess.. But yesterday I took some time to stack a few Genesis Agent cuties: $BIOS, $IRIS, $BAIBY … All to boost my $VADER Virtuals points allocation. Hoping to hit 150,000 before $ROOM goes live 📈 Quick reminder before $ROOM launches: @useBackroom leaderboard is still live and honestly worth it! 💰 Keep trying to climb and keep collecting your yaps ( these yaps are not the same as Kaito yaps. they’re way easier.) Just post. Don’t overthink. And you? How do you boost your Virtuals points? 👀",
+      "raw_text": "Still no @virtuals_io points for me, like everyone I guess.. \n\nBut yesterday I took some time to stack a few Genesis Agent cuties: $BIOS, $IRIS, $BAIBY …\nAll to boost my $VADER Virtuals points allocation.\n\nHoping to hit 150,000 before $ROOM goes live 📈\n\nQuick reminder before $ROOM launches:\n\n@useBackroom leaderboard is still live and honestly worth it! 💰 \n\nKeep trying to climb and keep collecting your yaps ( these yaps are not the same as Kaito yaps. they’re way easier.) \n\nJust post. Don’t overthink.\n\nAnd you? How do you boost your Virtuals points? 👀",
       "user": {
-        "username": "VaderResearch",
-        "display_name": "Vader",
+        "username": "dilaw006",
+        "display_name": "Dilaw 🤌",
         "verified": true
       },
       "stats": {
-        "likes": 1547,
-        "retweets": 212,
-        "replies": 850,
-        "quotes": 193,
-        "bookmarks": 100
+        "likes": 123,
+        "retweets": 4,
+        "replies": 98,
+        "quotes": 2,
+        "bookmarks": 2
       },
-      "created_at": "Tue Jun 10 20:44:16 +0000 2025",
-      "views": "115626",
-      "scraped_at": "2025-06-14 18:39:52",
+      "created_at": "Sun Jun 15 11:41:26 +0000 2025",
+      "views": "3196",
+      "scraped_at": "2025-06-16 12:26:57",
       "success": true
     }
   ]

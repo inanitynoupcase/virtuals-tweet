@@ -1,53 +1,149 @@
 TWITTER SCRAPING RESULTS (CLEANED)
-Generated: 2025-06-14 18:39:52
-Success Rate: 6/6 (100.0%)
+Generated: 2025-06-16 12:26:57
+Success Rate: 18/18 (100.0%)
 ================================================================================
 
-[1] URL: https://x.com/VaderResearch/status/1933837953509585106
-User: @VaderResearch
-Length: 174 chars
+[1] URL: https://x.com/Cryptohitmaniac/status/1934186229182190072
+User: @Cryptohitmaniac
+Length: 475 chars
 Cleaned Text:
 ------------------------------------------------------------
-1M more $VIRGEN bought back & BURNT 🔥 Total $VIRGEN BURNT is now at 17M (1.7%) The lower the price, the more $VIRGEN BURNT There is only one $VIRGEN And it is DEFLATIONARY...
+I just got onboard @virtuals_io yesterday together with @ST33RT @Pumpbob_ and @SusanooSOL . We were totally clueless of how it works, got $10K of $VADER but stacking at virtual platform was a wrong move lol. Got 14D of jailtime for FREE to unstake and restake at Vader's platform fml 🫠 Back to @BasisOS and found out that I drop drastically #78 spots away from my previous position. Competition sure is getting tougher at $BIOS Time to grind harder and what is @useBackroom ?
 ------------------------------------------------------------
 
-[2] URL: https://x.com/NickPlaysCrypto/status/1933537876030947430
-User: @NickPlaysCrypto
-Length: 82 chars
+[2] URL: https://x.com/100xDarren/status/1934214241831330146
+User: @100xDarren
+Length: 27 chars
 Cleaned Text:
 ------------------------------------------------------------
-A nice 900k point day on one of the wallets. Stake @Vader_AI_ buy the fucking dip.
+$Vader @Vader_AI_ is strong
 ------------------------------------------------------------
 
-[3] URL: https://x.com/VaderResearch/status/1933524749344518465
-User: @VaderResearch
-Length: 414 chars
+[3] URL: https://x.com/Sovereign_Web3/status/1934217382157008936
+User: @Sovereign_Web3
+Length: 809 chars
 Cleaned Text:
 ------------------------------------------------------------
-Seems like a lot of weak hands JEETED yesterday The current Jeet Jail mechanic is insufficient You go to jeet jail regardless if you sell 1% of 1 token Or 100% of all tokens This incentivizes those who want to TP from one token To SELL IT ALL since the punishment is the same To solve this I want to reiterate the JEET HELL proposition 😈 Virgen Points are valuable Lets punish JEETERS who sell it all even HARDER 👊
+Points are the most valuable asset in the @virtuals_io ecosystem. Be aggressive spending points where you can get value, but cautious on hyped launches where points are heavily diluted. Your $ returns per point spent are more important than $ returns per $VIRTUAL spent. While you can get 100x - 1000x in terms of $VIRTUAL spent on hyped launches, most users are making very little in terms of raw dollars because they can only allocate a few $VIRTUAL tokens on the most hyped launches. For example, $IRIS gave $0.010 per a point spent. Not great, not terrible. Sure, it was a safer play because you were guaranteed to get huge returns per $VIRTUAL spent, but you also received only $0.010 per a point spent. Twelve launches gave better $ returns per a point spent, including even the recent $DUCK @appduckai.
 ------------------------------------------------------------
 
-[4] URL: https://x.com/VaderResearch/status/1933244482910314919
-User: @VaderResearch
-Length: 73 chars
+[4] URL: https://x.com/cryptopremium_/status/1934219180490051958
+User: @cryptopremium_
+Length: 102 chars
 Cleaned Text:
 ------------------------------------------------------------
-$IRIS에 함께해주신 한국 크립토 선생님들 모두 축하드립니다 딜 파이프라인은 계속해서 탄탄하고 우리 앞엔 맑은 날만 남았습니다 🫡
+I didnt eat my launch 🍗🍗 @virtuals_io i am waiting $VADER yapping points and $VIRTUAL yapping points 🫡
 ------------------------------------------------------------
 
-[5] URL: https://x.com/VaderResearch/status/1933101556989407234
-User: @VaderResearch
-Length: 181 chars
+[5] URL: https://x.com/langeriuseth/status/1934196686324379851
+User: @langeriuseth
+Length: 242 chars
 Cleaned Text:
 ------------------------------------------------------------
-Vader Yapping Day 3 - points are out We rewarded close to 1k users today Going forward, we will limit rewards to the top 1k users to avoid further dilution User your points wisely 🫡
+Staking $IRIS was a big mistake. I mean, if even I thought this, making someone from community think same is a huge failure Even if you’re going to get cooldown in next launches, selling is still much more reasonable than staking @virtuals_io
 ------------------------------------------------------------
 
-[6] URL: https://x.com/VaderResearch/status/1932539332575047975
-User: @VaderResearch
-Length: 1455 chars
+[6] URL: https://x.com/marxelinoo/status/1934212400682549442
+User: @marxelinoo
+Length: 538 chars
 Cleaned Text:
 ------------------------------------------------------------
-$IRIS is likely gonna cook BIG at TGE. $20m. $40m. $60m. Maybe even higher. ROIs are subsequently; 100x, 200x, 300x. If you’re new to Virtuals – Once you see these price levels You’re likely gonna ape into the sell button asap Feeling you found an illegal gold mine You’re gonna end up turning $10 into $3k Proud of how smart you are that you sold fast Following 10 days there is gonna be another deal Or multiple deals you wish you had points to get into Which will provide similar ROI to its participants But you’re gonna console yourself thinking "Well at least I took profit on $IRIS!" A few hours or days or weeks later $IRIS is going to hit a new ATH Way higher than your exit price Then you’re gonna realize that Virtuals is different Than Pump, NFT, DeFi trenches you’re used to The name of the game here is not Who dumps first It is Hold all until one of them hits 5000x Which will compensate for all other investments Since all deals are fixed at the same entry FDV If one project hits $1bn FDV, we gucci Sounds impossible right? @aixbt_agent launched at $200k FDV in Nov 2024 Hit $900m FDV in Jan 2025 Some call it alpha or sigma We call it the VIRGEN MENTALITY We’re not after a few thousand dollars We want to hit 5000x and make generational wealth We want to become the next Sequoia But a community-driven, decentralized version of it So the best thing you can do as a new VIRGEN is HODL – or how we say in Virgenland PROTECT YOUR VIRGENITY!
+I’ll give you this @MagicNewton alpha for free: ⤷ Magic newton agents are verifiable, autonomous programs that execute your intent onchain. ⤷ Under the hood, they run with zk + tee infra from Succinct, Risc Zero, Automata, Phala and more. ⤷ Every action taken by an agent is provable. no blind trust. no black boxes. ⤷ We’re entering a phase where users will be able to build, deploy, and even sell their agents in a real marketplace. The infra is live. Agents are live. The next phase is near. Are you ready for what’s coming this month?
+------------------------------------------------------------
+
+[7] URL: https://x.com/HaikoIvan/status/1934219054929125478
+User: @HaikoIvan
+Length: 286 chars
+Cleaned Text:
+------------------------------------------------------------
+Fellow Virgens, y’all refreshing the site like maniacs too, waiting for them sweet points? Wishing everyone to smash some new records today! While the points are still cooking, go do some alpha digging on upcoming Genesis Launches, stake some agents or 10,000 $VADER, and start yapping!
+------------------------------------------------------------
+
+[8] URL: https://x.com/AirdropFinder55/status/1934218297676812519
+User: @AirdropFinder55
+Length: 589 chars
+Cleaned Text:
+------------------------------------------------------------
+Sometimes not jeeting on your @virtuals_io Genesis allocations back fires you. I have invested around 300$ in virtuals bought some agents from market and staked them now my whole portfolio is worth around 350$ after $SOLACE and $IRIS genesis launch. $SOLACE was giving me 350$ at ATH now it's Giving me 50$ . $IRIS at ATH was giving 500$ now 150$. @ethermage lacks in communications as well trying to contact support of @virtuals_io regarding few of my transactions . No response on Telegram ( so many people just spamming and mod is inactive ) and in discord also same , Can't even enter.
+------------------------------------------------------------
+
+[9] URL: https://x.com/Hydraze420/status/1934214909027406087
+User: @Hydraze420
+Length: 739 chars
+Cleaned Text:
+------------------------------------------------------------
+There's so much noise in the info-fi space atm it's hard to know which projects to focus us. On top of that KAITO rewards creators for loyalty, meaning you ultimately get nerfed somewhat for trying to climb too many leaderboards. Focus on products that you actually use & have invested capital in. For me that means putting 99% of my content towards: @virtuals_io @katana @infinex @multibank_io Nobody wants to see the same updates about reward programs and where you are on the leaderboard in every post. We want to see what you are actually doing with those products. - How much money are you making? - What is your strategy? - How much capital are you risking? Such things actually help others make decisions and hopefully win together.
+------------------------------------------------------------
+
+[10] URL: https://x.com/Web3Pikachu/status/1934214865024864263
+User: @Web3Pikachu
+Length: 417 chars
+Cleaned Text:
+------------------------------------------------------------
+The $BAIBY launch I joined via @virtuals_io was way below my expectations. I ended up staking all my tokens (not that I had much of a choice) Now I’m shifting my focus to @BasisOS. I’ll still keep up with both, but $BIOS is definitely my main priority now. In crypto, take a pause before you quit Because the moments you feel like giving up the most… are usually when things start turning around. (Manifesting this 😇)
+------------------------------------------------------------
+
+[11] URL: https://x.com/Crypto_Zh0u/status/1934212262040121775
+User: @Crypto_Zh0u
+Length: 237 chars
+Cleaned Text:
+------------------------------------------------------------
+My thoughts on how @useBackroom can be a long term hold after you pledge your Virgen points in the @virtuals_io genesis launch If it manages to onboard all the big KOLs & sustain the interest, it could be a runner. Will you be holding? 🤔
+------------------------------------------------------------
+
+[12] URL: https://x.com/lechriss17/status/1934209197488435508
+User: @lechriss17
+Length: 436 chars
+Cleaned Text:
+------------------------------------------------------------
+Don’t complain about your wins! I’ve seen more and more people doing that lately, so disappointing. A 15x from $BAYBI is a solid profit Take it, stake it, and move on! Virtuals gives us so many opportunities, like @useBackroom and $BIOS We’re here for the 500x. The virgen community is getting stronger day by day. The plan is simple: stake $VADER and Virtuals, create good content and enjoy the ride This feels just like 2021 for NFTs.
+------------------------------------------------------------
+
+[13] URL: https://x.com/Lexibtceth/status/1934204697939960285
+User: @Lexibtceth
+Length: 275 chars
+Cleaned Text:
+------------------------------------------------------------
+Ranked top 5 on the Kaito Virtuals leaderboard today Even after consistently supporting everyone, I’m still not on your list? I post around 10 tweets a day about @virtuals_io and $VADER plus I engage with top mindshare accounts and reply back under my own posts too. gVirtual
+------------------------------------------------------------
+
+[14] URL: https://x.com/dilaw006/status/1934214664826589607
+User: @dilaw006
+Length: 546 chars
+Cleaned Text:
+------------------------------------------------------------
+Still no @virtuals_io points for me, like everyone I guess.. But yesterday I took some time to stack a few Genesis Agent cuties: $BIOS, $IRIS, $BAIBY … All to boost my $VADER Virtuals points allocation. Hoping to hit 150,000 before $ROOM goes live 📈 Quick reminder before $ROOM launches: @useBackroom leaderboard is still live and honestly worth it! 💰 Keep trying to climb and keep collecting your yaps ( these yaps are not the same as Kaito yaps. they’re way easier.) Just post. Don’t overthink. And you? How do you boost your Virtuals points? 👀
+------------------------------------------------------------
+
+[15] URL: https://x.com/0xdavid55/status/1934209734103494810
+User: @0xdavid55
+Length: 425 chars
+Cleaned Text:
+------------------------------------------------------------
+Farming airdrops across chains? Yeah, I’ve been there — bridging, swapping, waiting… it used to be a war. Then I discovered Swidging with @infinex. Now it’s fast, secure, and feels like second nature. Deposit → Swidge → Farm airdrop. No complicated UI. No bridging. No seed phrases. No unnecessary gas fees. 100% onchain. Just a smooth ride. If you’re serious about multi-chain airdrop farming, you need to try this. #Infinex
+------------------------------------------------------------
+
+[16] URL: https://x.com/TimHaldorsson/status/1934221754219839520
+User: @TimHaldorsson
+Length: 116 chars
+Cleaned Text:
+------------------------------------------------------------
+Many people thought that the Haldorsson brothers didn’t exist all three of us. So we had do to a “Proof of brothers”
+------------------------------------------------------------
+
+[17] URL: https://x.com/degenmanuelonx/status/1934216106690121836
+User: @degenmanuelonx
+Length: 217 chars
+Cleaned Text:
+------------------------------------------------------------
+Started Yapping About $ROOM Yesterday and i’ve made tremendous progress. A few more Yaps and i’ll be top 25 on the @useBackroom Leaderboard. I trust this community to get me there. 🤝🏽 Bullish on @virtuals_io gVirgen 🖤
+------------------------------------------------------------
+
+[18] URL: https://x.com/dilaw006/status/1934214664826589607
+User: @dilaw006
+Length: 546 chars
+Cleaned Text:
+------------------------------------------------------------
+Still no @virtuals_io points for me, like everyone I guess.. But yesterday I took some time to stack a few Genesis Agent cuties: $BIOS, $IRIS, $BAIBY … All to boost my $VADER Virtuals points allocation. Hoping to hit 150,000 before $ROOM goes live 📈 Quick reminder before $ROOM launches: @useBackroom leaderboard is still live and honestly worth it! 💰 Keep trying to climb and keep collecting your yaps ( these yaps are not the same as Kaito yaps. they’re way easier.) Just post. Don’t overthink. And you? How do you boost your Virtuals points? 👀
 ------------------------------------------------------------
 
