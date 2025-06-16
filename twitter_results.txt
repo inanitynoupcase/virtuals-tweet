@@ -1,0 +1,53 @@
+TWITTER SCRAPING RESULTS (CLEANED)
+Generated: 2025-06-14 18:39:52
+Success Rate: 6/6 (100.0%)
+================================================================================
+
+[1] URL: https://x.com/VaderResearch/status/1933837953509585106
+User: @VaderResearch
+Length: 174 chars
+Cleaned Text:
+------------------------------------------------------------
+1M more $VIRGEN bought back & BURNT 🔥 Total $VIRGEN BURNT is now at 17M (1.7%) The lower the price, the more $VIRGEN BURNT There is only one $VIRGEN And it is DEFLATIONARY...
+------------------------------------------------------------
+
+[2] URL: https://x.com/NickPlaysCrypto/status/1933537876030947430
+User: @NickPlaysCrypto
+Length: 82 chars
+Cleaned Text:
+------------------------------------------------------------
+A nice 900k point day on one of the wallets. Stake @Vader_AI_ buy the fucking dip.
+------------------------------------------------------------
+
+[3] URL: https://x.com/VaderResearch/status/1933524749344518465
+User: @VaderResearch
+Length: 414 chars
+Cleaned Text:
+------------------------------------------------------------
+Seems like a lot of weak hands JEETED yesterday The current Jeet Jail mechanic is insufficient You go to jeet jail regardless if you sell 1% of 1 token Or 100% of all tokens This incentivizes those who want to TP from one token To SELL IT ALL since the punishment is the same To solve this I want to reiterate the JEET HELL proposition 😈 Virgen Points are valuable Lets punish JEETERS who sell it all even HARDER 👊
+------------------------------------------------------------
+
+[4] URL: https://x.com/VaderResearch/status/1933244482910314919
+User: @VaderResearch
+Length: 73 chars
+Cleaned Text:
+------------------------------------------------------------
+$IRIS에 함께해주신 한국 크립토 선생님들 모두 축하드립니다 딜 파이프라인은 계속해서 탄탄하고 우리 앞엔 맑은 날만 남았습니다 🫡
+------------------------------------------------------------
+
+[5] URL: https://x.com/VaderResearch/status/1933101556989407234
+User: @VaderResearch
+Length: 181 chars
+Cleaned Text:
+------------------------------------------------------------
+Vader Yapping Day 3 - points are out We rewarded close to 1k users today Going forward, we will limit rewards to the top 1k users to avoid further dilution User your points wisely 🫡
+------------------------------------------------------------
+
+[6] URL: https://x.com/VaderResearch/status/1932539332575047975
+User: @VaderResearch
+Length: 1455 chars
+Cleaned Text:
+------------------------------------------------------------
+$IRIS is likely gonna cook BIG at TGE. $20m. $40m. $60m. Maybe even higher. ROIs are subsequently; 100x, 200x, 300x. If you’re new to Virtuals – Once you see these price levels You’re likely gonna ape into the sell button asap Feeling you found an illegal gold mine You’re gonna end up turning $10 into $3k Proud of how smart you are that you sold fast Following 10 days there is gonna be another deal Or multiple deals you wish you had points to get into Which will provide similar ROI to its participants But you’re gonna console yourself thinking "Well at least I took profit on $IRIS!" A few hours or days or weeks later $IRIS is going to hit a new ATH Way higher than your exit price Then you’re gonna realize that Virtuals is different Than Pump, NFT, DeFi trenches you’re used to The name of the game here is not Who dumps first It is Hold all until one of them hits 5000x Which will compensate for all other investments Since all deals are fixed at the same entry FDV If one project hits $1bn FDV, we gucci Sounds impossible right? @aixbt_agent launched at $200k FDV in Nov 2024 Hit $900m FDV in Jan 2025 Some call it alpha or sigma We call it the VIRGEN MENTALITY We’re not after a few thousand dollars We want to hit 5000x and make generational wealth We want to become the next Sequoia But a community-driven, decentralized version of it So the best thing you can do as a new VIRGEN is HODL – or how we say in Virgenland PROTECT YOUR VIRGENITY!
+------------------------------------------------------------
+
