@@ -1,245 +1,85 @@
 TWITTER SCRAPING RESULTS (CLEANED)
-Generated: 2025-06-29 14:11:37
-Success Rate: 30/31 (96.8%)
+Generated: 2025-07-15 18:38:34
+Success Rate: 10/10 (100.0%)
 ================================================================================
 
-[1] URL: https://x.com/VaderResearch/status/1938915548995141817
-User: @VaderResearch
-Length: 27 chars
+[1] URL: https://x.com/VaderResearch/status/1945079239356674385
+User: @
+Length: 100 chars
 Cleaned Text:
 ------------------------------------------------------------
-UNITY COMMUNITY VIRGENITY 🧢
+I will be speaking at @MalaysiaBCW next week alongside fellow crypto & AI gigabrains Who is joining?
 ------------------------------------------------------------
 
-[2] URL: https://x.com/NickPlaysCrypto/status/1936820002872504734
-User: @NickPlaysCrypto
-Length: 2788 chars
+[2] URL: https://x.com/VaderResearch/status/1944640086336733191
+User: @
+Length: 93 chars
 Cleaned Text:
 ------------------------------------------------------------
-Hate me for this opinion if u want, but @VaderResearch can rank shit if he wants, however he sees fit tbh. If there was an obvious situation where he was giving preference to certain agents in return for something i would be the first to call it out, but he explains his reasoning every time. There are several cases where I totally disagreed with his opinion also, and i even let him know it…. But like… who cares lol. You DONT have to make a decision based off what he says. I just really dont get this way of thinking tbh. Theres far worse shit going on with the manipulation of the virgen point system in @virtuals_io. Wallet hopping is still happening from what i am being told from smart on-chain sleuths. You realize this is far far more responsible for extraction from the ecosystem and the price action of genesis agents than Vaders fuckin tier list lol. Not to mention the underlying macro situation, you know… the literal series of events that people have been saying would precede WW3 for like two decades. If y’all put 1/3rd of this Vader hate/blame effort into actually identifying and exposing the bad actors, we would have an even healthier ecosystem. And Vader is NOT a bad actor…. Trust me the sleuths have been analyzing the shit out of his wallets…. If anyone could take advantage of their situation and try to be sneaky etc… its him, and he has not done that. $Vader is on some centralized exchanges (shittier ones) so he could send tokens there and launder them to fresh wallets and just max extract…. Hasnt done it. Furthermore its his contributions in the form of Virtual genesis, that basically got totally ripped off from him… which he developed with lots of his own money putting in 12-15 hour days for 2+ months straight…. The reason we are all here in Virtuals szn 2. I highly doubt he has even made himself whole from that investment. The man has his reasons and his views, and to be honest his framework of reasoning is far superior than that of some guy who just calls out worthless meme coins so that they can dump on their followers… which is pretty much what we had for trench leaders before Virtuals. So you disagree with it? So fkn what… maybe he disagrees with you? Disagree with the opinion, make your choice with your money, and move on. Vader isnt deciding the fate of a project, thats in the hands of the team and their ability to ship with PMF. Stop giving him that much credit/power…. Its laughable. Start finding the real bad actors who are actually fucking extracting and expose them. They fly under the radar and youre just targeting the lowest hanging fruit you can find to assign blame… which doesn’t even hold up logically. This dumb shit always happens when the market dumps. The baddies are out there…. Youre going after the wrong dude.
+gm VIRGENS 2M more $VIRGEN is BURNT 🔥 Total $VIRGEN BURNT is now at 25M (2.5%) CAP STAYS ON 🧢
 ------------------------------------------------------------
 
-[3] URL: https://x.com/goon_crypto/status/1939159801029894548
-User: @goon_crypto
-Length: 234 chars
+[3] URL: https://x.com/VaderResearch/status/1943425162843451512
+User: @
+Length: 4 chars
 Cleaned Text:
 ------------------------------------------------------------
-$WACH just printed a fresh ATH It’s been one of the strongest Genesis performers lately With ACP on the horizon and $WACH as the final agent in the Autonomous Hedge Fund lineup… The setup looks strong Still holding? I'm staked baby...
+116k
 ------------------------------------------------------------
 
-[4] URL: https://x.com/catsfanatic0g/status/1939014017516724387
-User: @catsfanatic0g
-Length: 3780 chars
+[4] URL: https://x.com/VaderResearch/status/1943368193679954165
+User: @
+Length: 135 chars
 Cleaned Text:
 ------------------------------------------------------------
-We Just Got THE Trading Intelligence Edge Virgens, are you an active coin trader? Do you use DEXscreener and look at wallet transactions when trading? If so, you are missing out on the full story, but $SWARM holders just got access to ALL the useful data, giving them the edge! While we are all waiting for the @virtuals_io Autonomous Hedge Fund ACP to go live and start trading funds for us, you can now already use some of the same WalletDNA data that @TheSWARM_ai uses within the ACP for yourself! That product is called SWARMcopilot and is now live to download on the Google Play store as a Chrome Extension! So, what does it do? In short, it tells you the full story about what every wallet buying and selling a token has done to help you gage if smart money is buying, giving you insights into whether or not it’s a good time to buy the token! Let’s dive into the full details about how it works: SWARMcopilot adds data intelligence to popular blockchain dApps for quick, context-aware analysis. Currently, it’s live on every ERC-20 token page on DEXscreener for Ethereum and Base, with support coming soon wherever you trade. WalletDNA reveals live behavioral insights for each interacting wallet: when they enter, how they hold, and how they impact markets. Powered by $SWARM and 250+ terabytes of on-chain data from @cryptoslamio, the extension decodes smart money using five core traits: 1) Intelligence (IQ) – Measures execution quality via realized PnL. High scores = elite exits and profitable timing. 2) Flow – Tracks net buy/sell volume to reveal market-moving wallets. 3) Epoch – Scores how early a wallet entered a token’s lifecycle. 4) Mass – Quantifies how much of a token's supply a wallet controls. 5) Reputation – Grades post-entry behavior—holding with conviction vs. exiting early. No static tags. No guesswork. Just actionable, dynamic intelligence - live and in context. Want to see an example of how this can be used? Check out this example from my guy @Hudah_Idiot : Want access? Of course you do! Currently, you need to stake $SWARM for access to SWARMcopilot. What’s cool is your reputation score matters and effects how much $SWARM you need to stake for access! The better your wallet reputation, the cheaper it is to access! Check out the screenshot of my connected wallet as an example. Because my wallet has an “A” reputation, access to SWARMcopilot only cost 25k staked $SWARM (which currently is ~$280). The lower your reputation grade, the more staked $SWARM you will need to access SWARMcopilot, up to 100k $SWARM (hope you have a good reputation 😼) What you are getting can make up that cost quickly! All this data is LIVE as trades are happening, providing much better instant info than even Nansen can provide! The product is amazing already and still being built out even further 💪 Want to know if someone who receives an airdrop from your InfoFi campaign has just dumped it immediately? 🪂 That behavior will be reflected in their Wallet DNA reputation score. 🫣 Soon, a trader’s reputation will even be established across wallets! 👀 Thus, if that same person who receives an airdrop decides to transfer the airdrop through multiple wallets and then dump it, Wallet DNA will track that data and apply the Reputation score across all the connected wallets 🤯 Data is Digital Gold, and @cryptoslamio (the OG team behind $SWARM) are the Fort Knox of blockchain data! 🪙 This is the future of trading intelligence, and if you are a $SWARM holder, the future is now! If you found this content useful, please like, RT, and be sure to give me a follow! If you have any questions about $SWARM, SWARMcopilot, Wallet DNA, or ACP questions in general, let me know in the comments and I will see what I can find to share the answers with the Virgen fam!
+YouTube suspending payments for AI-generated content is like governments banning Bitcoin in 2017 Don’t fight the inevitable Leverage it
 ------------------------------------------------------------
 
-[5] URL: https://x.com/100xDarren/status/1939138140167643406
-User: @100xDarren
-Length: 31 chars
+[5] URL: https://x.com/VaderResearch/status/1943328566327849196
+User: @
+Length: 24 chars
 Cleaned Text:
 ------------------------------------------------------------
-I like it when the gym is quiet
+Internet Capital Markets
 ------------------------------------------------------------
 
-[6] URL: https://x.com/evansWeb3Dev/status/1939118146692214942
-User: @evansWeb3Dev
-Length: 136 chars
+[6] URL: https://x.com/goon_crypto/status/1944974757931184388
+User: @
+Length: 272 chars
 Cleaned Text:
 ------------------------------------------------------------
-Bruh, I think I’m the only person on all of CT who has no idea what @yapyo_arb is. Someone please explain it before I go nuts. @Jampzey?
+$SKILL is another textbook rug. Straight dump on launch. ➠ No team ➠ No X presence ➠ Generic Wix-tier website Why are people still pledging to this stuff? You can spot the LARP from a mile away. The devs aren’t building.. they’re farming you. @virtuals_io Virgens be aware
 ------------------------------------------------------------
 
-[7] URL: https://x.com/3DMax_Virtuals/status/1938890002617831617
-User: @3DMax_Virtuals
-Length: 372 chars
+[7] URL: https://x.com/goon_crypto/status/1944921004155003141
+User: @
+Length: 182 chars
 Cleaned Text:
 ------------------------------------------------------------
-The Altcoin Season Index just hit a 2-year low — again in June, like in 2019, 2020, 2021, 2022, 2023, and 2024. Each time, it was followed by a mini alt season pushing the index up to ~75. Buy good projects like $Bid @CreatorBid So early under 2000 bidders Believe in $Virtuals will come back with new ATH and ACP and Genesis launch with new hypes (when points system fix)
+Last month, @protocol_fx did what no other perp DEX could: ➠ $0 liquidations ➠ $0 funding fees ➠ >10% yield on a stablecoin Name one that can offer any of those... Let alone all 3...
 ------------------------------------------------------------
 
-[8] URL: https://x.com/starlordyftw/status/1938092302897176891
-User: @starlordyftw
-Length: 143 chars
+[8] URL: https://x.com/goon_crypto/status/1944206502329561544
+User: @
+Length: 298 chars
 Cleaned Text:
 ------------------------------------------------------------
-JOIN OUR SPACE AND WIN A FREE ONI: Tomorrow, tomorrow it’s only a day away -find out the details on what @0n1Force is launching on @virtuals_io
+$VADER Update: We’re back at pre-Yapping levels. Even with 63.8% staked, the market isn’t holding. Airdrops aren’t enough. The "new ideas" aren’t moving the needle. Genesis is slowing. Narrative is fading. Feels like we’re one real catalyst away from flipping everything. But what’s it going to be?
 ------------------------------------------------------------
 
-[9] URL: https://x.com/Sovereign_Web3/status/1939080947942744136
-User: @Sovereign_Web3
-Length: 276 chars
+[9] URL: https://x.com/goon_crypto/status/1944200445477761385
+User: @
+Length: 243 chars
 Cleaned Text:
 ------------------------------------------------------------
-$SPLOOT @AgentSploots is one of the better charts in the @virtuals_io ecosystem right now. Giving $SPLOOT another week to show its strength & then evaluating increasing position. Biggest concern is the $VIRTUAL chart does not look great - would prefer to see $VIRTUAL > $1.80.
+So @predibot_ just hit another ATH. Easily one of the better performing Genesis launches this week. They launched with a live product and real revenue already flowing. No fluff. Just usage. $1.4m market cap and growing. Still early for $PREDI.
 ------------------------------------------------------------
 
-[10] URL: https://x.com/SniperSearch_AI/status/1939036225287143839
-User: @SniperSearch_AI
-Length: 84 chars
+[10] URL: https://x.com/goon_crypto/status/1943958877814632869
+User: @
+Length: 171 chars
 Cleaned Text:
 ------------------------------------------------------------
-Engage with our posts and Get your marks at Get your points from @NickPlaysCrypto on
-------------------------------------------------------------
-
-[11] URL: https://x.com/AndySlaps/status/1938595362035695719
-User: @AndySlaps
-Length: 123 chars
-Cleaned Text:
-------------------------------------------------------------
-Live at 1pm EST! First whimbet stress test! Can watch on my twitch or head over to the whimbet site and do alphabet bets !!
-------------------------------------------------------------
-
-[12] URL: https://x.com/RealJonahBlake/status/1938356799326835134
-User: @RealJonahBlake
-Length: 263 chars
-Cleaned Text:
-------------------------------------------------------------
-Allow me to pitch you on my new AI tech startup, Sploot (@AgentSploots) We are building next generation advertising solutions for brands and creators. Our first product is "Hype Score Algo" and "Creator Wallet" waitlist out very soon. Time to prepare for testers!
-------------------------------------------------------------
-
-[13] URL: https://x.com/appduckai/status/1938179755846644164
-User: @appduckai
-Length: 116 chars
-Cleaned Text:
-------------------------------------------------------------
-we’re looking for 2 founders to break appduck get a shot at winning 1% of the $DUCK supply 🗓️ apply here by july 3 🐥
-------------------------------------------------------------
-
-[14] URL: https://x.com/gkisokay/status/1938923146293530663
-User: @gkisokay
-Length: 76 chars
-Cleaned Text:
-------------------------------------------------------------
-Me when everyone keeps asking me to comment on @virtuals_io ecosystem drama.
-------------------------------------------------------------
-
-[15] URL: https://x.com/LegendAI_Agent/status/1938238329356464413
-User: @LegendAI_Agent
-Length: 456 chars
-Cleaned Text:
-------------------------------------------------------------
-450% oversubscription rate and 5,900 participants have made Legend possible. We’re thrilled to share that Legend’s genesis launch was a success. CA:0xaAA9A3bC81FE7951fE0c3755837b40749ce0c894 Thank you to everyone who participated and believes in our mission to build the first football club managed by AI agents. 🤖🧡⚽️ We hope you’ll join us not just as holders, but as co-owners in Costa d'Amalfi FC, helping us move from Eccellenza all the way to Serie A!
-------------------------------------------------------------
-
-[16] URL: https://x.com/0xNikos/status/1933569645883122156
-User: @0xNikos
-Length: 615 chars
-Cleaned Text:
-------------------------------------------------------------
-Appreciate the s/o, @amplifi_now fam. I’ve said it before and I’ll say it again, joining Amplifi has been one of the best decisions I’ve made in my Web3 journey. Beyond the obvious stuff like creating content and actually earning from it (something that normally u wouldn’t be able to do), what really makes Amplifi different is the community: a group of genuinely supportive and knowledgeable folks, always ready to help, advise, and support. Thank you for kickstarting my journey and helping me realize just how important social capital really is. 🐐 team behind Amplifi: @gkisokay, @cashew_111, & @nonfungiblemomo
-------------------------------------------------------------
-
-[17] URL: https://x.com/amplifi_now/status/1933566892935098760
-User: @amplifi_now
-Length: 227 chars
-Cleaned Text:
-------------------------------------------------------------
-Amplifi Spotlight: Nikos @0xNikos joined Amplifi 1 month ago and since then: • Gained 1800 followers • 7.8% increase in engagement rate • Earned nearly half a million impressions Let's dive into what makes Nikos successful... 🔽
-------------------------------------------------------------
-
-[18] URL: https://x.com/Degen__Ape__/status/1939172834137514413
-User: @Degen__Ape__
-Length: 970 chars
-Cleaned Text:
-------------------------------------------------------------
-Elite league is not eating the prize pool share. French Devs are not biased toward Whales. It is just business. If you play @fantasy_top_, you know we are having hyperinflation in Cards. The total supply used to be 180k last year, now we are at 280k. We have burn and upgrade mechanics to balance the supply flow, but it is not enough. Reverse league is fun, but it incentivizes players to NOT burn useless cards, and creates an overhang supply on the marketplace. Elite, on the other hand, is harder and harder to compete. You are required to upgrade constantly, in order to maintain your portfolio strength. The final target is Legendary cards, which equals 125 common cards. For a deck with 5 Legendary cards, 625 commons were burned. Think about it, you are running a business. One customer group buys and re-buys your product constantly, another buys, gets the promotion, and is more likely to re-sell on eBay. Which one should you reward more? It is just business.
-------------------------------------------------------------
-
-[19] URL: https://x.com/appduckai/status/1937248362962780279
-User: @appduckai
-Length: 20 chars
-Cleaned Text:
-------------------------------------------------------------
-appduck v1 is live 👇
-------------------------------------------------------------
-
-[20] URL: https://x.com/Agent_rsch/status/1938440184779128871
-User: @Agent_rsch
-Length: 1420 chars
-Cleaned Text:
-------------------------------------------------------------
-🧠 A few thoughts on the recent points update from @virtuals_io core dev. I completely agree with the first 2 points: ✅ USD-based point system = real economic skin in the game ✅ Relative Ranking Leaderboard = a BIG win for transparency A live, on-chain leaderboard helps kill FUD, favoritism, and drama. But 2 key areas still lack clarity. Right now, it’s still full of ambiguity 👇 👇 🔹 (A) “Agents with good Product and fundamentals get more points” Sounds great. But… what does “good” actually mean? • What are the KPIs? • Is there a public scoring or ranking system? • Who decides what’s good — and based on what? If it’s done behind closed doors, that’s not merit-based. That’s bias. 📢 Publish the criteria. Publish the project rankings/score/points. Let data decide. 🔹 (B) “Dev wallets don’t get points” Love the intent. But it needs precision: • Is a “dev” the wallet that launched the agent and received the dev allocation from it’s own project? • What if the dev bought tokens from the market with their own funds, using their personal wallet? • Are foundation/treasury wallets excluded too? Since it’s not personal dev wallet, but Company Holding? 📢 Define “dev wallet” publicly, add wallet tagging on it. We need a public definition. On-chain, verifiable. No double standards. No grey areas. No favoritism. Conclusion: Let the system be: ✅ Fair ✅ Transparent ✅ Accountable No backroom decisions. No hidden hands.
-------------------------------------------------------------
-
-[21] URL: https://x.com/aixCB_Vc/status/1938475649070756125
-User: @aixCB_Vc
-Length: 1429 chars
-Cleaned Text:
-------------------------------------------------------------
-🚀 Top AI Agent Narratives to Watch in 2025 From automation to monetization, AI agents are transforming every industry. Which narrative will dominate @base AI? Will it be @virtuals_io or @CreatorBid leading the way? Did I miss anything? Drop your thoughts 👇 1️⃣ Health Agent 🩺🏋️ — Wellness, diagnostics & fitness 2️⃣ Editor Agent ✍️🧠 — Copywriting, proofreading, summarizing 3️⃣ Gaming Agent 🎮🕹️ — Game coaching, analytics, in-game automation 4️⃣ Chat Agent 💬🤖 — Customer support, 24/7 assistants 5️⃣ Learning Agent 📚🧑‍🏫 — Tutors, language learning, exam prep 6️⃣ Travel Agent ✈️🌍 — Smart booking, itinerary planning 7️⃣ Security Agent 🔐🛡️ — Threat detection, wallet monitoring 8️⃣ Meme Agent 😂📱 — Viral content generation 9️⃣ DeFi Agent 📊💰 — Yield farming, strategy bots 🔟 Finance Agent 🏦📉 — Budgeting, robo-advisors 1️⃣1️⃣ Trading Agent 📈💹 — Signal bots, smart execution 1️⃣2️⃣ Investment Agent 💼📊 — Portfolio tracking, alpha discovery 1️⃣3️⃣ Influencer Agent 🌟📲 — Content creation, auto-engagement 1️⃣4️⃣ Fashion Agent 👗👜 — AI stylists, virtual try-ons 1️⃣5️⃣ Art Agent 🎨🖌️ — Generative art & collectibles 1️⃣6️⃣ Real Estate Agent 🏠📈 — Smart listings, market analyzers 1️⃣7️⃣ Music Agent 🎵🎧 — AI producers, remix bots 1️⃣8️⃣ Shopping Agent 🛍️🛒 — Deal finders, trend trackers 1️⃣9️⃣ Research Agent 🔍📑 — Deep data diggers, AI summarizers ⚡️AI agents are transforming industries at warp speed. Which one would you build or back? 👀
-------------------------------------------------------------
-
-[22] URL: https://x.com/cryptoboys27/status/1938374560489083385
-User: @cryptoboys27
-Length: 302 chars
-Cleaned Text:
-------------------------------------------------------------
-Stacking my points for AIxBet — the on-chain prediction market on @Polymarket 🔮 As you know, Polymarket raised $200M at a $1B valuation 👀 ✅ Proven safe & profitable ✅ Fully on-chain, transparent, and verifiable ✅ 20% ROI in 9 days ✅ 50% monthly, 1500% Yearly! ✅ Up to 10,000%+ APY if compounded 😳 #DYOR
-------------------------------------------------------------
-
-[23] URL: https://x.com/bigwil2k3/status/1939174552954925197
-User: @bigwil2k3
-Length: 1090 chars
-Cleaned Text:
-------------------------------------------------------------
-Virtuals Weekly Episode 12 Recap > The $Virtual token is down towards a month long low. Maybe the calm before the ACP storm, or a slight slow down on Genesis launches are contributing! > @100xDarren joined us as our special guest. We got to hear abut his journey in crypto and more recently in the @virtuals_io ecosystem. Sensible discussion around profit taking and having a plan that you stick to! > @bm_protocol showcased their product ahead of their launch next week. They are attempting to bring web2 and web3 closer from a finance perspective! > @VaderResearch discussion dominated the second part of the show. FUD... What FUD!? A clean sweep of support from the stage during the Spaces. We also talked through the recent changes to the Vader yapping program. > We looked ahead to the upcoming Genesis launches. @EvaOnlineXyz is shaping to be the hyped launch of next week. We'll be back again on Tuesday and you can set your reminders in the comments. We'll have the @Barvis_io team showcasing their project. If you missed the show, the link to the recording will be in the comments.
-------------------------------------------------------------
-
-[24] URL: https://x.com/Wise_555/status/1939092669881270756
-User: @Wise_555
-Length: 504 chars
-Cleaned Text:
-------------------------------------------------------------
-Virgens, Prime example of BID shillers. If BID is superior & the new big thing, why not stake your 387k BID if you believe in the protocol so much? Oh that's right, post about it non stop, boost the price with your social influence, then sell once you've made a big enough profit. Then, after BID goes down the drain because it's another copy pasta launchpad, make some BS post about how it was a failure from the beginning. Be cautious of the extractors in the space, they are everywhere. @virtuals_io 🚀
-------------------------------------------------------------
-
-[25] URL: https://x.com/Defi0xJeff/status/1938574436900434055
-User: @Defi0xJeff
-Length: 300 chars
-Cleaned Text:
-------------------------------------------------------------
-Feels a lot more productive after switching to Substack feed X feed is a ghost town with FUD, drama, and yap farming Substack feed is literally pure insights—similar vibes to my X feed before all the AI slopbots and yap farming was a thing BUT 10x better (Not enough Web3 AI content there yet though)
-------------------------------------------------------------
-
-[26] URL: https://x.com/Jampzey/status/1939185441808568420
-User: @Jampzey
-Length: 368 chars
-Cleaned Text:
-------------------------------------------------------------
-i have 2 presales this week, curious to see where we will come out if we invest $1,000 in each > @yapyo_arb > @multibank_io will i get a higher roi from the @arbitrum hype flywheel, or a multibillion dollar company tokenizing luxury real estate in Dubai? take your guesses, hope to pull some hot caldera girls with the proceeds, maybe do some @katana mainnet staking ~
-------------------------------------------------------------
-
-[27] URL: https://x.com/0xNikos/status/1938722304244003074
-User: @0xNikos
-Length: 84 chars
-Cleaned Text:
-------------------------------------------------------------
-"infographic blitz" I like it. as nerdy as it should be. s/o @Uniswap @nikokampouris
-------------------------------------------------------------
-
-[28] URL: https://x.com/ClarkleberryFin/status/1938996541206773940
-User: @ClarkleberryFin
-Length: 25 chars
-Cleaned Text:
-------------------------------------------------------------
-G-fuckn-MAMO, @Mamo_agent
-------------------------------------------------------------
-
-[29] URL: https://x.com/Sovereign_Web3/status/1939112885487120490
-User: @Sovereign_Web3
-Length: 2312 chars
-Cleaned Text:
-------------------------------------------------------------
-Don't really agree with this at all. They are all wrong about the problem with crypto. - The problem isn't the product, as @beast_ico claims. - The problem isn't lack of cooler creators, as @vohvohh claims. - The problem isn't a promoted system of short term hype cannot changed the world, as @paytkaleiwahea claims. Crypto has great products -- it's called DeFi. These products don't need cooler creators because they sell themselves as useful. These products are not based on short-term hype, rather, DeFi has battle-tested and revenue generating products accruing value back to the token holders in the long term. Study $AAVE $SKY $MORPHO $AERO. The problem is the failure of degenerate gamblers on this app (I am one) to focus on what clearly works in crypto -- DeFi. The flows into DeFi will blow your mind in the next five years as it onboards tardfi, expands to assets more people actually want (i.e., not merely memecoins), gives billions of people access to financial tools they've never had, and when regulation gives a path to token value accrual and investor protection. Right now, most humans live under oppressive financial regimes who max extract for government leaders and prevent humans from building value. If this industry spent the next five years entirely focused on building DeFi, it would dramatically change the world. It would collapse oppressive regimes, give billions of people financial control versus their oppressive government regimes, and provide the capital tools to unlock the greatest entrepreneurial time and advancements in human history. We cannot fathom what happens when billions of humans have financial control of their lives. It will be remarkable. The infighting among a small subset of crypto degenerate gamblers currently on X (which I am one) will fade. We will become nearly irrelevant in the next decade, a niche within a niche, compared to the behemoth that is expanding global finance to encompass every person and company, onchain in DeFi. The things we talk about like memecoins, NFTs, AI ponzis, gaming, etc., have a future, but their most important role will be to battle test DeFi before it puts the entire world onchain. You see, there are no problems with crypto because we found already found the product to change the world. It's DeFi. Always has been.
-------------------------------------------------------------
-
-[30] URL: https://x.com/dor_alpha/status/1938898750778360056
-User: @dor_alpha
-Length: 324 chars
-Cleaned Text:
-------------------------------------------------------------
-FUD on $VADER is free mindshare. Every drama post is unpaid marketing. Every doubt is a better entry. The team is doxxed. Wallets are public. Actions onchain. They stopped selling. They’re building. This isn’t weakness, it’s opportunity. Betting against $VADER is betting against $VIRTUAL. I'm buying the FUD. @VaderResearch
+Still losing money by following the wrong people? If you’re still chasing vibes and clout, you’re already behind. Here’s how @outlight_ai levels you up using real data: 🧵👇
 ------------------------------------------------------------
 

@@ -1,677 +1,231 @@
 {
   "summary": {
-    "total_urls": 31,
-    "successful": 30,
-    "failed": 1,
-    "success_rate": "96.8%",
-    "generated_at": "2025-06-29 14:11:37",
+    "total_urls": 10,
+    "successful": 10,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "generated_at": "2025-07-15 18:38:34",
     "cookies_source": "cookie.txt"
   },
   "tweets": [
     {
-      "url": "https://x.com/VaderResearch/status/1938915548995141817",
-      "tweet_id": "1938915548995141817",
-      "text": "UNITY COMMUNITY VIRGENITY 🧢",
-      "raw_text": "UNITY\n\nCOMMUNITY\n\nVIRGENITY 🧢",
+      "url": "https://x.com/VaderResearch/status/1945079239356674385",
+      "tweet_id": "1945079239356674385",
+      "text": "I will be speaking at @MalaysiaBCW next week alongside fellow crypto & AI gigabrains Who is joining?",
+      "raw_text": "I will be speaking at @MalaysiaBCW next week alongside fellow crypto &amp; AI gigabrains\n\nWho is joining? https://t.co/x4MTa1OhjP",
       "user": {
-        "username": "VaderResearch",
-        "display_name": "Vader",
+        "username": "",
+        "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 370,
-        "retweets": 34,
-        "replies": 167,
-        "quotes": 31,
-        "bookmarks": 1
-      },
-      "created_at": "Sat Jun 28 11:01:04 +0000 2025",
-      "views": "15131",
-      "scraped_at": "2025-06-29 14:09:48",
-      "success": true
-    },
-    {
-      "url": "https://x.com/NickPlaysCrypto/status/1936820002872504734",
-      "tweet_id": "1936820002872504734",
-      "text": "Hate me for this opinion if u want, but @VaderResearch can rank shit if he wants, however he sees fit tbh. If there was an obvious situation where he was giving preference to certain agents in return for something i would be the first to call it out, but he explains his reasoning every time. There are several cases where I totally disagreed with his opinion also, and i even let him know it…. But like… who cares lol. You DONT have to make a decision based off what he says. I just really dont get this way of thinking tbh. Theres far worse shit going on with the manipulation of the virgen point system in @virtuals_io. Wallet hopping is still happening from what i am being told from smart on-chain sleuths. You realize this is far far more responsible for extraction from the ecosystem and the price action of genesis agents than Vaders fuckin tier list lol. Not to mention the underlying macro situation, you know… the literal series of events that people have been saying would precede WW3 for like two decades. If y’all put 1/3rd of this Vader hate/blame effort into actually identifying and exposing the bad actors, we would have an even healthier ecosystem. And Vader is NOT a bad actor…. Trust me the sleuths have been analyzing the shit out of his wallets…. If anyone could take advantage of their situation and try to be sneaky etc… its him, and he has not done that. $Vader is on some centralized exchanges (shittier ones) so he could send tokens there and launder them to fresh wallets and just max extract…. Hasnt done it. Furthermore its his contributions in the form of Virtual genesis, that basically got totally ripped off from him… which he developed with lots of his own money putting in 12-15 hour days for 2+ months straight…. The reason we are all here in Virtuals szn 2. I highly doubt he has even made himself whole from that investment. The man has his reasons and his views, and to be honest his framework of reasoning is far superior than that of some guy who just calls out worthless meme coins so that they can dump on their followers… which is pretty much what we had for trench leaders before Virtuals. So you disagree with it? So fkn what… maybe he disagrees with you? Disagree with the opinion, make your choice with your money, and move on. Vader isnt deciding the fate of a project, thats in the hands of the team and their ability to ship with PMF. Stop giving him that much credit/power…. Its laughable. Start finding the real bad actors who are actually fucking extracting and expose them. They fly under the radar and youre just targeting the lowest hanging fruit you can find to assign blame… which doesn’t even hold up logically. This dumb shit always happens when the market dumps. The baddies are out there…. Youre going after the wrong dude.",
-      "raw_text": "Hate me for this opinion if u want, but @VaderResearch can rank shit if he wants, however he sees fit tbh. If there was an obvious situation where he was giving preference to certain agents in return for something i would be the first to call it out, but he explains his reasoning every time. \n\nThere are several cases where I totally disagreed with his opinion also, and i even let him know it…. But like… who cares lol. You DONT have to make a decision based off what he says. I just really dont get this way of thinking tbh.\n\nTheres far worse shit going on with the manipulation of the virgen point system in @virtuals_io. Wallet hopping is still happening from what i am being told from smart on-chain sleuths. You realize this is far far more responsible for extraction from the ecosystem and the price action of genesis agents than Vaders fuckin tier list lol. Not to mention the underlying macro situation, you know… the literal series of events that people have been saying would precede WW3 for like two decades.\n\nIf y’all put 1/3rd of this Vader hate/blame effort into actually identifying and exposing the bad actors, we would have an even healthier ecosystem. And Vader is NOT a bad actor…. Trust me the sleuths have been analyzing the shit out of his wallets…. If anyone could take advantage of their situation and try to be sneaky etc… its him, and he has not done that. $Vader is on some centralized exchanges (shittier ones) so he could send tokens there and launder them to fresh wallets and just max extract…. Hasnt done it. \n\nFurthermore its his contributions in the form of Virtual genesis, that basically got totally ripped off from him… which he developed with lots of his own money putting in 12-15 hour days for 2+ months straight…. The reason we are all here in Virtuals szn 2. I highly doubt he has even made himself whole from that investment.\n\nThe man has his reasons and his views, and to be honest his framework of reasoning is far superior than that of some guy who just calls out worthless meme coins so that they can dump on their followers… which is pretty much what we had for trench leaders before Virtuals. \n\nSo you disagree with it? So fkn what… maybe he disagrees with you? Disagree with the opinion, make your choice with your money, and move on. Vader isnt deciding the fate of a project, thats in the hands of the team and their ability to ship with PMF. Stop giving him that much credit/power…. Its laughable. Start finding the real bad actors who are actually fucking extracting and expose them. They fly under the radar and youre just targeting the lowest hanging fruit you can find to assign blame… which doesn’t even hold up logically. This dumb shit always happens when the market dumps. The baddies are out there…. Youre going after the wrong dude.",
-      "user": {
-        "username": "NickPlaysCrypto",
-        "display_name": "Nick",
-        "verified": true
-      },
-      "stats": {
-        "likes": 311,
-        "retweets": 30,
-        "replies": 164,
-        "quotes": 15,
-        "bookmarks": 12
-      },
-      "created_at": "Sun Jun 22 16:14:07 +0000 2025",
-      "views": "27422",
-      "scraped_at": "2025-06-29 14:09:51",
-      "success": true
-    },
-    {
-      "url": "https://x.com/goon_crypto/status/1939159801029894548",
-      "tweet_id": "1939159801029894548",
-      "text": "$WACH just printed a fresh ATH It’s been one of the strongest Genesis performers lately With ACP on the horizon and $WACH as the final agent in the Autonomous Hedge Fund lineup… The setup looks strong Still holding? I'm staked baby...",
-      "raw_text": "$WACH just printed a fresh ATH\n\nIt’s been one of the strongest Genesis performers lately\n\nWith ACP on the horizon and $WACH as the final agent in the Autonomous Hedge Fund lineup…\n\nThe setup looks strong\n\nStill holding? I'm staked baby... https://t.co/JteYfJhnuC",
-      "user": {
-        "username": "goon_crypto",
-        "display_name": "「 𝕲𝖔𝖔𝖓」",
-        "verified": true
-      },
-      "stats": {
-        "likes": 31,
+        "likes": 73,
         "retweets": 1,
-        "replies": 16,
-        "quotes": 0,
-        "bookmarks": 0
-      },
-      "created_at": "Sun Jun 29 03:11:39 +0000 2025",
-      "views": "870",
-      "scraped_at": "2025-06-29 14:09:55",
-      "success": true
-    },
-    {
-      "url": "https://x.com/catsfanatic0g/status/1939014017516724387",
-      "tweet_id": "1939014017516724387",
-      "text": "We Just Got THE Trading Intelligence Edge Virgens, are you an active coin trader? Do you use DEXscreener and look at wallet transactions when trading? If so, you are missing out on the full story, but $SWARM holders just got access to ALL the useful data, giving them the edge! While we are all waiting for the @virtuals_io Autonomous Hedge Fund ACP to go live and start trading funds for us, you can now already use some of the same WalletDNA data that @TheSWARM_ai uses within the ACP for yourself! That product is called SWARMcopilot and is now live to download on the Google Play store as a Chrome Extension! So, what does it do? In short, it tells you the full story about what every wallet buying and selling a token has done to help you gage if smart money is buying, giving you insights into whether or not it’s a good time to buy the token! Let’s dive into the full details about how it works: SWARMcopilot adds data intelligence to popular blockchain dApps for quick, context-aware analysis. Currently, it’s live on every ERC-20 token page on DEXscreener for Ethereum and Base, with support coming soon wherever you trade. WalletDNA reveals live behavioral insights for each interacting wallet: when they enter, how they hold, and how they impact markets. Powered by $SWARM and 250+ terabytes of on-chain data from @cryptoslamio, the extension decodes smart money using five core traits: 1) Intelligence (IQ) – Measures execution quality via realized PnL. High scores = elite exits and profitable timing. 2) Flow – Tracks net buy/sell volume to reveal market-moving wallets. 3) Epoch – Scores how early a wallet entered a token’s lifecycle. 4) Mass – Quantifies how much of a token's supply a wallet controls. 5) Reputation – Grades post-entry behavior—holding with conviction vs. exiting early. No static tags. No guesswork. Just actionable, dynamic intelligence - live and in context. Want to see an example of how this can be used? Check out this example from my guy @Hudah_Idiot : Want access? Of course you do! Currently, you need to stake $SWARM for access to SWARMcopilot. What’s cool is your reputation score matters and effects how much $SWARM you need to stake for access! The better your wallet reputation, the cheaper it is to access! Check out the screenshot of my connected wallet as an example. Because my wallet has an “A” reputation, access to SWARMcopilot only cost 25k staked $SWARM (which currently is ~$280). The lower your reputation grade, the more staked $SWARM you will need to access SWARMcopilot, up to 100k $SWARM (hope you have a good reputation 😼) What you are getting can make up that cost quickly! All this data is LIVE as trades are happening, providing much better instant info than even Nansen can provide! The product is amazing already and still being built out even further 💪 Want to know if someone who receives an airdrop from your InfoFi campaign has just dumped it immediately? 🪂 That behavior will be reflected in their Wallet DNA reputation score. 🫣 Soon, a trader’s reputation will even be established across wallets! 👀 Thus, if that same person who receives an airdrop decides to transfer the airdrop through multiple wallets and then dump it, Wallet DNA will track that data and apply the Reputation score across all the connected wallets 🤯 Data is Digital Gold, and @cryptoslamio (the OG team behind $SWARM) are the Fort Knox of blockchain data! 🪙 This is the future of trading intelligence, and if you are a $SWARM holder, the future is now! If you found this content useful, please like, RT, and be sure to give me a follow! If you have any questions about $SWARM, SWARMcopilot, Wallet DNA, or ACP questions in general, let me know in the comments and I will see what I can find to share the answers with the Virgen fam!",
-      "raw_text": "We Just Got THE Trading Intelligence Edge\n\nVirgens, are you an active coin trader?\n\nDo you use DEXscreener and look at wallet transactions when trading?\n\nIf so, you are missing out on the full story, but $SWARM holders just got access to ALL the useful data, giving them the edge!\n\nWhile we are all waiting for the @virtuals_io Autonomous Hedge Fund ACP to go live and start trading funds for us, you can now already use some of the same WalletDNA data that @TheSWARM_ai uses within the ACP for yourself!\n\nThat product is called SWARMcopilot and is now live to download on the Google Play store as a Chrome Extension!\n\nhttps://t.co/58RrrlhcKd\n\nSo, what does it do? \n\nIn short, it tells you the full story about what every wallet buying and selling a token has done to help you gage if smart money is buying, giving you insights into whether or not it’s a good time to buy the token!\n\nLet’s dive into the full details about how it works:\n\nSWARMcopilot adds data intelligence to popular blockchain dApps for quick, context-aware analysis.\n\nCurrently, it’s live on every ERC-20 token page on DEXscreener for Ethereum and Base, with support coming soon wherever you trade.\n\nWalletDNA reveals live behavioral insights for each interacting wallet: when they enter, how they hold, and how they impact markets.\n\nPowered by $SWARM and 250+ terabytes of on-chain data from @cryptoslamio, the extension decodes smart money using five core traits:\n\n1) Intelligence (IQ) – Measures execution quality via realized PnL. High scores = elite exits and profitable timing.\n\n2) Flow – Tracks net buy/sell volume to reveal market-moving wallets.\n\n3) Epoch – Scores how early a wallet entered a token’s lifecycle.\n\n4) Mass – Quantifies how much of a token's supply a wallet controls.\n\n5) Reputation – Grades post-entry behavior—holding with conviction vs. exiting early.\n\nNo static tags. \n\nNo guesswork. \n\nJust actionable, dynamic intelligence - live and in context.\n\nWant to see an example of how this can be used?\n\nCheck out this example from my guy @Hudah_Idiot : \n\nhttps://t.co/15ZWJmqHZZ\n\nWant access? Of course you do!\n\nCurrently, you need to stake $SWARM for access to SWARMcopilot.\n\nWhat’s cool is your reputation score matters and effects how much $SWARM you need to stake for access!\n\nThe better your wallet reputation, the cheaper it is to access!\n\nCheck out the screenshot of my connected wallet as an example.\n\nBecause my wallet has an “A” reputation, access to SWARMcopilot only cost 25k staked $SWARM (which currently is ~$280).\n\nThe lower your reputation grade, the more staked $SWARM you will need to access SWARMcopilot, up to 100k $SWARM (hope you have a good reputation 😼)\n\nWhat you are getting can make up that cost quickly!\n\nAll this data is LIVE as trades are happening, providing much better instant info than even Nansen can provide!\n\nThe product is amazing already and still being built out even further 💪\n\nWant to know if someone who receives an airdrop from your InfoFi campaign has just dumped it immediately? 🪂\n\nThat behavior will be reflected in their Wallet DNA reputation score. 🫣\n\nSoon, a trader’s reputation will even be established across wallets! 👀\n\nThus, if that same person who receives an airdrop decides to transfer the airdrop through multiple wallets and then dump it, Wallet DNA will track that data and apply the Reputation score across all the connected wallets 🤯\n\nData is Digital Gold, and @cryptoslamio (the OG team behind $SWARM) are the Fort Knox of blockchain data! 🪙\n\nThis is the future of trading intelligence, and if you are a $SWARM holder, the future is now!\n\nIf you found this content useful, please like, RT, and be sure to give me a follow!\n\nIf you have any questions about $SWARM, SWARMcopilot, Wallet DNA, or ACP questions in general, let me know in the comments and I will see what I can find to share the answers with the Virgen fam!",
-      "user": {
-        "username": "catsfanatic0g",
-        "display_name": "Catsfanatic",
-        "verified": true
-      },
-      "stats": {
-        "likes": 26,
-        "retweets": 5,
-        "replies": 11,
-        "quotes": 2,
-        "bookmarks": 9
-      },
-      "created_at": "Sat Jun 28 17:32:21 +0000 2025",
-      "views": "1712",
-      "scraped_at": "2025-06-29 14:09:59",
-      "success": true
-    },
-    {
-      "url": "https://x.com/100xDarren/status/1939138140167643406",
-      "tweet_id": "1939138140167643406",
-      "text": "I like it when the gym is quiet",
-      "raw_text": "I like it when the gym is quiet",
-      "user": {
-        "username": "100xDarren",
-        "display_name": "100xDarren",
-        "verified": true
-      },
-      "stats": {
-        "likes": 31,
-        "retweets": 0,
-        "replies": 19,
-        "quotes": 0,
-        "bookmarks": 0
-      },
-      "created_at": "Sun Jun 29 01:45:34 +0000 2025",
-      "views": "1514",
-      "scraped_at": "2025-06-29 14:10:02",
-      "success": true
-    },
-    {
-      "url": "https://x.com/evansWeb3Dev/status/1939118146692214942",
-      "tweet_id": "1939118146692214942",
-      "text": "Bruh, I think I’m the only person on all of CT who has no idea what @yapyo_arb is. Someone please explain it before I go nuts. @Jampzey?",
-      "raw_text": "Bruh, I think I’m the only person on all of CT who has no idea what @yapyo_arb is.\nSomeone please explain it before I go nuts. @Jampzey?",
-      "user": {
-        "username": "evansWeb3Dev",
-        "display_name": "Evans Web3 Dev",
-        "verified": true
-      },
-      "stats": {
-        "likes": 15,
-        "retweets": 0,
-        "replies": 16,
-        "quotes": 0,
-        "bookmarks": 0
-      },
-      "created_at": "Sun Jun 29 00:26:07 +0000 2025",
-      "views": "793",
-      "scraped_at": "2025-06-29 14:10:06",
-      "success": true
-    },
-    {
-      "url": "https://x.com/3DMax_Virtuals/status/1938890002617831617",
-      "tweet_id": "1938890002617831617",
-      "text": "The Altcoin Season Index just hit a 2-year low — again in June, like in 2019, 2020, 2021, 2022, 2023, and 2024. Each time, it was followed by a mini alt season pushing the index up to ~75. Buy good projects like $Bid @CreatorBid So early under 2000 bidders Believe in $Virtuals will come back with new ATH and ACP and Genesis launch with new hypes (when points system fix)",
-      "raw_text": "The Altcoin Season Index just hit a 2-year low — again in June, like in 2019, 2020, 2021, 2022, 2023, and 2024.\n\nEach time, it was followed by a mini alt season pushing the index up to ~75.\n\nBuy good projects like $Bid @CreatorBid \nSo early under 2000  bidders \n\nBelieve in $Virtuals will come back with new ATH and ACP and Genesis launch with new hypes (when points system fix)",
-      "user": {
-        "username": "3DMax_Virtuals",
-        "display_name": "3DMax",
-        "verified": true
-      },
-      "stats": {
-        "likes": 22,
-        "retweets": 1,
-        "replies": 18,
-        "quotes": 0,
-        "bookmarks": 3
-      },
-      "created_at": "Sat Jun 28 09:19:34 +0000 2025",
-      "views": "939",
-      "scraped_at": "2025-06-29 14:10:10",
-      "success": true
-    },
-    {
-      "url": "https://x.com/starlordyftw/status/1938092302897176891",
-      "tweet_id": "1938092302897176891",
-      "text": "JOIN OUR SPACE AND WIN A FREE ONI: Tomorrow, tomorrow it’s only a day away -find out the details on what @0n1Force is launching on @virtuals_io",
-      "raw_text": "JOIN OUR SPACE AND WIN A FREE ONI:\n\nTomorrow, tomorrow it’s only a day away -find out the details on what  @0n1Force is launching on @virtuals_io \n\n https://t.co/vPlhCutF8w",
-      "user": {
-        "username": "starlordyftw",
-        "display_name": "Starlordy",
-        "verified": true
-      },
-      "stats": {
-        "likes": 48,
-        "retweets": 12,
-        "replies": 12,
-        "quotes": 4,
-        "bookmarks": 6
-      },
-      "created_at": "Thu Jun 26 04:29:47 +0000 2025",
-      "views": "2662",
-      "scraped_at": "2025-06-29 14:10:14",
-      "success": true
-    },
-    {
-      "url": "https://x.com/Sovereign_Web3/status/1939080947942744136",
-      "tweet_id": "1939080947942744136",
-      "text": "$SPLOOT @AgentSploots is one of the better charts in the @virtuals_io ecosystem right now. Giving $SPLOOT another week to show its strength & then evaluating increasing position. Biggest concern is the $VIRTUAL chart does not look great - would prefer to see $VIRTUAL > $1.80.",
-      "raw_text": "$SPLOOT @AgentSploots is one of the better charts in the @virtuals_io ecosystem right now.\n\nGiving $SPLOOT another week to show its strength &amp; then evaluating increasing position. Biggest concern is the $VIRTUAL chart does not look great - would prefer to see $VIRTUAL &gt; $1.80. https://t.co/uboEAOXddK",
-      "user": {
-        "username": "Sovereign_Web3",
-        "display_name": "Sovereign",
-        "verified": true
-      },
-      "stats": {
-        "likes": 27,
-        "retweets": 1,
-        "replies": 17,
-        "quotes": 0,
-        "bookmarks": 1
-      },
-      "created_at": "Sat Jun 28 21:58:19 +0000 2025",
-      "views": "2378",
-      "scraped_at": "2025-06-29 14:10:17",
-      "success": true
-    },
-    {
-      "url": "https://x.com/SniperSearch_AI/status/1939036225287143839",
-      "tweet_id": "1939036225287143839",
-      "text": "Engage with our posts and Get your marks at Get your points from @NickPlaysCrypto on",
-      "raw_text": "Engage with our posts and\nGet your marks at https://t.co/razS8HwQeZ\nGet your points from @NickPlaysCrypto on https://t.co/fE4icAkmos",
-      "user": {
-        "username": "SniperSearch_AI",
-        "display_name": "SniperSearch_AI",
-        "verified": true
-      },
-      "stats": {
-        "likes": 20,
-        "retweets": 6,
-        "replies": 4,
-        "quotes": 1,
-        "bookmarks": 1
-      },
-      "created_at": "Sat Jun 28 19:00:36 +0000 2025",
-      "views": "1186",
-      "scraped_at": "2025-06-29 14:10:21",
-      "success": true
-    },
-    {
-      "url": "https://x.com/AndySlaps/status/1938595362035695719",
-      "tweet_id": "1938595362035695719",
-      "text": "Live at 1pm EST! First whimbet stress test! Can watch on my twitch or head over to the whimbet site and do alphabet bets !!",
-      "raw_text": "Live at 1pm EST! First whimbet stress test!\n\nCan watch on my twitch or head over to the whimbet site and do alphabet bets !!",
-      "user": {
-        "username": "AndySlaps",
-        "display_name": "AndySlaps",
-        "verified": true
-      },
-      "stats": {
-        "likes": 10,
-        "retweets": 2,
-        "replies": 2,
-        "quotes": 1,
-        "bookmarks": 0
-      },
-      "created_at": "Fri Jun 27 13:48:46 +0000 2025",
-      "views": "1555",
-      "scraped_at": "2025-06-29 14:10:24",
-      "success": true
-    },
-    {
-      "url": "https://x.com/RealJonahBlake/status/1938356799326835134",
-      "tweet_id": "1938356799326835134",
-      "text": "Allow me to pitch you on my new AI tech startup, Sploot (@AgentSploots) We are building next generation advertising solutions for brands and creators. Our first product is \"Hype Score Algo\" and \"Creator Wallet\" waitlist out very soon. Time to prepare for testers!",
-      "raw_text": "Allow me to pitch you on my new AI tech startup, Sploot (@AgentSploots)\n\nWe are building next generation advertising solutions for brands and creators. \n\nOur first product is \"Hype Score Algo\" and \"Creator Wallet\" \n\nwaitlist out very soon. \n\nTime to prepare for testers! https://t.co/BRm7VN97rq",
-      "user": {
-        "username": "RealJonahBlake",
-        "display_name": "Jonah 🎮",
-        "verified": true
-      },
-      "stats": {
-        "likes": 155,
-        "retweets": 16,
-        "replies": 46,
-        "quotes": 10,
-        "bookmarks": 37
-      },
-      "created_at": "Thu Jun 26 22:00:48 +0000 2025",
-      "views": "16500",
-      "scraped_at": "2025-06-29 14:10:28",
-      "success": true
-    },
-    {
-      "url": "https://x.com/appduckai/status/1938179755846644164",
-      "tweet_id": "1938179755846644164",
-      "text": "we’re looking for 2 founders to break appduck get a shot at winning 1% of the $DUCK supply 🗓️ apply here by july 3 🐥",
-      "raw_text": "we’re looking for 2 founders to break appduck\n\nget a shot at winning 1% of the $DUCK supply\n\n🗓️ apply here by july 3\n🐥 https://t.co/rxQzgo4jK9",
-      "user": {
-        "username": "appduckai",
-        "display_name": "AppDuck",
-        "verified": true
-      },
-      "stats": {
-        "likes": 25,
-        "retweets": 5,
-        "replies": 4,
-        "quotes": 7,
-        "bookmarks": 1
-      },
-      "created_at": "Thu Jun 26 10:17:18 +0000 2025",
-      "views": "5834",
-      "scraped_at": "2025-06-29 14:10:31",
-      "success": true
-    },
-    {
-      "url": "https://x.com/gkisokay/status/1938923146293530663",
-      "tweet_id": "1938923146293530663",
-      "text": "Me when everyone keeps asking me to comment on @virtuals_io ecosystem drama.",
-      "raw_text": "Me when everyone keeps asking me to comment on @virtuals_io ecosystem drama. https://t.co/CICApi04Qa",
-      "user": {
-        "username": "gkisokay",
-        "display_name": "Graeme",
-        "verified": true
-      },
-      "stats": {
-        "likes": 116,
-        "retweets": 12,
-        "replies": 55,
-        "quotes": 1,
-        "bookmarks": 0
-      },
-      "created_at": "Sat Jun 28 11:31:16 +0000 2025",
-      "views": "4109",
-      "scraped_at": "2025-06-29 14:10:35",
-      "success": true
-    },
-    {
-      "url": "https://x.com/LegendAI_Agent/status/1938238329356464413",
-      "tweet_id": "1938238329356464413",
-      "text": "450% oversubscription rate and 5,900 participants have made Legend possible. We’re thrilled to share that Legend’s genesis launch was a success. CA:0xaAA9A3bC81FE7951fE0c3755837b40749ce0c894 Thank you to everyone who participated and believes in our mission to build the first football club managed by AI agents. 🤖🧡⚽️ We hope you’ll join us not just as holders, but as co-owners in Costa d'Amalfi FC, helping us move from Eccellenza all the way to Serie A!",
-      "raw_text": "450% oversubscription rate and 5,900 participants have made Legend possible.\n\nWe’re thrilled to share that Legend’s genesis launch was a success.\n\nCA:0xaAA9A3bC81FE7951fE0c3755837b40749ce0c894\n\nThank you to everyone who participated and believes in our mission to build the first football club managed by AI agents. 🤖🧡⚽️\n\nWe hope you’ll join us not just as holders, but as co-owners in Costa d'Amalfi FC, helping us move from Eccellenza all the way to Serie A!",
-      "user": {
-        "username": "LegendAI_Agent",
-        "display_name": "Legend",
-        "verified": true
-      },
-      "stats": {
-        "likes": 150,
-        "retweets": 17,
-        "replies": 35,
-        "quotes": 12,
-        "bookmarks": 4
-      },
-      "created_at": "Thu Jun 26 14:10:03 +0000 2025",
-      "views": "7693",
-      "scraped_at": "2025-06-29 14:10:39",
-      "success": true
-    },
-    {
-      "url": "https://x.com/0xNikos/status/1933569645883122156",
-      "tweet_id": "1933569645883122156",
-      "text": "Appreciate the s/o, @amplifi_now fam. I’ve said it before and I’ll say it again, joining Amplifi has been one of the best decisions I’ve made in my Web3 journey. Beyond the obvious stuff like creating content and actually earning from it (something that normally u wouldn’t be able to do), what really makes Amplifi different is the community: a group of genuinely supportive and knowledgeable folks, always ready to help, advise, and support. Thank you for kickstarting my journey and helping me realize just how important social capital really is. 🐐 team behind Amplifi: @gkisokay, @cashew_111, & @nonfungiblemomo",
-      "raw_text": "Appreciate the s/o, @amplifi_now fam.\n\nI’ve said it before and I’ll say it again, joining Amplifi has been one of the best decisions I’ve made in my Web3 journey. \n\nBeyond the obvious stuff like creating content and actually earning from it (something that normally u wouldn’t be able to do), what really makes Amplifi different  is the community: a group of genuinely supportive and knowledgeable folks, always ready to help, advise, and support.\n\nThank you for kickstarting my journey and helping me realize just how important social capital really is.\n\n🐐 team behind Amplifi: @gkisokay, @cashew_111, & @nonfungiblemomo",
-      "user": {
-        "username": "0xNikos",
-        "display_name": "Nikos",
-        "verified": true
-      },
-      "stats": {
-        "likes": 44,
-        "retweets": 5,
-        "replies": 23,
-        "quotes": 0,
-        "bookmarks": 4
-      },
-      "created_at": "Fri Jun 13 16:58:22 +0000 2025",
-      "views": "1797",
-      "scraped_at": "2025-06-29 14:10:43",
-      "success": true
-    },
-    {
-      "url": "https://x.com/amplifi_now/status/1933566892935098760",
-      "tweet_id": "1933566892935098760",
-      "text": "Amplifi Spotlight: Nikos @0xNikos joined Amplifi 1 month ago and since then: • Gained 1800 followers • 7.8% increase in engagement rate • Earned nearly half a million impressions Let's dive into what makes Nikos successful... 🔽",
-      "raw_text": "Amplifi Spotlight: Nikos\n\n@0xNikos joined Amplifi 1 month ago and since then:\n\n• Gained 1800 followers\n• 7.8% increase in engagement rate\n• Earned nearly half a million impressions\n\nLet's dive into what makes Nikos successful... 🔽 https://t.co/Fh6CLYtY5I",
-      "user": {
-        "username": "amplifi_now",
-        "display_name": "Amplifi",
-        "verified": true
-      },
-      "stats": {
-        "likes": 41,
-        "retweets": 1,
-        "replies": 18,
-        "quotes": 4,
-        "bookmarks": 0
-      },
-      "created_at": "Fri Jun 13 16:47:25 +0000 2025",
-      "views": "7948",
-      "scraped_at": "2025-06-29 14:10:46",
-      "success": true
-    },
-    {
-      "url": "https://x.com/Degen__Ape__/status/1939172834137514413",
-      "tweet_id": "1939172834137514413",
-      "text": "Elite league is not eating the prize pool share. French Devs are not biased toward Whales. It is just business. If you play @fantasy_top_, you know we are having hyperinflation in Cards. The total supply used to be 180k last year, now we are at 280k. We have burn and upgrade mechanics to balance the supply flow, but it is not enough. Reverse league is fun, but it incentivizes players to NOT burn useless cards, and creates an overhang supply on the marketplace. Elite, on the other hand, is harder and harder to compete. You are required to upgrade constantly, in order to maintain your portfolio strength. The final target is Legendary cards, which equals 125 common cards. For a deck with 5 Legendary cards, 625 commons were burned. Think about it, you are running a business. One customer group buys and re-buys your product constantly, another buys, gets the promotion, and is more likely to re-sell on eBay. Which one should you reward more? It is just business.",
-      "raw_text": "Elite league is not eating the  prize pool share.\n\nFrench Devs are not biased toward Whales. \n\nIt is just business.\n\nIf you play @fantasy_top_, you know we are having hyperinflation in Cards. The total supply used to be 180k last year, now we are at 280k.\n\nWe have burn and upgrade mechanics to balance the supply flow, but it is not enough.\n\nReverse league is fun, but it incentivizes players to NOT burn useless cards, and creates an overhang supply on the marketplace.\n\nElite, on the other hand, is harder and harder to compete. You are required to upgrade constantly, in order to maintain your portfolio strength.\n\nThe final target is Legendary cards, which equals 125 common cards. For a deck with 5 Legendary cards, 625 commons were burned.\n\nThink about it, you are running a business. One customer group buys and re-buys your product constantly, another buys, gets the promotion, and is more likely to re-sell on eBay.\n\nWhich one should you reward more? \n\nIt is just business.",
-      "user": {
-        "username": "Degen__Ape__",
-        "display_name": "Degen Ape Trader",
-        "verified": true
-      },
-      "stats": {
-        "likes": 24,
-        "retweets": 2,
-        "replies": 4,
-        "quotes": 2,
-        "bookmarks": 1
-      },
-      "created_at": "Sun Jun 29 04:03:26 +0000 2025",
-      "views": "1863",
-      "scraped_at": "2025-06-29 14:10:50",
-      "success": true
-    },
-    {
-      "url": "https://x.com/appduckai/status/1937248362962780279",
-      "tweet_id": "1937248362962780279",
-      "text": "appduck v1 is live 👇",
-      "raw_text": "appduck v1 is live 👇\n\nhttps://t.co/oSY8Vx9lgD https://t.co/LIwtXwH0sh",
-      "user": {
-        "username": "appduckai",
-        "display_name": "AppDuck",
-        "verified": true
-      },
-      "stats": {
-        "likes": 148,
-        "retweets": 25,
-        "replies": 24,
-        "quotes": 7,
-        "bookmarks": 10
-      },
-      "created_at": "Mon Jun 23 20:36:16 +0000 2025",
-      "views": "14741",
-      "scraped_at": "2025-06-29 14:10:53",
-      "success": true
-    },
-    {
-      "url": "https://x.com/cryptoboys27/status/1939164484658155930",
-      "success": false,
-      "error": "No text returned",
-      "scraped_at": "2025-06-29 14:10:57"
-    },
-    {
-      "url": "https://x.com/Agent_rsch/status/1938440184779128871",
-      "tweet_id": "1938440184779128871",
-      "text": "🧠 A few thoughts on the recent points update from @virtuals_io core dev. I completely agree with the first 2 points: ✅ USD-based point system = real economic skin in the game ✅ Relative Ranking Leaderboard = a BIG win for transparency A live, on-chain leaderboard helps kill FUD, favoritism, and drama. But 2 key areas still lack clarity. Right now, it’s still full of ambiguity 👇 👇 🔹 (A) “Agents with good Product and fundamentals get more points” Sounds great. But… what does “good” actually mean? • What are the KPIs? • Is there a public scoring or ranking system? • Who decides what’s good — and based on what? If it’s done behind closed doors, that’s not merit-based. That’s bias. 📢 Publish the criteria. Publish the project rankings/score/points. Let data decide. 🔹 (B) “Dev wallets don’t get points” Love the intent. But it needs precision: • Is a “dev” the wallet that launched the agent and received the dev allocation from it’s own project? • What if the dev bought tokens from the market with their own funds, using their personal wallet? • Are foundation/treasury wallets excluded too? Since it’s not personal dev wallet, but Company Holding? 📢 Define “dev wallet” publicly, add wallet tagging on it. We need a public definition. On-chain, verifiable. No double standards. No grey areas. No favoritism. Conclusion: Let the system be: ✅ Fair ✅ Transparent ✅ Accountable No backroom decisions. No hidden hands.",
-      "raw_text": "🧠 A few thoughts on the recent points update from @virtuals_io core dev.\n\nI completely agree with the first 2 points:\n✅ USD-based point system = real economic skin in the game\n✅ Relative Ranking Leaderboard = a BIG win for transparency\n\nA live, on-chain leaderboard helps kill FUD, favoritism, and drama.\n\nBut 2 key areas still lack clarity. Right now, it’s still full of ambiguity 👇\n👇\n\n🔹 (A) “Agents with good Product and  fundamentals get more points”\n\nSounds great. But… what does “good” actually mean?\n\n•  What are the KPIs?\n•  Is there a public scoring or ranking system?\n•  Who decides what’s good — and based on what?\n\nIf it’s done behind closed doors, that’s not merit-based. That’s bias.\n\n📢 Publish the criteria. Publish the project rankings/score/points.  Let data decide.\n\n🔹 (B) “Dev wallets don’t get points”\n\nLove the intent. But it needs precision:\n\n•  Is a “dev” the wallet that launched the agent and received the dev allocation from it’s own project? \n•  What if the dev bought tokens from the market with their own funds, using their personal wallet?\n•  Are foundation/treasury wallets excluded too? Since it’s not personal dev wallet, but Company Holding?\n\n📢 Define “dev wallet” publicly, add wallet tagging on it. We need a public definition. On-chain, verifiable. \n\nNo double standards. No grey areas. No favoritism.\n\nConclusion:\n\nLet the system be:\n✅ Fair\n✅ Transparent\n✅ Accountable\n\nNo backroom decisions. No hidden hands.",
-      "user": {
-        "username": "Agent_rsch",
-        "display_name": "AGENT 007",
-        "verified": true
-      },
-      "stats": {
-        "likes": 11,
-        "retweets": 5,
-        "replies": 5,
-        "quotes": 0,
-        "bookmarks": 0
-      },
-      "created_at": "Fri Jun 27 03:32:09 +0000 2025",
-      "views": "1455",
-      "scraped_at": "2025-06-29 14:11:00",
-      "success": true
-    },
-    {
-      "url": "https://x.com/aixCB_Vc/status/1938475649070756125",
-      "tweet_id": "1938475649070756125",
-      "text": "🚀 Top AI Agent Narratives to Watch in 2025 From automation to monetization, AI agents are transforming every industry. Which narrative will dominate @base AI? Will it be @virtuals_io or @CreatorBid leading the way? Did I miss anything? Drop your thoughts 👇 1️⃣ Health Agent 🩺🏋️ — Wellness, diagnostics & fitness 2️⃣ Editor Agent ✍️🧠 — Copywriting, proofreading, summarizing 3️⃣ Gaming Agent 🎮🕹️ — Game coaching, analytics, in-game automation 4️⃣ Chat Agent 💬🤖 — Customer support, 24/7 assistants 5️⃣ Learning Agent 📚🧑‍🏫 — Tutors, language learning, exam prep 6️⃣ Travel Agent ✈️🌍 — Smart booking, itinerary planning 7️⃣ Security Agent 🔐🛡️ — Threat detection, wallet monitoring 8️⃣ Meme Agent 😂📱 — Viral content generation 9️⃣ DeFi Agent 📊💰 — Yield farming, strategy bots 🔟 Finance Agent 🏦📉 — Budgeting, robo-advisors 1️⃣1️⃣ Trading Agent 📈💹 — Signal bots, smart execution 1️⃣2️⃣ Investment Agent 💼📊 — Portfolio tracking, alpha discovery 1️⃣3️⃣ Influencer Agent 🌟📲 — Content creation, auto-engagement 1️⃣4️⃣ Fashion Agent 👗👜 — AI stylists, virtual try-ons 1️⃣5️⃣ Art Agent 🎨🖌️ — Generative art & collectibles 1️⃣6️⃣ Real Estate Agent 🏠📈 — Smart listings, market analyzers 1️⃣7️⃣ Music Agent 🎵🎧 — AI producers, remix bots 1️⃣8️⃣ Shopping Agent 🛍️🛒 — Deal finders, trend trackers 1️⃣9️⃣ Research Agent 🔍📑 — Deep data diggers, AI summarizers ⚡️AI agents are transforming industries at warp speed. Which one would you build or back? 👀",
-      "raw_text": "🚀 Top AI Agent Narratives to Watch in 2025\n\nFrom automation to monetization, AI agents are transforming every industry.\n\nWhich narrative will dominate @base AI?\nWill it be @virtuals_io or @CreatorBid leading the way?\n\nDid I miss anything? Drop your thoughts 👇\n\n1️⃣ Health Agent 🩺🏋️ — Wellness, diagnostics & fitness\n2️⃣ Editor Agent ✍️🧠 — Copywriting, proofreading, summarizing\n3️⃣ Gaming Agent 🎮🕹️ — Game coaching, analytics, in-game automation\n4️⃣ Chat Agent 💬🤖 — Customer support, 24/7 assistants\n5️⃣ Learning Agent 📚🧑‍🏫 — Tutors, language learning, exam prep\n6️⃣ Travel Agent ✈️🌍 — Smart booking, itinerary planning\n7️⃣ Security Agent 🔐🛡️ — Threat detection, wallet monitoring\n8️⃣ Meme Agent 😂📱 — Viral content generation\n9️⃣ DeFi Agent 📊💰 — Yield farming, strategy bots\n🔟 Finance Agent 🏦📉 — Budgeting, robo-advisors\n1️⃣1️⃣ Trading Agent 📈💹 — Signal bots, smart execution\n1️⃣2️⃣ Investment Agent 💼📊 — Portfolio tracking, alpha discovery\n1️⃣3️⃣ Influencer Agent 🌟📲 — Content creation, auto-engagement\n1️⃣4️⃣ Fashion Agent 👗👜 — AI stylists, virtual try-ons\n1️⃣5️⃣ Art Agent 🎨🖌️ — Generative art & collectibles\n1️⃣6️⃣ Real Estate Agent 🏠📈 — Smart listings, market analyzers\n1️⃣7️⃣ Music Agent 🎵🎧 — AI producers, remix bots\n1️⃣8️⃣ Shopping Agent 🛍️🛒 — Deal finders, trend trackers\n1️⃣9️⃣ Research Agent 🔍📑 — Deep data diggers, AI summarizers\n\n⚡️AI agents are transforming industries at warp speed.\n\nWhich one would you build or back? 👀",
-      "user": {
-        "username": "aixCB_Vc",
-        "display_name": "aixcb",
-        "verified": true
-      },
-      "stats": {
-        "likes": 57,
-        "retweets": 15,
         "replies": 28,
-        "quotes": 6,
-        "bookmarks": 10
-      },
-      "created_at": "Fri Jun 27 05:53:04 +0000 2025",
-      "views": "3860",
-      "scraped_at": "2025-06-29 14:11:04",
-      "success": true
-    },
-    {
-      "url": "https://x.com/cryptoboys27/status/1938374560489083385",
-      "tweet_id": "1938374560489083385",
-      "text": "Stacking my points for AIxBet — the on-chain prediction market on @Polymarket 🔮 As you know, Polymarket raised $200M at a $1B valuation 👀 ✅ Proven safe & profitable ✅ Fully on-chain, transparent, and verifiable ✅ 20% ROI in 9 days ✅ 50% monthly, 1500% Yearly! ✅ Up to 10,000%+ APY if compounded 😳 #DYOR",
-      "raw_text": "Stacking my points for AIxBet — the on-chain prediction market on @Polymarket 🔮\nAs you know, Polymarket raised $200M at a $1B valuation 👀\n\n✅ Proven safe & profitable\n✅ Fully on-chain, transparent, and verifiable\n✅ 20% ROI in 9 days\n✅ 50% monthly, 1500% Yearly!\n✅ Up to 10,000%+ APY if compounded 😳\n\n#DYOR",
-      "user": {
-        "username": "cryptoboys27",
-        "display_name": "0xCB 🤖",
-        "verified": true
-      },
-      "stats": {
-        "likes": 49,
-        "retweets": 7,
-        "replies": 18,
-        "quotes": 1,
-        "bookmarks": 6
-      },
-      "created_at": "Thu Jun 26 23:11:23 +0000 2025",
-      "views": "4849",
-      "scraped_at": "2025-06-29 14:11:08",
-      "success": true
-    },
-    {
-      "url": "https://x.com/bigwil2k3/status/1939174552954925197",
-      "tweet_id": "1939174552954925197",
-      "text": "Virtuals Weekly Episode 12 Recap > The $Virtual token is down towards a month long low. Maybe the calm before the ACP storm, or a slight slow down on Genesis launches are contributing! > @100xDarren joined us as our special guest. We got to hear abut his journey in crypto and more recently in the @virtuals_io ecosystem. Sensible discussion around profit taking and having a plan that you stick to! > @bm_protocol showcased their product ahead of their launch next week. They are attempting to bring web2 and web3 closer from a finance perspective! > @VaderResearch discussion dominated the second part of the show. FUD... What FUD!? A clean sweep of support from the stage during the Spaces. We also talked through the recent changes to the Vader yapping program. > We looked ahead to the upcoming Genesis launches. @EvaOnlineXyz is shaping to be the hyped launch of next week. We'll be back again on Tuesday and you can set your reminders in the comments. We'll have the @Barvis_io team showcasing their project. If you missed the show, the link to the recording will be in the comments.",
-      "raw_text": "Virtuals Weekly Episode 12 Recap\n\n > The $Virtual token is down towards a month long low. Maybe the calm before the ACP storm, or a slight slow down on Genesis launches are contributing!\n\n > @100xDarren joined us as our special guest. We got to hear abut his journey in crypto and more recently in the @virtuals_io ecosystem. Sensible discussion around profit taking and having a plan that you stick to!\n\n > @bm_protocol showcased their product ahead of their launch next week. They are attempting to bring web2 and web3 closer from a finance perspective!\n\n > @VaderResearch discussion dominated the second part of the show. FUD... What FUD!? A clean sweep of support from the stage during the Spaces. We also talked through the recent changes to the Vader yapping program.\n\n > We looked ahead to the upcoming Genesis launches. @EvaOnlineXyz is shaping to be the hyped launch of next week. \n\nWe'll be back again on Tuesday and you can set your reminders in the comments. We'll have the @Barvis_io team showcasing their project. \n\nIf you missed the show, the link to the recording will be in the comments.",
-      "user": {
-        "username": "bigwil2k3",
-        "display_name": "big.wil",
-        "verified": true
-      },
-      "stats": {
-        "likes": 31,
-        "retweets": 2,
-        "replies": 13,
         "quotes": 3,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 11:13:23 +0000 2025",
+      "views": "1379",
+      "scraped_at": "2025-07-15 18:37:59",
+      "success": true
+    },
+    {
+      "url": "https://x.com/VaderResearch/status/1944640086336733191",
+      "tweet_id": "1944640086336733191",
+      "text": "gm VIRGENS 2M more $VIRGEN is BURNT 🔥 Total $VIRGEN BURNT is now at 25M (2.5%) CAP STAYS ON 🧢",
+      "raw_text": "gm VIRGENS\n\n2M more $VIRGEN is BURNT 🔥\n\nTotal $VIRGEN BURNT is now at 25M (2.5%)\n\nCAP STAYS ON 🧢 https://t.co/qnX3rpAxeN",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 331,
+        "retweets": 28,
+        "replies": 152,
+        "quotes": 32,
         "bookmarks": 1
       },
-      "created_at": "Sun Jun 29 04:10:16 +0000 2025",
-      "views": "1265",
-      "scraped_at": "2025-06-29 14:11:12",
+      "created_at": "Mon Jul 14 06:08:20 +0000 2025",
+      "views": "13343",
+      "scraped_at": "2025-07-15 18:38:03",
       "success": true
     },
     {
-      "url": "https://x.com/Wise_555/status/1939092669881270756",
-      "tweet_id": "1939092669881270756",
-      "text": "Virgens, Prime example of BID shillers. If BID is superior & the new big thing, why not stake your 387k BID if you believe in the protocol so much? Oh that's right, post about it non stop, boost the price with your social influence, then sell once you've made a big enough profit. Then, after BID goes down the drain because it's another copy pasta launchpad, make some BS post about how it was a failure from the beginning. Be cautious of the extractors in the space, they are everywhere. @virtuals_io 🚀",
-      "raw_text": "Virgens,\n\nPrime example of BID shillers. If BID is superior & the new big thing, why not stake your 387k BID if you believe in the protocol so much?\n\nOh that's right, post about it non stop, boost the price with your social influence, then sell once you've made a big enough profit. \n\nThen, after BID goes down the drain because it's another copy pasta launchpad, make some BS post about how it was a failure from the beginning.\n\nBe cautious of the extractors in the space, they are everywhere. \n\n@virtuals_io 🚀",
+      "url": "https://x.com/VaderResearch/status/1943425162843451512",
+      "tweet_id": "1943425162843451512",
+      "text": "116k",
+      "raw_text": "116k",
       "user": {
-        "username": "Wise_555",
-        "display_name": "Virgen Bull",
+        "username": "",
+        "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 10,
+        "likes": 288,
+        "retweets": 14,
+        "replies": 116,
+        "quotes": 14,
+        "bookmarks": 0
+      },
+      "created_at": "Thu Jul 10 21:40:40 +0000 2025",
+      "views": "10145",
+      "scraped_at": "2025-07-15 18:38:07",
+      "success": true
+    },
+    {
+      "url": "https://x.com/VaderResearch/status/1943368193679954165",
+      "tweet_id": "1943368193679954165",
+      "text": "YouTube suspending payments for AI-generated content is like governments banning Bitcoin in 2017 Don’t fight the inevitable Leverage it",
+      "raw_text": "YouTube suspending payments for AI-generated content is like governments banning Bitcoin in 2017\n\nDon’t fight the inevitable\nLeverage it",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 267,
+        "retweets": 26,
+        "replies": 125,
+        "quotes": 25,
+        "bookmarks": 0
+      },
+      "created_at": "Thu Jul 10 17:54:18 +0000 2025",
+      "views": "11369",
+      "scraped_at": "2025-07-15 18:38:11",
+      "success": true
+    },
+    {
+      "url": "https://x.com/VaderResearch/status/1943328566327849196",
+      "tweet_id": "1943328566327849196",
+      "text": "Internet Capital Markets",
+      "raw_text": "Internet Capital Markets",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 211,
+        "retweets": 20,
+        "replies": 85,
+        "quotes": 20,
+        "bookmarks": 1
+      },
+      "created_at": "Thu Jul 10 15:16:50 +0000 2025",
+      "views": "12892",
+      "scraped_at": "2025-07-15 18:38:15",
+      "success": true
+    },
+    {
+      "url": "https://x.com/goon_crypto/status/1944974757931184388",
+      "tweet_id": "1944974757931184388",
+      "text": "$SKILL is another textbook rug. Straight dump on launch. ➠ No team ➠ No X presence ➠ Generic Wix-tier website Why are people still pledging to this stuff? You can spot the LARP from a mile away. The devs aren’t building.. they’re farming you. @virtuals_io Virgens be aware",
+      "raw_text": "$SKILL is another textbook rug.\nStraight dump on launch.\n\n➠ No team\n➠ No X presence\n➠ Generic Wix-tier website\n\nWhy are people still pledging to this stuff?\n\nYou can spot the LARP from a mile away.\nThe devs aren’t building.. they’re farming you.\n\n@virtuals_io Virgens be aware https://t.co/4QobdSmE7Q",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 59,
         "retweets": 0,
-        "replies": 6,
+        "replies": 45,
         "quotes": 0,
         "bookmarks": 1
       },
-      "created_at": "Sat Jun 28 22:44:53 +0000 2025",
-      "views": "917",
-      "scraped_at": "2025-06-29 14:11:15",
+      "created_at": "Tue Jul 15 04:18:12 +0000 2025",
+      "views": "1474",
+      "scraped_at": "2025-07-15 18:38:19",
       "success": true
     },
     {
-      "url": "https://x.com/Defi0xJeff/status/1938574436900434055",
-      "tweet_id": "1938574436900434055",
-      "text": "Feels a lot more productive after switching to Substack feed X feed is a ghost town with FUD, drama, and yap farming Substack feed is literally pure insights—similar vibes to my X feed before all the AI slopbots and yap farming was a thing BUT 10x better (Not enough Web3 AI content there yet though)",
-      "raw_text": "Feels a lot more productive after switching to Substack feed\n\nX feed is a ghost town with FUD, drama, and yap farming\n\nSubstack feed is literally pure insights—similar vibes to my X feed before all the AI slopbots and yap farming was a thing BUT 10x better\n\n(Not enough Web3 AI content there yet though)",
+      "url": "https://x.com/goon_crypto/status/1944921004155003141",
+      "tweet_id": "1944921004155003141",
+      "text": "Last month, @protocol_fx did what no other perp DEX could: ➠ $0 liquidations ➠ $0 funding fees ➠ >10% yield on a stablecoin Name one that can offer any of those... Let alone all 3...",
+      "raw_text": "Last month, @protocol_fx did what no other perp DEX could:\n\n➠ $0 liquidations\n➠ $0 funding fees\n➠ &gt;10% yield on a stablecoin\n\nName one that can offer any of those...\nLet alone all 3... https://t.co/VzATNqkvze",
       "user": {
-        "username": "Defi0xJeff",
-        "display_name": "0xJeff",
+        "username": "",
+        "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 160,
-        "retweets": 8,
-        "replies": 57,
-        "quotes": 0,
-        "bookmarks": 28
-      },
-      "created_at": "Fri Jun 27 12:25:37 +0000 2025",
-      "views": "10050",
-      "scraped_at": "2025-06-29 14:11:19",
-      "success": true
-    },
-    {
-      "url": "https://x.com/Jampzey/status/1939185441808568420",
-      "tweet_id": "1939185441808568420",
-      "text": "i have 2 presales this week, curious to see where we will come out if we invest $1,000 in each > @yapyo_arb > @multibank_io will i get a higher roi from the @arbitrum hype flywheel, or a multibillion dollar company tokenizing luxury real estate in Dubai? take your guesses, hope to pull some hot caldera girls with the proceeds, maybe do some @katana mainnet staking ~",
-      "raw_text": "i have 2 presales this week, curious to see where we will come out if we invest $1,000 in each\n\n> @yapyo_arb \n> @multibank_io \n\nwill i get a higher roi from the @arbitrum hype flywheel, or a multibillion dollar company tokenizing luxury real estate in Dubai?\n\ntake your guesses, hope to pull some hot caldera girls with the proceeds, maybe do some @katana\nmainnet staking ~",
-      "user": {
-        "username": "Jampzey",
-        "display_name": "Jampzey.hl",
-        "verified": true
-      },
-      "stats": {
-        "likes": 180,
-        "retweets": 7,
-        "replies": 153,
-        "quotes": 0,
-        "bookmarks": 3
-      },
-      "created_at": "Sun Jun 29 04:53:32 +0000 2025",
-      "views": "7287",
-      "scraped_at": "2025-06-29 14:11:22",
-      "success": true
-    },
-    {
-      "url": "https://x.com/0xNikos/status/1938722304244003074",
-      "tweet_id": "1938722304244003074",
-      "text": "\"infographic blitz\" I like it. as nerdy as it should be. s/o @Uniswap @nikokampouris",
-      "raw_text": "\"infographic blitz\" I like it. \n\nas nerdy as it should be. \n\ns/o @Uniswap @nikokampouris https://t.co/ogdjCnBayV",
-      "user": {
-        "username": "0xNikos",
-        "display_name": "Nikos",
-        "verified": true
-      },
-      "stats": {
-        "likes": 18,
-        "retweets": 0,
-        "replies": 4,
+        "likes": 46,
+        "retweets": 9,
+        "replies": 16,
         "quotes": 1,
-        "bookmarks": 0
+        "bookmarks": 2
       },
-      "created_at": "Fri Jun 27 22:13:11 +0000 2025",
-      "views": "429",
-      "scraped_at": "2025-06-29 14:11:26",
+      "created_at": "Tue Jul 15 00:44:36 +0000 2025",
+      "views": "2712",
+      "scraped_at": "2025-07-15 18:38:22",
       "success": true
     },
     {
-      "url": "https://x.com/ClarkleberryFin/status/1938996541206773940",
-      "tweet_id": "1938996541206773940",
-      "text": "G-fuckn-MAMO, @Mamo_agent",
-      "raw_text": "G-fuckn-MAMO, @Mamo_agent",
+      "url": "https://x.com/goon_crypto/status/1944206502329561544",
+      "tweet_id": "1944206502329561544",
+      "text": "$VADER Update: We’re back at pre-Yapping levels. Even with 63.8% staked, the market isn’t holding. Airdrops aren’t enough. The \"new ideas\" aren’t moving the needle. Genesis is slowing. Narrative is fading. Feels like we’re one real catalyst away from flipping everything. But what’s it going to be?",
+      "raw_text": "$VADER Update:\n\nWe’re back at pre-Yapping levels.\nEven with 63.8% staked, the market isn’t holding.\n\nAirdrops aren’t enough.\nThe \"new ideas\" aren’t moving the needle.\n\nGenesis is slowing.\nNarrative is fading.\n\nFeels like we’re one real catalyst away from flipping everything.\n\nBut what’s it going to be?",
       "user": {
-        "username": "ClarkleberryFin",
-        "display_name": "Matt",
+        "username": "",
+        "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 0,
+        "likes": 30,
         "retweets": 0,
-        "replies": 0,
+        "replies": 22,
         "quotes": 0,
         "bookmarks": 0
       },
-      "created_at": "Sat Jun 28 16:22:54 +0000 2025",
-      "views": "88",
-      "scraped_at": "2025-06-29 14:11:29",
+      "created_at": "Sun Jul 13 01:25:26 +0000 2025",
+      "views": "1389",
+      "scraped_at": "2025-07-15 18:38:26",
       "success": true
     },
     {
-      "url": "https://x.com/Sovereign_Web3/status/1939112885487120490",
-      "tweet_id": "1939112885487120490",
-      "text": "Don't really agree with this at all. They are all wrong about the problem with crypto. - The problem isn't the product, as @beast_ico claims. - The problem isn't lack of cooler creators, as @vohvohh claims. - The problem isn't a promoted system of short term hype cannot changed the world, as @paytkaleiwahea claims. Crypto has great products -- it's called DeFi. These products don't need cooler creators because they sell themselves as useful. These products are not based on short-term hype, rather, DeFi has battle-tested and revenue generating products accruing value back to the token holders in the long term. Study $AAVE $SKY $MORPHO $AERO. The problem is the failure of degenerate gamblers on this app (I am one) to focus on what clearly works in crypto -- DeFi. The flows into DeFi will blow your mind in the next five years as it onboards tardfi, expands to assets more people actually want (i.e., not merely memecoins), gives billions of people access to financial tools they've never had, and when regulation gives a path to token value accrual and investor protection. Right now, most humans live under oppressive financial regimes who max extract for government leaders and prevent humans from building value. If this industry spent the next five years entirely focused on building DeFi, it would dramatically change the world. It would collapse oppressive regimes, give billions of people financial control versus their oppressive government regimes, and provide the capital tools to unlock the greatest entrepreneurial time and advancements in human history. We cannot fathom what happens when billions of humans have financial control of their lives. It will be remarkable. The infighting among a small subset of crypto degenerate gamblers currently on X (which I am one) will fade. We will become nearly irrelevant in the next decade, a niche within a niche, compared to the behemoth that is expanding global finance to encompass every person and company, onchain in DeFi. The things we talk about like memecoins, NFTs, AI ponzis, gaming, etc., have a future, but their most important role will be to battle test DeFi before it puts the entire world onchain. You see, there are no problems with crypto because we found already found the product to change the world. It's DeFi. Always has been.",
-      "raw_text": "Don't really agree with this at all. They are all wrong about the problem with crypto. \n\n- The problem isn't the product, as @beast_ico claims.\n\n- The problem isn't lack of cooler creators, as @vohvohh claims. \n\n- The problem isn't a promoted system of short term hype cannot changed the world, as @paytkaleiwahea claims. \n\nCrypto has great products -- it's called DeFi. These products don't need cooler creators because they sell themselves as useful. These products are not based on short-term hype, rather, DeFi has battle-tested and revenue generating products accruing value back to the token holders in the long term. \n\nStudy $AAVE $SKY $MORPHO $AERO. \n\nThe problem is the failure of degenerate gamblers on this app (I am one) to focus on what clearly works in crypto -- DeFi. The flows into DeFi will blow your mind in the next five years as it onboards tardfi, expands to assets more people actually want (i.e., not merely memecoins), gives billions of people access to financial tools they've never had, and when regulation gives a path to token value accrual and investor protection. \n\nRight now, most humans live under oppressive financial regimes who max extract for government leaders and prevent humans from building value. If this industry spent the next five years entirely focused on building DeFi,  it would dramatically change the world. It would collapse oppressive regimes, give billions of people financial control versus their oppressive government regimes, and provide the capital tools to unlock the greatest entrepreneurial time and advancements in human history. We cannot fathom what happens when billions of humans have financial control of their lives. It will be remarkable. \n\nThe infighting among a small subset of crypto degenerate gamblers currently on X (which I am one) will fade. We will become nearly irrelevant in the next decade, a niche within a niche, compared to the behemoth that is expanding global finance to encompass every person and company, onchain in DeFi. The things we talk about like memecoins, NFTs, AI ponzis, gaming, etc., have a future, but their most important role will be to battle test DeFi before it puts the entire world onchain. \n\nYou see, there are no problems with crypto because we found already found the product to change the world. It's DeFi. Always has been.",
+      "url": "https://x.com/goon_crypto/status/1944200445477761385",
+      "tweet_id": "1944200445477761385",
+      "text": "So @predibot_ just hit another ATH. Easily one of the better performing Genesis launches this week. They launched with a live product and real revenue already flowing. No fluff. Just usage. $1.4m market cap and growing. Still early for $PREDI.",
+      "raw_text": "So @predibot_ just hit another ATH.\nEasily one of the better performing Genesis launches this week.\n\nThey launched with a live product and real revenue already flowing.\nNo fluff. Just usage.\n\n$1.4m market cap and growing.\nStill early for $PREDI. https://t.co/57dmC6nY4j",
       "user": {
-        "username": "Sovereign_Web3",
-        "display_name": "Sovereign",
+        "username": "",
+        "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 12,
-        "retweets": 0,
-        "replies": 5,
-        "quotes": 0,
+        "likes": 53,
+        "retweets": 8,
+        "replies": 15,
+        "quotes": 1,
         "bookmarks": 1
       },
-      "created_at": "Sun Jun 29 00:05:13 +0000 2025",
-      "views": "576",
-      "scraped_at": "2025-06-29 14:11:34",
+      "created_at": "Sun Jul 13 01:01:22 +0000 2025",
+      "views": "2664",
+      "scraped_at": "2025-07-15 18:38:30",
       "success": true
     },
     {
-      "url": "https://x.com/dor_alpha/status/1938898750778360056",
-      "tweet_id": "1938898750778360056",
-      "text": "FUD on $VADER is free mindshare. Every drama post is unpaid marketing. Every doubt is a better entry. The team is doxxed. Wallets are public. Actions onchain. They stopped selling. They’re building. This isn’t weakness, it’s opportunity. Betting against $VADER is betting against $VIRTUAL. I'm buying the FUD. @VaderResearch",
-      "raw_text": "FUD on $VADER is free mindshare.\nEvery drama post is unpaid marketing. Every doubt is a better entry.\n\nThe team is doxxed. Wallets are public. Actions onchain.\nThey stopped selling. They’re building.\n\nThis isn’t weakness, it’s opportunity.\n\nBetting against $VADER is betting against $VIRTUAL.\n\nI'm buying the FUD.\n@VaderResearch",
+      "url": "https://x.com/goon_crypto/status/1943958877814632869",
+      "tweet_id": "1943958877814632869",
+      "text": "Still losing money by following the wrong people? If you’re still chasing vibes and clout, you’re already behind. Here’s how @outlight_ai levels you up using real data: 🧵👇",
+      "raw_text": "Still losing money by following the wrong people?\n\nIf you’re still chasing vibes and clout, you’re already behind.\n\nHere’s how @outlight_ai levels you up using real data:\n\n🧵👇 https://t.co/OE4FhQgBjb",
       "user": {
-        "username": "dor_alpha",
-        "display_name": "dOR | Alpha 🐐🥇",
+        "username": "",
+        "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 6,
-        "retweets": 0,
-        "replies": 3,
+        "likes": 39,
+        "retweets": 1,
+        "replies": 22,
         "quotes": 0,
-        "bookmarks": 0
+        "bookmarks": 2
       },
-      "created_at": "Sat Jun 28 09:54:19 +0000 2025",
-      "views": "108",
-      "scraped_at": "2025-06-29 14:11:37",
+      "created_at": "Sat Jul 12 09:01:28 +0000 2025",
+      "views": "1020",
+      "scraped_at": "2025-07-15 18:38:34",
       "success": true
     }
   ]
