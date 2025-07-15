@@ -1,150 +1,1764 @@
 {
   "summary": {
-    "total_urls": 10,
-    "successful": 10,
-    "failed": 0,
-    "success_rate": "100.0%",
-    "generated_at": "2025-07-15 18:38:34",
+    "total_urls": 95,
+    "successful": 89,
+    "failed": 6,
+    "success_rate": "93.7%",
+    "generated_at": "2025-07-15 21:45:06",
     "cookies_source": "cookie.txt"
   },
   "tweets": [
     {
-      "url": "https://x.com/VaderResearch/status/1945079239356674385",
-      "tweet_id": "1945079239356674385",
-      "text": "I will be speaking at @MalaysiaBCW next week alongside fellow crypto & AI gigabrains Who is joining?",
-      "raw_text": "I will be speaking at @MalaysiaBCW next week alongside fellow crypto &amp; AI gigabrains\n\nWho is joining? https://t.co/x4MTa1OhjP",
+      "url": "https://x.com/sassal0x/status/1945101027981636016",
+      "tweet_id": "1945101027981636016",
+      "text": "SharpLink still has another $257 million left to buy ETH with 😅 Higher!",
+      "raw_text": "SharpLink still has another $257 million left to buy ETH with 😅\n\nHigher!",
       "user": {
         "username": "",
         "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 73,
-        "retweets": 1,
-        "replies": 28,
-        "quotes": 3,
-        "bookmarks": 0
-      },
-      "created_at": "Tue Jul 15 11:13:23 +0000 2025",
-      "views": "1379",
-      "scraped_at": "2025-07-15 18:37:59",
-      "success": true
-    },
-    {
-      "url": "https://x.com/VaderResearch/status/1944640086336733191",
-      "tweet_id": "1944640086336733191",
-      "text": "gm VIRGENS 2M more $VIRGEN is BURNT 🔥 Total $VIRGEN BURNT is now at 25M (2.5%) CAP STAYS ON 🧢",
-      "raw_text": "gm VIRGENS\n\n2M more $VIRGEN is BURNT 🔥\n\nTotal $VIRGEN BURNT is now at 25M (2.5%)\n\nCAP STAYS ON 🧢 https://t.co/qnX3rpAxeN",
-      "user": {
-        "username": "",
-        "display_name": "",
-        "verified": true
-      },
-      "stats": {
-        "likes": 331,
+        "likes": 314,
         "retweets": 28,
-        "replies": 152,
-        "quotes": 32,
+        "replies": 28,
+        "quotes": 2,
+        "bookmarks": 4
+      },
+      "created_at": "Tue Jul 15 12:39:57 +0000 2025",
+      "views": "11614",
+      "scraped_at": "2025-07-15 21:39:07",
+      "success": true
+    },
+    {
+      "url": "https://x.com/sassal0x/status/1945092242818900039",
+      "tweet_id": "1945092242818900039",
+      "text": "Over the last 7 days, net new ETH issuance was ~16,500 ETH. SharpLink Gaming alone bought 4.5x this amount. Accelerate!",
+      "raw_text": "Over the last 7 days, net new ETH issuance was ~16,500 ETH.\n\nSharpLink Gaming alone bought 4.5x this amount.\n\nAccelerate!",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 76,
+        "retweets": 4,
+        "replies": 16,
+        "quotes": 1,
         "bookmarks": 1
       },
-      "created_at": "Mon Jul 14 06:08:20 +0000 2025",
-      "views": "13343",
-      "scraped_at": "2025-07-15 18:38:03",
+      "created_at": "Tue Jul 15 12:05:03 +0000 2025",
+      "views": "3962",
+      "scraped_at": "2025-07-15 21:39:11",
       "success": true
     },
     {
-      "url": "https://x.com/VaderResearch/status/1943425162843451512",
-      "tweet_id": "1943425162843451512",
-      "text": "116k",
-      "raw_text": "116k",
+      "url": "https://x.com/sassal0x/status/1944925071942013278",
+      "success": false,
+      "error": "No text returned",
+      "scraped_at": "2025-07-15 21:39:15"
+    },
+    {
+      "url": "https://x.com/sassal0x/status/1944920066514149777",
+      "tweet_id": "1944920066514149777",
+      "text": "1.52 million ETH / $4.5 billion now in the Strategic ETH Reserve Higher",
+      "raw_text": "1.52 million ETH / $4.5 billion now in the Strategic ETH Reserve\n\nHigher https://t.co/kU2lX36r34",
       "user": {
         "username": "",
         "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 288,
-        "retweets": 14,
-        "replies": 116,
-        "quotes": 14,
-        "bookmarks": 0
+        "likes": 470,
+        "retweets": 45,
+        "replies": 30,
+        "quotes": 2,
+        "bookmarks": 5
       },
-      "created_at": "Thu Jul 10 21:40:40 +0000 2025",
-      "views": "10145",
-      "scraped_at": "2025-07-15 18:38:07",
+      "created_at": "Tue Jul 15 00:40:53 +0000 2025",
+      "views": "15209",
+      "scraped_at": "2025-07-15 21:39:18",
       "success": true
     },
     {
-      "url": "https://x.com/VaderResearch/status/1943368193679954165",
-      "tweet_id": "1943368193679954165",
-      "text": "YouTube suspending payments for AI-generated content is like governments banning Bitcoin in 2017 Don’t fight the inevitable Leverage it",
-      "raw_text": "YouTube suspending payments for AI-generated content is like governments banning Bitcoin in 2017\n\nDon’t fight the inevitable\nLeverage it",
+      "url": "https://x.com/sassal0x/status/1944920069005602822",
+      "tweet_id": "1944920069005602822",
+      "text": "Source:",
+      "raw_text": "Source: https://t.co/ZcDyiKUdDw",
       "user": {
         "username": "",
         "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 267,
-        "retweets": 26,
-        "replies": 125,
-        "quotes": 25,
-        "bookmarks": 0
-      },
-      "created_at": "Thu Jul 10 17:54:18 +0000 2025",
-      "views": "11369",
-      "scraped_at": "2025-07-15 18:38:11",
-      "success": true
-    },
-    {
-      "url": "https://x.com/VaderResearch/status/1943328566327849196",
-      "tweet_id": "1943328566327849196",
-      "text": "Internet Capital Markets",
-      "raw_text": "Internet Capital Markets",
-      "user": {
-        "username": "",
-        "display_name": "",
-        "verified": true
-      },
-      "stats": {
-        "likes": 211,
-        "retweets": 20,
-        "replies": 85,
-        "quotes": 20,
-        "bookmarks": 1
-      },
-      "created_at": "Thu Jul 10 15:16:50 +0000 2025",
-      "views": "12892",
-      "scraped_at": "2025-07-15 18:38:15",
-      "success": true
-    },
-    {
-      "url": "https://x.com/goon_crypto/status/1944974757931184388",
-      "tweet_id": "1944974757931184388",
-      "text": "$SKILL is another textbook rug. Straight dump on launch. ➠ No team ➠ No X presence ➠ Generic Wix-tier website Why are people still pledging to this stuff? You can spot the LARP from a mile away. The devs aren’t building.. they’re farming you. @virtuals_io Virgens be aware",
-      "raw_text": "$SKILL is another textbook rug.\nStraight dump on launch.\n\n➠ No team\n➠ No X presence\n➠ Generic Wix-tier website\n\nWhy are people still pledging to this stuff?\n\nYou can spot the LARP from a mile away.\nThe devs aren’t building.. they’re farming you.\n\n@virtuals_io Virgens be aware https://t.co/4QobdSmE7Q",
-      "user": {
-        "username": "",
-        "display_name": "",
-        "verified": true
-      },
-      "stats": {
-        "likes": 59,
+        "likes": 10,
         "retweets": 0,
-        "replies": 45,
+        "replies": 1,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 00:40:53 +0000 2025",
+      "views": "3900",
+      "scraped_at": "2025-07-15 21:39:22",
+      "success": true
+    },
+    {
+      "url": "https://x.com/beaniemaxi/status/1945127931270844759",
+      "tweet_id": "1945127931270844759",
+      "text": "“Trenchers” flying around the world on a private jet like rock stars. Making generational wealth on a platform where 99% lose it all. Is it just a skill issue?",
+      "raw_text": "“Trenchers” flying around the world on a private jet like rock stars. Making generational wealth on a platform where 99% lose it all. Is it just a skill issue? https://t.co/86KerRwVab",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 66,
+        "retweets": 0,
+        "replies": 38,
+        "quotes": 3,
+        "bookmarks": 5
+      },
+      "created_at": "Tue Jul 15 14:26:52 +0000 2025",
+      "views": "13443",
+      "scraped_at": "2025-07-15 21:39:26",
+      "success": true
+    },
+    {
+      "url": "https://x.com/beaniemaxi/status/1944171337834278969",
+      "tweet_id": "1944171337834278969",
+      "text": "Absolute shocker that the max Extractfun airdrop will be less than the average Hanukkah gift.",
+      "raw_text": "Absolute shocker that the max Extractfun airdrop will be less than the average Hanukkah gift. https://t.co/K8fic5p9wR",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 273,
+        "retweets": 5,
+        "replies": 69,
+        "quotes": 5,
+        "bookmarks": 16
+      },
+      "created_at": "Sat Jul 12 23:05:42 +0000 2025",
+      "views": "36335",
+      "scraped_at": "2025-07-15 21:39:29",
+      "success": true
+    },
+    {
+      "url": "https://x.com/beaniemaxi/status/1944113219267666416",
+      "tweet_id": "1944113219267666416",
+      "text": "Ethereum has record short interest. It’s interesting because the Saylor style treasury company playbook just kicked off on it. So it could squeeze. Alot of this a pair trade with Bitcoin long. It’s a potential systematic risk. Unless you think reverse takeover meta has legs left.",
+      "raw_text": "Ethereum has record short interest. It’s interesting because the Saylor style treasury company playbook just kicked off on it. So it could squeeze. Alot of this a pair trade with Bitcoin long. It’s a potential systematic risk. Unless you think reverse takeover meta has legs left.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 106,
+        "retweets": 7,
+        "replies": 43,
+        "quotes": 0,
+        "bookmarks": 6
+      },
+      "created_at": "Sat Jul 12 19:14:46 +0000 2025",
+      "views": "16675",
+      "scraped_at": "2025-07-15 21:39:33",
+      "success": true
+    },
+    {
+      "url": "https://x.com/beaniemaxi/status/1944042397496713366",
+      "tweet_id": "1944042397496713366",
+      "text": "RIP James Wynn Bet. 2025 - 2025",
+      "raw_text": "RIP James Wynn\nBet. 2025 - 2025 https://t.co/616ehHSCt2",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 175,
+        "retweets": 0,
+        "replies": 56,
+        "quotes": 0,
+        "bookmarks": 5
+      },
+      "created_at": "Sat Jul 12 14:33:20 +0000 2025",
+      "views": "12224",
+      "scraped_at": "2025-07-15 21:39:37",
+      "success": true
+    },
+    {
+      "url": "https://x.com/beaniemaxi/status/1943798017255256469",
+      "tweet_id": "1943798017255256469",
+      "text": "Roblox recently changed its rules and allowed devs (many are kids) to transfer ownership of games. As a result the top 10 devs earned over $36 million each in the past year and the total creator payout is expected to top a billion dollars this year. UGC isn’t dead. Just in web3.",
+      "raw_text": "Roblox recently changed its rules and allowed devs (many are kids) to transfer ownership of games.  As a result the top 10 devs earned over $36 million each in the past year and the total creator payout is expected to top a billion dollars this year. UGC isn’t dead. Just in web3.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 401,
+        "retweets": 22,
+        "replies": 94,
+        "quotes": 13,
+        "bookmarks": 62
+      },
+      "created_at": "Fri Jul 11 22:22:15 +0000 2025",
+      "views": "42246",
+      "scraped_at": "2025-07-15 21:39:41",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xfoobar/status/1944894860172939592",
+      "tweet_id": "1944894860172939592",
+      "text": "Much of product design boils down to \"has anyone in the whole company even used your own product in the last 365 days\"",
+      "raw_text": "Much of product design boils down to \"has anyone in the whole company even used your own product in the last 365 days\"",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 40,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 0,
+        "bookmarks": 3
+      },
+      "created_at": "Mon Jul 14 23:00:43 +0000 2025",
+      "views": "7526",
+      "scraped_at": "2025-07-15 21:39:45",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xfoobar/status/1944849257632301377",
+      "tweet_id": "1944849257632301377",
+      "text": "what did you think \"BTC supercycle\" meant? ETH? SOL?",
+      "raw_text": "what did you think \"BTC supercycle\" meant? ETH? SOL?",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 33,
+        "retweets": 0,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Mon Jul 14 19:59:31 +0000 2025",
+      "views": "4496",
+      "scraped_at": "2025-07-15 21:39:49",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xfoobar/status/1942628460922560759",
+      "tweet_id": "1942628460922560759",
+      "text": "Polymarket UMA oracle should be replaced with an Eigenlayer AVS Billion-dollar prediction markets need billion-dollar security, this is the first true user driven demand for restaking",
+      "raw_text": "Polymarket UMA oracle should be replaced with an Eigenlayer AVS\n\nBillion-dollar prediction markets need billion-dollar security, this is the first true user driven demand for restaking",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 368,
+        "retweets": 19,
+        "replies": 50,
+        "quotes": 5,
+        "bookmarks": 51
+      },
+      "created_at": "Tue Jul 08 16:54:52 +0000 2025",
+      "views": "33038",
+      "scraped_at": "2025-07-15 21:39:53",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xfoobar/status/1942312942667526263",
+      "tweet_id": "1942312942667526263",
+      "text": "Remember to always launch your tokens on the best token launchpads in the space, gate dot com",
+      "raw_text": "Remember to always launch your tokens on the best token launchpads in the space, gate dot com",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 76,
+        "retweets": 1,
+        "replies": 13,
+        "quotes": 0,
+        "bookmarks": 3
+      },
+      "created_at": "Mon Jul 07 20:01:06 +0000 2025",
+      "views": "12993",
+      "scraped_at": "2025-07-15 21:39:57",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xfoobar/status/1942313219177005211",
+      "tweet_id": "1942313219177005211",
+      "text": "I don't want to hear a single \"internet capital markets\" shill ever again, Pump is such a terrible experience that even Pump themselves is unwilling to use it",
+      "raw_text": "I don't want to hear a single \"internet capital markets\" shill ever again, Pump is such a terrible experience that even Pump themselves is unwilling to use it",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 36,
+        "retweets": 2,
+        "replies": 8,
         "quotes": 0,
         "bookmarks": 1
       },
-      "created_at": "Tue Jul 15 04:18:12 +0000 2025",
-      "views": "1474",
-      "scraped_at": "2025-07-15 18:38:19",
+      "created_at": "Mon Jul 07 20:02:12 +0000 2025",
+      "views": "4289",
+      "scraped_at": "2025-07-15 21:40:01",
       "success": true
     },
     {
-      "url": "https://x.com/goon_crypto/status/1944921004155003141",
-      "tweet_id": "1944921004155003141",
-      "text": "Last month, @protocol_fx did what no other perp DEX could: ➠ $0 liquidations ➠ $0 funding fees ➠ >10% yield on a stablecoin Name one that can offer any of those... Let alone all 3...",
-      "raw_text": "Last month, @protocol_fx did what no other perp DEX could:\n\n➠ $0 liquidations\n➠ $0 funding fees\n➠ &gt;10% yield on a stablecoin\n\nName one that can offer any of those...\nLet alone all 3... https://t.co/VzATNqkvze",
+      "url": "https://x.com/ViktorBunin/status/1945115705268904148",
+      "tweet_id": "1945115705268904148",
+      "text": "There's more than $150m in crypto PACs and it's easy to raise hundreds of millions more. Congressmen voting against Genius, Clarity, and the anti-CBDC bill are going to have a really hard time in midterms. We didn't start this war, but we will finish it.",
+      "raw_text": "There's more than $150m in crypto PACs and it's easy to raise hundreds of millions more. Congressmen voting against Genius, Clarity, and the anti-CBDC bill are going to have a really hard time in midterms. We didn't start this war, but we will finish it.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 27,
+        "retweets": 18,
+        "replies": 12,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Tue Jul 15 13:38:17 +0000 2025",
+      "views": "883",
+      "scraped_at": "2025-07-15 21:40:05",
+      "success": true
+    },
+    {
+      "url": "https://x.com/ViktorBunin/status/1944514629906133445",
+      "tweet_id": "1944514629906133445",
+      "text": "If anyone doesn't know the clip, it's from a movie called Master and Commander, starring Russell Crowe. Crowe is having dinner with a group of military officers. Two insects (weevils) are eating crumbs on a plate. Crowe asks one of the officers which one of the insects he would choose—which one is better. The officer plays along with the odd question by saying he’d choose the bigger, stronger one. Crowe smiles slyly and dismisses the man’s answer by saying, “One must always choose the lesser of two weevils.” Truly a fantastic movie - watch it over the weekend if you have some time.",
+      "raw_text": "If anyone doesn't know the clip, it's from a movie called Master and Commander, starring Russell Crowe. Crowe is having dinner with a group of military officers. Two insects (weevils) are eating crumbs on a plate. Crowe asks one of the officers which one of the insects he would choose—which one is better. The officer plays along with the odd question by saying he’d choose the bigger, stronger one. Crowe smiles slyly and dismisses the man’s answer by saying, “One must always choose the lesser of two weevils.” Truly a fantastic movie - watch it over the weekend if you have some time.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Sun Jul 13 21:49:49 +0000 2025",
+      "views": "987",
+      "scraped_at": "2025-07-15 21:40:08",
+      "success": true
+    },
+    {
+      "url": "https://x.com/ViktorBunin/status/1944407876878872844",
+      "tweet_id": "1944407876878872844",
+      "text": "There will come a day when Ethereum is the most valuable protocol in the world.",
+      "raw_text": "There will come a day when Ethereum is the most valuable protocol in the world.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 420,
+        "retweets": 28,
+        "replies": 44,
+        "quotes": 4,
+        "bookmarks": 10
+      },
+      "created_at": "Sun Jul 13 14:45:37 +0000 2025",
+      "views": "18290",
+      "scraped_at": "2025-07-15 21:40:12",
+      "success": true
+    },
+    {
+      "url": "https://x.com/ViktorBunin/status/1944129732091478250",
+      "tweet_id": "1944129732091478250",
+      "text": "There will come a day when Coinbase is the most valuable company in the world.",
+      "raw_text": "There will come a day when Coinbase is the most valuable company in the world.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 300,
+        "retweets": 17,
+        "replies": 70,
+        "quotes": 10,
+        "bookmarks": 10
+      },
+      "created_at": "Sat Jul 12 20:20:22 +0000 2025",
+      "views": "27235",
+      "scraped_at": "2025-07-15 21:40:16",
+      "success": true
+    },
+    {
+      "url": "https://x.com/ViktorBunin/status/1943867731528626277",
+      "tweet_id": "1943867731528626277",
+      "text": "I just said the markets will be closed tomorrow. What a weird thought. Why would markets ever close? Don't people want to buy and sell stuff whenever they want? It's all over the internet anyway and the internet is not closed. Someone should do something about this.",
+      "raw_text": "I just said the markets will be closed tomorrow. What a weird thought. Why would markets ever close? Don't people want to buy and sell stuff whenever they want? It's all over the internet anyway and the internet is not closed. Someone should do something about this.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 35,
+        "retweets": 0,
+        "replies": 20,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Sat Jul 12 02:59:17 +0000 2025",
+      "views": "2186",
+      "scraped_at": "2025-07-15 21:40:20",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Evan_ss6/status/1945113979640029686",
+      "tweet_id": "1945113979640029686",
+      "text": "when BTC pump arrives likely I will not be telling you I told you so as I will likely be swept away into the Valhalla glorious flash flood like you. so I got to tell you now. if BTC goes in three days to $600000 (let us not be hysterical and use $1m) goes Blackstone survive?",
+      "raw_text": "when  BTC pump arrives likely I will not be telling you I told you so as I will likely be swept away into the Valhalla glorious flash flood like you.   so I got to tell you now.  if BTC goes in three days to $600000 (let us not be hysterical and use $1m) goes Blackstone survive?",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 120,
+        "retweets": 14,
+        "replies": 22,
+        "quotes": 0,
+        "bookmarks": 4
+      },
+      "created_at": "Tue Jul 15 13:31:25 +0000 2025",
+      "views": "5649",
+      "scraped_at": "2025-07-15 21:40:23",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Evan_ss6/status/1945104827018625135",
+      "tweet_id": "1945104827018625135",
+      "text": "let me put it more bluntly if you are fully supportive of BTC and live in the USA you either have an IQ of about 80 yet think you have an IQ of 140 or so, or you are being processed for someone's soylent green meal.",
+      "raw_text": "let me put it more bluntly     if you are fully supportive of BTC and live in the USA you either have an IQ of about 80 yet think you have an IQ of 140 or so, or you are being processed for someone's soylent green meal.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 199,
+        "retweets": 17,
+        "replies": 49,
+        "quotes": 3,
+        "bookmarks": 5
+      },
+      "created_at": "Tue Jul 15 12:55:03 +0000 2025",
+      "views": "20863",
+      "scraped_at": "2025-07-15 21:40:27",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Evan_ss6/status/1945112099300028701",
+      "tweet_id": "1945112099300028701",
+      "text": "$600k",
+      "raw_text": "$600k",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 33,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 13:23:57 +0000 2025",
+      "views": "2835",
+      "scraped_at": "2025-07-15 21:40:31",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Evan_ss6/status/1944892123884507403",
+      "tweet_id": "1944892123884507403",
+      "text": "CPI cheat sheet for tomorrow: Cold: no inflation, bullish cuts, bullish In line: inflation is fine, cuts soon, bullish Hot: tariffs causing inflation, TACO soon, bullish Hope this helps",
+      "raw_text": "CPI cheat sheet for tomorrow:\n\nCold: no inflation, bullish cuts, bullish\nIn line: inflation is fine, cuts soon, bullish \nHot: tariffs causing inflation, TACO soon, bullish\n\nHope this helps https://t.co/x0thBzsfLs",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 221,
+        "retweets": 24,
+        "replies": 26,
+        "quotes": 0,
+        "bookmarks": 16
+      },
+      "created_at": "Mon Jul 14 22:49:51 +0000 2025",
+      "views": "14038",
+      "scraped_at": "2025-07-15 21:40:34",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Evan_ss6/status/1945099157519147380",
+      "tweet_id": "1945099157519147380",
+      "text": "market liking core coming in cold",
+      "raw_text": "market liking core coming in cold",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 37,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 12:32:32 +0000 2025",
+      "views": "3095",
+      "scraped_at": "2025-07-15 21:40:38",
+      "success": true
+    },
+    {
+      "url": "https://x.com/EasyEatsBodega/status/1945100726780170303",
+      "tweet_id": "1945100726780170303",
+      "text": "Inflation came in slightly cooler than expected The market reacted initially slightly positive. Now retracing some. Fed Rate cuts pricing in basically a 0% chance for a cut in July. Toss up on cuts for 1 cut or no cut in September Leaning slightly more likely we get a cut in October.",
+      "raw_text": "Inflation came in slightly cooler than expected\nThe market reacted initially slightly positive. \nNow retracing some.\n\nFed Rate cuts pricing in basically a 0% chance for a cut in July. \n\nToss up on cuts for 1 cut or no cut in September\n\nLeaning slightly more likely we get a cut in October.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 44,
+        "retweets": 2,
+        "replies": 22,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 12:38:46 +0000 2025",
+      "views": "6215",
+      "scraped_at": "2025-07-15 21:40:42",
+      "success": true
+    },
+    {
+      "url": "https://x.com/EasyEatsBodega/status/1944857624543158767",
+      "tweet_id": "1944857624543158767",
+      "text": "Todays show was an accurate representation of the market.",
+      "raw_text": "Todays show was an accurate representation of the market.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 25,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "bookmarks": 2
+      },
+      "created_at": "Mon Jul 14 20:32:46 +0000 2025",
+      "views": "3480",
+      "scraped_at": "2025-07-15 21:40:46",
+      "success": true
+    },
+    {
+      "url": "https://x.com/EasyEatsBodega/status/1944832767637774800",
+      "tweet_id": "1944832767637774800",
+      "text": "Wen tf are sellers out of tokens omg",
+      "raw_text": "Wen tf are sellers out of tokens omg",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 110,
+        "retweets": 1,
+        "replies": 44,
+        "quotes": 2,
+        "bookmarks": 0
+      },
+      "created_at": "Mon Jul 14 18:53:59 +0000 2025",
+      "views": "12781",
+      "scraped_at": "2025-07-15 21:40:49",
+      "success": true
+    },
+    {
+      "url": "https://x.com/EasyEatsBodega/status/1944811972446310568",
+      "tweet_id": "1944811972446310568",
+      "text": "Hated Rally on $PUMP imo No airdrop for 30+ days minimum. Open Market price action. TGE participants win big.",
+      "raw_text": "Hated Rally on $PUMP imo \nNo airdrop for 30+ days minimum. \n\nOpen Market price action. \nTGE participants win big.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 335,
+        "retweets": 8,
+        "replies": 59,
+        "quotes": 0,
+        "bookmarks": 14
+      },
+      "created_at": "Mon Jul 14 17:31:21 +0000 2025",
+      "views": "42974",
+      "scraped_at": "2025-07-15 21:40:53",
+      "success": true
+    },
+    {
+      "url": "https://x.com/EasyEatsBodega/status/1944803399251165262",
+      "tweet_id": "1944803399251165262",
+      "text": "The $PUMP token is now tradable. Across platforms seeing people selling for anywhere from 1mil to 300k in net profit (profit cause they got airdropped so no spend cost) Currently at a 5.9bil FDV.",
+      "raw_text": "The $PUMP token is now tradable. \n\nAcross platforms seeing people selling for anywhere from 1mil to 300k in net profit \n(profit cause they got airdropped so no spend cost)\n\nCurrently at a 5.9bil FDV. https://t.co/cygo2PbZoy",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 85,
+        "retweets": 4,
+        "replies": 29,
+        "quotes": 3,
+        "bookmarks": 2
+      },
+      "created_at": "Mon Jul 14 16:57:17 +0000 2025",
+      "views": "18753",
+      "scraped_at": "2025-07-15 21:40:57",
+      "success": true
+    },
+    {
+      "url": "https://x.com/JasonYanowitz/status/1945090653634842701",
+      "tweet_id": "1945090653634842701",
+      "text": "This was fun. To land the interview, @WouterTeunissen wrote a 33 page physical magazine detailing the entire history of Blockworks Then no surprise, he did a crazy amount of research and knew our story better than any interviewer. He's one to watch.",
+      "raw_text": "This was fun.\n\nTo land the interview, @WouterTeunissen wrote a 33 page physical magazine detailing the entire history of Blockworks\n\nThen no surprise, he did a crazy amount of research and knew our story better than any interviewer.\n\nHe's one to watch.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 42,
+        "retweets": 15,
+        "replies": 15,
+        "quotes": 0,
+        "bookmarks": 8
+      },
+      "created_at": "Tue Jul 15 11:58:44 +0000 2025",
+      "views": "4454",
+      "scraped_at": "2025-07-15 21:41:01",
+      "success": true
+    },
+    {
+      "url": "https://x.com/JasonYanowitz/status/1942215365926281385",
+      "tweet_id": "1942215365926281385",
+      "text": "Finished this. Pretty brutal takedown of Biden and his inner circle. Hoping the book reignites the debate about age limits for politicians. Good read if you like politics.",
+      "raw_text": "Finished this.\n\nPretty brutal takedown of Biden and his inner circle.\n\nHoping the book reignites the debate about age limits for politicians.\n\nGood read if you like politics. https://t.co/lRLsoAurgd",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 51,
+        "retweets": 2,
+        "replies": 19,
+        "quotes": 0,
+        "bookmarks": 12
+      },
+      "created_at": "Mon Jul 07 13:33:22 +0000 2025",
+      "views": "4785",
+      "scraped_at": "2025-07-15 21:41:05",
+      "success": true
+    },
+    {
+      "url": "https://x.com/JasonYanowitz/status/1942207453417926701",
+      "tweet_id": "1942207453417926701",
+      "text": "90% of the pitches I’m seeing right now are either: 1) New prediction markets that compete with Polymarket and Kalshi 2) Robinhood style apps built entirely on Hyperliquid Opportunity to build big companies in both categories. But expect extreme competition.",
+      "raw_text": "90% of the pitches I’m seeing right now are either:\n\n1) New prediction markets that compete with Polymarket and Kalshi\n\n2) Robinhood style apps built entirely on Hyperliquid \n\nOpportunity to build big companies in both categories.\n\nBut expect extreme competition.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 338,
+        "retweets": 10,
+        "replies": 86,
+        "quotes": 6,
+        "bookmarks": 58
+      },
+      "created_at": "Mon Jul 07 13:01:56 +0000 2025",
+      "views": "45115",
+      "scraped_at": "2025-07-15 21:41:09",
+      "success": true
+    },
+    {
+      "url": "https://x.com/JasonYanowitz/status/1942205578564026596",
+      "tweet_id": "1942205578564026596",
+      "text": "NEW POD: How Arbitrum landed Robinhood Spoke with @sgoldfed and @ajwarner90 about the Robinhood deal. They shared details I haven’t heard anywhere else. Also got into how they think about acquisitions, public token vehicles, and more. Highly recommend.",
+      "raw_text": "NEW POD: How Arbitrum landed Robinhood\n\nSpoke with @sgoldfed and @ajwarner90 about the Robinhood deal.\n\nThey shared details I haven’t heard anywhere else.\n\nAlso got into how they think about acquisitions, public token vehicles, and more.\n\nHighly recommend.\nhttps://t.co/eZsDAfo1RF",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 138,
+        "retweets": 14,
+        "replies": 12,
+        "quotes": 6,
+        "bookmarks": 56
+      },
+      "created_at": "Mon Jul 07 12:54:29 +0000 2025",
+      "views": "22371",
+      "scraped_at": "2025-07-15 21:41:13",
+      "success": true
+    },
+    {
+      "url": "https://x.com/JasonYanowitz/status/1941900509113098432",
+      "tweet_id": "1941900509113098432",
+      "text": "July disclosures page is live. As a reminder, if you're public facing and create content at Blockworks, you have to disclose holdings of $5k+ It will say \"no\" if you own an asset but less than $5k. Holler if we can improve this in any way.",
+      "raw_text": "July disclosures page is live.\n\nAs a reminder, if you're public facing and create content at Blockworks, you have to disclose holdings of $5k+ \n\nIt will say \"no\" if you own an asset but less than $5k.\n\nHoller if we can improve this in any way.\nhttps://t.co/ta9odhExBL",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 131,
+        "retweets": 4,
+        "replies": 51,
+        "quotes": 8,
+        "bookmarks": 18
+      },
+      "created_at": "Sun Jul 06 16:42:14 +0000 2025",
+      "views": "59608",
+      "scraped_at": "2025-07-15 21:41:18",
+      "success": true
+    },
+    {
+      "url": "https://x.com/hosseeb/status/1944834382327636314",
+      "tweet_id": "1944834382327636314",
+      "text": "Unchained LIVE: ICO",
+      "raw_text": "Unchained LIVE: https://t.co/cqMQ5zlYLN ICO https://t.co/hASn1Vv4o5",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 42,
+        "retweets": 2,
+        "replies": 13,
+        "quotes": 2,
+        "bookmarks": 11
+      },
+      "created_at": "Mon Jul 14 19:00:24 +0000 2025",
+      "views": "11610",
+      "scraped_at": "2025-07-15 21:41:21",
+      "success": true
+    },
+    {
+      "url": "https://x.com/hosseeb/status/1944832277072240754",
+      "tweet_id": "1944832277072240754",
+      "text": "Going live soon! @joemccann and I will be breaking down the blockbuster PUMP ICO with @laurashin 👇",
+      "raw_text": "Going live soon! @joemccann and I will be breaking down the blockbuster PUMP ICO with @laurashin 👇",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 28,
+        "retweets": 4,
+        "replies": 5,
+        "quotes": 0,
+        "bookmarks": 6
+      },
+      "created_at": "Mon Jul 14 18:52:02 +0000 2025",
+      "views": "11465",
+      "scraped_at": "2025-07-15 21:41:25",
+      "success": true
+    },
+    {
+      "url": "https://x.com/hosseeb/status/1942950553715101824",
+      "tweet_id": "1942950553715101824",
+      "text": "Not your father's protocol M&A... The game has changed.",
+      "raw_text": "Not your father's protocol M&amp;A...\n\nThe game has changed.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 120,
+        "retweets": 0,
+        "replies": 30,
+        "quotes": 0,
+        "bookmarks": 12
+      },
+      "created_at": "Wed Jul 09 14:14:44 +0000 2025",
+      "views": "14175",
+      "scraped_at": "2025-07-15 21:41:28",
+      "success": true
+    },
+    {
+      "url": "https://x.com/hosseeb/status/1942948311545307303",
+      "tweet_id": "1942948311545307303",
+      "text": "Wow, this video... $PUMP is going to be getting 25% of Pump revenues, so beyond one of the largest ICOs ever, this will be one of the highest gross revenue tokens in crypto. (not an investor)",
+      "raw_text": "Wow, this video...\n\n$PUMP is going to be getting 25% of Pump revenues, so beyond one of the largest ICOs ever, this will be one of the highest gross revenue tokens in crypto. \n\n(not an investor)",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 262,
+        "retweets": 10,
+        "replies": 61,
+        "quotes": 18,
+        "bookmarks": 91
+      },
+      "created_at": "Wed Jul 09 14:05:50 +0000 2025",
+      "views": "117748",
+      "scraped_at": "2025-07-15 21:41:32",
+      "success": true
+    },
+    {
+      "url": "https://x.com/hosseeb/status/1942704753907044481",
+      "tweet_id": "1942704753907044481",
+      "text": "Is anyone doing a no-persistence AI note-taker? Like Granola, but nothing is persisted server-side, and notes editable post-call before being saved. Would sell like hotcakes.",
+      "raw_text": "Is anyone doing a no-persistence AI note-taker? Like Granola, but nothing is persisted server-side, and notes  editable post-call before being saved.\n\nWould sell like hotcakes.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 51,
+        "retweets": 1,
+        "replies": 32,
+        "quotes": 0,
+        "bookmarks": 26
+      },
+      "created_at": "Tue Jul 08 21:58:01 +0000 2025",
+      "views": "10111",
+      "scraped_at": "2025-07-15 21:41:36",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xBreadguy/status/1945077621710315835",
+      "tweet_id": "1945077621710315835",
+      "text": "BTC down 5% to $117k after huge run",
+      "raw_text": "BTC down 5% to $117k after huge run https://t.co/TH5rG9vILY",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 42,
+        "retweets": 17,
+        "replies": 23,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 11:06:57 +0000 2025",
+      "views": "1914",
+      "scraped_at": "2025-07-15 21:41:40",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xBreadguy/status/1945021933000540567",
+      "tweet_id": "1945021933000540567",
+      "text": "Can we talk about Kusama for a second, and why tf we don't have more standard dev environments for builders? In my prev career we had like 8 for pushing code, testing and troubleshooting. Main ones: DEV - Experimental code, test data TST - Prod. code, upgrade code and test data STAGING - Prod. code, live data shadow instance PROD - The big show NIGHTLY - Prod. snapshot from the night before In crypto, we sometimes have a testnet even though we have trillions of dollars on the line. Makes no sense",
+      "raw_text": "Can we talk about Kusama for a second, and why tf we don't have more standard dev environments for builders?\n\nIn my prev career we had like 8 for pushing code, testing and troubleshooting.\n\nMain ones:\nDEV - Experimental code, test data\nTST - Prod. code, upgrade code and test data\nSTAGING - Prod. code, live data shadow instance\nPROD - The big show\nNIGHTLY - Prod. snapshot from the night before\n\nIn crypto, we sometimes have a testnet even though we have trillions of dollars on the line.\n\nMakes no sense",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 79,
+        "retweets": 21,
+        "replies": 47,
+        "quotes": 2,
+        "bookmarks": 9
+      },
+      "created_at": "Tue Jul 15 07:25:40 +0000 2025",
+      "views": "12676",
+      "scraped_at": "2025-07-15 21:41:44",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xBreadguy/status/1944096392575881641",
+      "success": false,
+      "error": "No text returned",
+      "scraped_at": "2025-07-15 21:41:47"
+    },
+    {
+      "url": "https://x.com/0xBreadguy/status/1944084777281499484",
+      "tweet_id": "1944084777281499484",
+      "text": "This post is ragebait and I wasn't going to give it oxygen, but on reflection I think it's important I do. Bing is anything but a puppet leader of MegaETH. That's reflected by: • The people who know/have worked with her coming to her defense in the comments (thanks bros/broettes) • The manner of her response to the post itself Pulling back the curtain for those who only see her on Twitter; → She is trusting, and let's people like me come on to the team, own verticals and will encourage us to give pure thoughts even if they're counter to the team (this is preferred). → Her vision is beyond crypto, which constantly leaves me these moments where I watch her interviews and answer the questions she's given in my own way and find while I default to intra-crypto answers her mind will always go beyond, comparing us to global industries. It's always a grand vision. → She is (brutally) honest, to the point where it often shocks people. She will tell you where she thinks you're fucking up, but also where she/we are fucking up. You always have pure, distilled Bing and I respect the shit out of that. → She is intelligent, and can actually articulate some deeper technical concepts and their implications that a large majority of timeline bros can't grasp She has her faults too, like anyone, but I would work with/for her on anything we both believe in and that's more signal than any of the above words I wrote. I'm not alone in that either. High caliber people are assembling on the Mega core team, but also broadly in the ecosystem through apps. That's not a coincidence and she plays a role in that.",
+      "raw_text": "This post is ragebait and I wasn't going to give it oxygen, but on reflection I think it's important I do. \n\nBing is anything but a puppet leader of MegaETH.\n\nThat's reflected by:\n• The people who know/have worked with her coming to her defense in the comments (thanks bros/broettes)\n• The manner of her response to the post itself\n\nPulling back the curtain for those who only see her on Twitter;\n→ She is trusting, and let's people like me come on to the team, own verticals and will encourage us to give pure thoughts even if they're counter to the team (this is preferred). \n→ Her vision is beyond crypto, which constantly leaves me these moments where I watch her interviews and answer the questions she's given in my own way and find while I default to intra-crypto answers her mind will always go beyond, comparing us to global industries. It's always a grand vision.\n→ She is (brutally) honest, to the point where it often shocks people. She will tell you where she thinks you're fucking up, but also where she/we are fucking up. You always have pure, distilled Bing and I respect the shit out of that.\n→ She is intelligent, and can actually articulate some deeper technical concepts and their implications that a large majority of timeline bros can't grasp \n\nShe has her faults too, like anyone, but I would work with/for her on anything we both believe in and that's more signal than any of the above words I wrote.\n\nI'm not alone in that either. High caliber people are assembling on the Mega core team, but also broadly in the ecosystem through apps. \n\nThat's not a coincidence and she plays a role in that.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 342,
+        "retweets": 4,
+        "replies": 85,
+        "quotes": 5,
+        "bookmarks": 27
+      },
+      "created_at": "Sat Jul 12 17:21:44 +0000 2025",
+      "views": "64400",
+      "scraped_at": "2025-07-15 21:41:51",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xBreadguy/status/1944047937543451137",
+      "tweet_id": "1944047937543451137",
+      "text": "Update: when she is awesome, she's extremely awesome (and cute) She gets water zoomies",
+      "raw_text": "Update: when she is awesome, she's extremely awesome (and cute)\n\nShe gets water zoomies",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 138,
+        "retweets": 1,
+        "replies": 46,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Sat Jul 12 14:55:21 +0000 2025",
+      "views": "14346",
+      "scraped_at": "2025-07-15 21:41:55",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xWenMoon/status/1945118950586519944",
+      "tweet_id": "1945118950586519944",
+      "text": "Im pumping my sentiment into the charts 🫰",
+      "raw_text": "Im pumping my sentiment into the charts 🫰 https://t.co/UbNYCjTnfW",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 40,
+        "retweets": 11,
+        "replies": 28,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 13:51:11 +0000 2025",
+      "views": "1389",
+      "scraped_at": "2025-07-15 21:41:59",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xWenMoon/status/1945092122081665288",
+      "tweet_id": "1945092122081665288",
+      "text": "Oh boy, here we go again",
+      "raw_text": "Oh boy, here we go again",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 44,
+        "retweets": 11,
+        "replies": 30,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Tue Jul 15 12:04:34 +0000 2025",
+      "views": "1807",
+      "scraped_at": "2025-07-15 21:42:03",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xWenMoon/status/1944689659012874475",
+      "tweet_id": "1944689659012874475",
+      "text": "The forbidden Labubu 🙈 Billions will be onboarded",
+      "raw_text": "The forbidden Labubu 🙈\n\nBillions will be onboarded https://t.co/negEzuOrwN",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 41,
+        "retweets": 0,
+        "replies": 28,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Mon Jul 14 09:25:19 +0000 2025",
+      "views": "3131",
+      "scraped_at": "2025-07-15 21:42:07",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xWenMoon/status/1944669418312654868",
+      "tweet_id": "1944669418312654868",
+      "text": "Bitcoin is the highest it has literally ever been",
+      "raw_text": "Bitcoin is the highest it has literally ever been https://t.co/Nf7zU8PdWk",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 116,
+        "retweets": 0,
+        "replies": 80,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Mon Jul 14 08:04:54 +0000 2025",
+      "views": "3631",
+      "scraped_at": "2025-07-15 21:42:12",
+      "success": true
+    },
+    {
+      "url": "https://x.com/0xWenMoon/status/1944545887314956589",
+      "tweet_id": "1944545887314956589",
+      "text": "Isn’t it crazy that back then everyone got 2k and were so happy, we would laugh at eachother for missing out Now, if an airdrop is less than 5-figs, the team gets absolutely slaughtered 😅",
+      "raw_text": "Isn’t it crazy that back then everyone got 2k and were so happy, we would laugh at eachother for missing out \n\nNow, if an airdrop is less than 5-figs, the team gets absolutely slaughtered 😅 https://t.co/oNq5mM0A36",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 106,
+        "retweets": 0,
+        "replies": 59,
+        "quotes": 2,
+        "bookmarks": 3
+      },
+      "created_at": "Sun Jul 13 23:54:02 +0000 2025",
+      "views": "7012",
+      "scraped_at": "2025-07-15 21:42:15",
+      "success": true
+    },
+    {
+      "url": "https://x.com/HadickM/status/1945107676733521964",
+      "tweet_id": "1945107676733521964",
+      "text": "This is a bit of gaslighting because JPM is ALREADY heavily involved in those things (but yes, it's just the beginning)",
+      "raw_text": "This is a bit of gaslighting because JPM is ALREADY heavily involved in those things (but yes, it's just the beginning)",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 20,
+        "retweets": 13,
+        "replies": 16,
+        "quotes": 1,
+        "bookmarks": 0
+      },
+      "created_at": "Tue Jul 15 13:06:23 +0000 2025",
+      "views": "1716",
+      "scraped_at": "2025-07-15 21:42:19",
+      "success": true
+    },
+    {
+      "url": "https://x.com/HadickM/status/1944359786318860792",
+      "tweet_id": "1944359786318860792",
+      "text": "We are on the precipice of a wave of traditional markets and payments coming onchain and CT is just a bunch of people inanely arguing about their preferred blockspace The continued growth of this space requires more than any one eco, and this zero sum thinking is just brain dead",
+      "raw_text": "We are on the precipice of a wave of traditional markets and payments coming onchain and CT is just a bunch of people inanely arguing about their preferred blockspace\n\nThe continued growth of this space requires more than any one eco, and this zero sum thinking is just brain dead",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 160,
+        "retweets": 13,
+        "replies": 14,
+        "quotes": 3,
+        "bookmarks": 12
+      },
+      "created_at": "Sun Jul 13 11:34:32 +0000 2025",
+      "views": "11702",
+      "scraped_at": "2025-07-15 21:42:23",
+      "success": true
+    },
+    {
+      "url": "https://x.com/HadickM/status/1942320832849854656",
+      "tweet_id": "1942320832849854656",
+      "text": "Bits and Bips LIVE: July 7",
+      "raw_text": "Bits and Bips LIVE: July 7 https://t.co/VqTpngwxy8",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Mon Jul 07 20:32:27 +0000 2025",
+      "views": "978",
+      "scraped_at": "2025-07-15 21:42:27",
+      "success": true
+    },
+    {
+      "url": "https://x.com/HadickM/status/1942303073130668428",
+      "tweet_id": "1942303073130668428",
+      "text": "Saying there is a lot to talk about today is an understatement. Come check us out",
+      "raw_text": "Saying there is a lot to talk about today is an understatement. Come check us out",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 23,
+        "retweets": 6,
+        "replies": 7,
+        "quotes": 1,
+        "bookmarks": 3
+      },
+      "created_at": "Mon Jul 07 19:21:53 +0000 2025",
+      "views": "7679",
+      "scraped_at": "2025-07-15 21:42:30",
+      "success": true
+    },
+    {
+      "url": "https://x.com/HadickM/status/1941927406530424954",
+      "tweet_id": "1941927406530424954",
+      "text": "Awesome to see @awxjack come around",
+      "raw_text": "Awesome to see @awxjack come around https://t.co/SbVTICGcsz",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 168,
+        "retweets": 8,
+        "replies": 11,
+        "quotes": 2,
+        "bookmarks": 14
+      },
+      "created_at": "Sun Jul 06 18:29:07 +0000 2025",
+      "views": "18913",
+      "scraped_at": "2025-07-15 21:42:34",
+      "success": true
+    },
+    {
+      "url": "https://x.com/aeyakovenko/status/1945006181459673100",
+      "success": false,
+      "error": "No text returned",
+      "scraped_at": "2025-07-15 21:42:38"
+    },
+    {
+      "url": "https://x.com/aeyakovenko/status/1944850964370088118",
+      "tweet_id": "1944850964370088118",
+      "text": "the duopoly dad, gotta hack the duopoly",
+      "raw_text": "the duopoly dad, gotta hack the duopoly",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 100,
+        "retweets": 2,
+        "replies": 30,
+        "quotes": 2,
+        "bookmarks": 2
+      },
+      "created_at": "Mon Jul 14 20:06:18 +0000 2025",
+      "views": "24562",
+      "scraped_at": "2025-07-15 21:42:42",
+      "success": true
+    },
+    {
+      "url": "https://x.com/aeyakovenko/status/1944850761218973983",
+      "tweet_id": "1944850761218973983",
+      "text": "congrats @brian_armstrong and team!!!",
+      "raw_text": "congrats @brian_armstrong and team!!!",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 448,
+        "retweets": 14,
+        "replies": 27,
+        "quotes": 1,
+        "bookmarks": 6
+      },
+      "created_at": "Mon Jul 14 20:05:29 +0000 2025",
+      "views": "38563",
+      "scraped_at": "2025-07-15 21:42:45",
+      "success": true
+    },
+    {
+      "url": "https://x.com/aeyakovenko/status/1944849652370825554",
+      "tweet_id": "1944849652370825554",
+      "text": "boomer coin",
+      "raw_text": "boomer coin",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 913,
+        "retweets": 45,
+        "replies": 122,
+        "quotes": 22,
+        "bookmarks": 15
+      },
+      "created_at": "Mon Jul 14 20:01:05 +0000 2025",
+      "views": "86432",
+      "scraped_at": "2025-07-15 21:42:49",
+      "success": true
+    },
+    {
+      "url": "https://x.com/aeyakovenko/status/1944840446590771624",
+      "success": false,
+      "error": "No text returned",
+      "scraped_at": "2025-07-15 21:42:52"
+    },
+    {
+      "url": "https://x.com/mlmabc/status/1944699807139778603",
+      "tweet_id": "1944699807139778603",
+      "text": "Sonnet BioTherapeutics, Inc. Announces $888 Million Business Combination to Launch a HYPE Cryptocurrency Treasury Reserve Strategy \"A newly-formed entity formed by an entity affiliated with Atlas Merchant Capital LLC (“Atlas”), an affiliate of Paradigm Operations LP (“Paradigm”), and additional sponsors (all together, the “Sponsors”), to transform its business by building a reserve of HYPE, the token of the Hyperliquid Layer-1 blockchain.\" \"At the closing of the Business Combination, the newly-created entity is to be named Hyperliquid Strategies Inc (“HSI”), which is expected to hold approximately 12.6 million HYPE tokens, representing $583 million in value (based on the spot price of HYPE shortly before the signing of the Business Combination Agreement) and gross cash invested of at least $305 million, for a total assumed closing value of $888 million. The transaction includes participation by prominent strategic investors, including Paradigm, Galaxy Digital, Pantera Capital, D1 Capital, Republic Digital, and 683 Capital. HSI is expected to remain listed on the Nasdaq Capital Market (“Nasdaq”) under a new ticker symbol and become a public cryptocurrency treasury company upon the closing of the Business Combination.\"",
+      "raw_text": "Sonnet BioTherapeutics, Inc. Announces $888 Million Business Combination to Launch a HYPE Cryptocurrency Treasury Reserve Strategy\n\n\"A newly-formed entity formed by an entity affiliated with Atlas Merchant Capital LLC (“Atlas”), an affiliate of Paradigm Operations LP (“Paradigm”), and additional sponsors (all together, the “Sponsors”), to transform its business by building a reserve of HYPE, the token of the Hyperliquid Layer-1 blockchain.\"\n\n\"At the closing of the Business Combination, the newly-created entity is to be named Hyperliquid Strategies Inc (“HSI”), which is expected to hold approximately 12.6 million HYPE tokens, representing $583 million in value (based on the spot price of HYPE shortly before the signing of the Business Combination Agreement) and gross cash invested of at least $305 million, for a total assumed closing value of $888 million. The transaction includes participation by prominent strategic investors, including Paradigm, Galaxy Digital, Pantera Capital, D1 Capital, Republic Digital, and 683 Capital. HSI is expected to remain listed on the Nasdaq Capital Market (“Nasdaq”) under a new ticker symbol and become a public cryptocurrency treasury company upon the closing of the Business Combination.\"\n\nhttps://t.co/Yg25YvIkiN",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 645,
+        "retweets": 116,
+        "replies": 120,
+        "quotes": 123,
+        "bookmarks": 149
+      },
+      "created_at": "Mon Jul 14 10:05:39 +0000 2025",
+      "views": "471497",
+      "scraped_at": "2025-07-15 21:42:56",
+      "success": true
+    },
+    {
+      "url": "https://x.com/mlmabc/status/1944700568473133354",
+      "tweet_id": "1944700568473133354",
+      "text": "The original link is offline. Here's the article:",
+      "raw_text": "The original link is offline. Here's the article: \nhttps://t.co/Ti0jBicoxB",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 32,
+        "retweets": 6,
+        "replies": 1,
+        "quotes": 1,
+        "bookmarks": 5
+      },
+      "created_at": "Mon Jul 14 10:08:40 +0000 2025",
+      "views": "11819",
+      "scraped_at": "2025-07-15 21:43:00",
+      "success": true
+    },
+    {
+      "url": "https://x.com/mlmabc/status/1944701218015551783",
+      "success": false,
+      "error": "No text returned",
+      "scraped_at": "2025-07-15 21:43:03"
+    },
+    {
+      "url": "https://x.com/mlmabc/status/1944051780783837373",
+      "tweet_id": "1944051780783837373",
+      "text": "The biggest winner today is Hyperliquid $400M+ in daily volume on the $PUMP premarket $300M+ open interest on the $PUMP premarket $500M USDC TVL added in the last 2 days Hyperliquid",
+      "raw_text": "The biggest winner today is Hyperliquid\n\n$400M+ in daily volume on the $PUMP premarket\n$300M+ open interest on the $PUMP premarket\n\n$500M USDC TVL added in the last 2 days\n\nHyperliquid",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 610,
+        "retweets": 69,
+        "replies": 54,
+        "quotes": 13,
+        "bookmarks": 20
+      },
+      "created_at": "Sat Jul 12 15:10:37 +0000 2025",
+      "views": "39060",
+      "scraped_at": "2025-07-15 21:43:08",
+      "success": true
+    },
+    {
+      "url": "https://x.com/mlmabc/status/1943680320521339265",
+      "tweet_id": "1943680320521339265",
+      "text": "Institutions are buying nine figures' worth of $HYPE, and you're selling?",
+      "raw_text": "Institutions are buying nine figures' worth of $HYPE, and you're selling?",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 289,
+        "retweets": 28,
+        "replies": 18,
+        "quotes": 3,
+        "bookmarks": 3
+      },
+      "created_at": "Fri Jul 11 14:34:34 +0000 2025",
+      "views": "13785",
+      "scraped_at": "2025-07-15 21:43:12",
+      "success": true
+    },
+    {
+      "url": "https://x.com/sjdedic/status/1945120718775091685",
+      "tweet_id": "1945120718775091685",
+      "text": "Might DePIN be the bottleneck breaker for one of this century’s biggest economic shifts? Over the past two decades, we’ve witnessed three tech shockwaves that tore up the rulebook: 2007 – iPhone: Mobile became the remote control of life, birthing an app-driven economy. 2009 – Bitcoin which led to Web3: Redefined money, ownership & coordination. 2022 – ChatGPT: Turned AI from sci-fi into a daily tool, collapsing the idea to execution loop. While Web3 and AI are still playing out, the next revolution is already brewing: Humanoid Robotics. You can feel the shift. Capital, talent, and ambition have flooded in at a blistering pace: Tesla is all-in with Optimus. Figure, 1X, Apptronik, and Agility have raised monster rounds. Foxconn and Nvidia are mapping humanoids into global supply chains. Momentum is real, yet something’s missing. To get from demo videos to real-world ubiquity, two ingredients matter: Hardware progress and software progress. And one of them is lagging behind. Hardware is no longer the bottleneck. Torque-dense actuators rival human muscle. Lightweight composites + next-gen batteries enable all-day operation. Edge compute shrinks datacenter power into a backpack. We’ve solved the body. What’s left is the brain. The race will be won by embodied AI - software that learns by doing. Software that interacts with the messy, unpredictable physical world. The biggest bottleneck for that: data. Not just visual data, but real-world experience - across space, time, friction, feedback, failure. And right now, our current solutions for collecting it are broken: - Teleoperation → expensive, low-throughput - Simulation → always diverges from reality - AR → low headset usage - Video learning → just in early research phases Trying to train physical AI this way is like teaching a child to walk using only YouTube clips - no scraped knees, no balance checks, no feedback loop. This is where DePIN & DePAI as the data flywheel come into play. I can't forget what @hosseeb once said at a panel I listened to: \"If crypto has mastered one thing, it’s one thing: Give people tokens, and they’ll do things.\" We’ve already seen it with early real-world networks: @NATIXNetwork crowdsourcing urban camera data, incredibly valuable for autonomous driving @silencioNetwork mapping global soundscapes, potentially becoming the ear of robots @OVRtheReality building an AR twin of Earth with smartphone video data Now, humanoid-native DePINs like @reborn_agi and @PrismaXai are popping up and tackling this same challenge for embodied AI. Projects like @peaq and @AukiNetwork are going a layer deeper, positioning themselves as the coordination backbone for physical AI on a global scale. Here’s the unlock: We don’t need a few labs simulating the world, but a permissionless, real-world data layer fueled by incentives. Imagine millions of edge agents - robots, wearables, users - interacting with the physical world, feeding learnings back into a shared intelligence layer. Train once → Deploy everywhere → Learn continuously. That’s how we leap from prototypes to practical utility. That’s how we scale humanoids without relying on centralized R&D bottlenecks. Obviously, this is a thesis, but if you believe in it, it might be one of the most asymmetric opportunities of this decade: Own the data layer for physical intelligence Because that’s what humanoid robots will eventually run on. We're entering a phase where: – Anyone can contribute physical data – Anyone can own part of the learning stack – Anyone can build on top of it Most are still focused on the robots themselves. But the real unlock (and probably the only accessible exposure anyways) is underneath: Networks. Protocols. Flywheels.",
+      "raw_text": "Might DePIN be the bottleneck breaker for one of this century’s biggest economic shifts?\n\nOver the past two decades, we’ve witnessed three tech shockwaves that tore up the rulebook:\n\n2007 – iPhone: Mobile became the remote control of life, birthing an app-driven economy.\n\n2009 – Bitcoin which led to Web3: Redefined money, ownership & coordination.\n\n2022 – ChatGPT: Turned AI from sci-fi into a daily tool, collapsing the idea to execution loop.\n\nWhile Web3 and AI are still playing out, the next revolution is already brewing:\n\nHumanoid Robotics.\n\nYou can feel the shift. Capital, talent, and ambition have flooded in at a blistering pace:\n\nTesla is all-in with Optimus.\n\nFigure, 1X, Apptronik, and Agility have raised monster rounds.\n\nFoxconn and Nvidia are mapping humanoids into global supply chains.\n\nMomentum is real, yet something’s missing.\n\nTo get from demo videos to real-world ubiquity, two ingredients matter:\n\nHardware progress and software progress.\n\nAnd one of them is lagging behind.\n\nHardware is no longer the bottleneck.\n\nTorque-dense actuators rival human muscle.\nLightweight composites + next-gen batteries enable all-day operation.\nEdge compute shrinks datacenter power into a backpack.\n\nWe’ve solved the body.\nWhat’s left is the brain.\n\nThe race will be won by embodied AI - software that learns by doing.\n\nSoftware that interacts with the messy, unpredictable physical world.\n\nThe biggest bottleneck for that: data.\n\nNot just visual data, but real-world experience - across space, time, friction, feedback, failure.\n\nAnd right now, our current solutions for collecting it are broken:\n\n- Teleoperation → expensive, low-throughput\n- Simulation → always diverges from reality\n- AR → low headset usage\n- Video learning → just in early research phases\n\nTrying to train physical AI this way is like teaching a child to walk using only YouTube clips - no scraped knees, no balance checks, no feedback loop.\n\nThis is where DePIN & DePAI as the data flywheel come into play.\n\nI can't forget what @hosseeb once said at a panel I listened to: \n\n\"If crypto has mastered one thing, it’s one thing: Give people tokens, and they’ll do things.\"\n\nWe’ve already seen it with early real-world networks:\n\n@NATIXNetwork crowdsourcing urban camera data, incredibly valuable for autonomous driving\n\n@silencioNetwork mapping global soundscapes, potentially becoming the ear of robots\n\n@OVRtheReality building an AR twin of Earth with smartphone video data\n\nNow, humanoid-native DePINs like @reborn_agi and @PrismaXai are popping up and tackling this same challenge for embodied AI.\n\nProjects like @peaq and @AukiNetwork are going a layer deeper, positioning themselves as the coordination backbone for physical AI on a global scale.\n\nHere’s the unlock:\n\nWe don’t need a few labs simulating the world, but a permissionless, real-world data layer fueled by incentives.\n\nImagine millions of edge agents - robots, wearables, users - interacting with the physical world, feeding learnings back into a shared intelligence layer.\n\nTrain once → Deploy everywhere → Learn continuously.\n\nThat’s how we leap from prototypes to practical utility.\nThat’s how we scale humanoids without relying on centralized R&D bottlenecks.\n\nObviously, this is a thesis, but if you believe in it, it might be one of the most asymmetric opportunities of this decade:\n\nOwn the data layer for physical intelligence\n\nBecause that’s what humanoid robots will eventually run on. \n\nWe're entering a phase where:\n\n– Anyone can contribute physical data\n– Anyone can own part of the learning stack\n– Anyone can build on top of it\n\nMost are still focused on the robots themselves.\n\nBut the real unlock (and probably the only accessible exposure anyways) is underneath:\n\nNetworks. Protocols. Flywheels.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 56,
+        "retweets": 6,
+        "replies": 31,
+        "quotes": 8,
+        "bookmarks": 5
+      },
+      "created_at": "Tue Jul 15 13:58:12 +0000 2025",
+      "views": "2325",
+      "scraped_at": "2025-07-15 21:43:15",
+      "success": true
+    },
+    {
+      "url": "https://x.com/sjdedic/status/1945077856888815925",
+      "tweet_id": "1945077856888815925",
+      "text": "Funny how just recently, all anyone could talk about was stablecoins, revenue, crypto stocks, and treasury strategies. Bear market PTSD and bore-out were very real. But I’m pretty confident the next 3 months are going to rip and brainrot season will be back in full swing. $ETH will lead the move, and whether you like it or not, that’s going to lift alts and even NFTs. Bookmark this tweet for when the loudest “long-term, fundamentals-only” crowd starts aping into the most absurd meme ponzis and NFT art imaginable. I genuinely hope I won’t be one of them myself lol.",
+      "raw_text": "Funny how just recently, all anyone could talk about was stablecoins, revenue, crypto stocks, and treasury strategies.\n\nBear market PTSD and bore-out were very real.\n\nBut I’m pretty confident the next 3 months are going to rip and brainrot season will be back in full swing.\n\n$ETH will lead the move, and whether you like it or not, that’s going to lift alts and even NFTs.\n\nBookmark this tweet for when the loudest “long-term, fundamentals-only” crowd starts aping into the most absurd meme ponzis and NFT art imaginable.\n\nI genuinely hope I won’t be one of them myself lol.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 71,
+        "retweets": 4,
+        "replies": 48,
+        "quotes": 0,
+        "bookmarks": 4
+      },
+      "created_at": "Tue Jul 15 11:07:53 +0000 2025",
+      "views": "2600",
+      "scraped_at": "2025-07-15 21:43:19",
+      "success": true
+    },
+    {
+      "url": "https://x.com/sjdedic/status/1945047745938547147",
+      "tweet_id": "1945047745938547147",
+      "text": "The most used and established apps in Web3 are on track to generate $4.4 billion in annualized revenue by 2025. Put that next to traditional markets and the perspective shift is ridiculous. For context: That’s like 0.6% of Amazon’s annual revenue. We're comparing all of crypto's most successful applications to one single company. Yes, Hyperliquid, PumpFun, Uniswap etc are great, but we haven't even seen the tip of the iceberg yet. And yes, it’s comparing apples with oranges. But the relative scale is what matters and it’s almost laughable. We’re at the early stages of an industry that’s going to birth the next generation of trillion-dollar companies. Some of them will challenge or outright replace legacy giants over the next 5-10 years. We’re absurdly early and this is literally the best time ever to go hunt the next 1000x.",
+      "raw_text": "The most used and established apps in Web3 are on track to generate $4.4 billion in annualized revenue by 2025.\n\nPut that next to traditional markets and the perspective shift is ridiculous.\n\nFor context:\n\nThat’s like 0.6% of Amazon’s annual revenue.\n\nWe're comparing all of crypto's most successful applications to one single company.\n\nYes, Hyperliquid, PumpFun, Uniswap etc are great, but we haven't even seen the tip of the iceberg yet.\n\nAnd yes, it’s comparing apples with oranges. But the relative scale is what matters and it’s almost laughable.\n\nWe’re at the early stages of an industry that’s going to birth the next generation of trillion-dollar companies.\nSome of them will challenge or outright replace legacy giants over the next 5-10 years.\n\nWe’re absurdly early and this is literally the best time ever to go hunt the next 1000x.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 101,
+        "retweets": 6,
+        "replies": 58,
+        "quotes": 2,
+        "bookmarks": 6
+      },
+      "created_at": "Tue Jul 15 09:08:14 +0000 2025",
+      "views": "5148",
+      "scraped_at": "2025-07-15 21:43:23",
+      "success": true
+    },
+    {
+      "url": "https://x.com/sjdedic/status/1943997489075360023",
+      "tweet_id": "1943997489075360023",
+      "text": "Infinex will be to wallets what Hyperliquid was to exchanges. Just the smoothest UX, fully on-chain, fully transparent, fully community-owned. No more scammy CEXs extracting value and shitty wallets that connect with scam websites. It's so over for you @binance & @MetaMask.",
+      "raw_text": "Infinex will be to wallets what Hyperliquid was to exchanges.\n\nJust the smoothest UX, fully on-chain, fully transparent, fully community-owned.\n\nNo more scammy CEXs extracting value and shitty wallets that connect with scam websites.\n\nIt's so over for you @binance &amp; @MetaMask. https://t.co/CMcVMCBO74",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 146,
+        "retweets": 8,
+        "replies": 103,
+        "quotes": 6,
+        "bookmarks": 2
+      },
+      "created_at": "Sat Jul 12 11:34:53 +0000 2025",
+      "views": "9696",
+      "scraped_at": "2025-07-15 21:43:27",
+      "success": true
+    },
+    {
+      "url": "https://x.com/sjdedic/status/1943961598072144344",
+      "tweet_id": "1943961598072144344",
+      "text": "The second-biggest ICO in crypto history is going live in less than 5 hours - and most believe it’ll sell out within the first hour. Let that sink in: That’s $278,000 every second. To put it in perspective, that’s 22× Apple’s total revenue per second. Whether you like PumpFun or not, it’s on track to break records and write history. All eyes on $PUMP today.",
+      "raw_text": "The second-biggest ICO in crypto history is going live in less than 5 hours - and most believe it’ll sell out within the first hour.\n\nLet that sink in:\n\nThat’s $278,000 every second.\n\nTo put it in perspective, that’s 22× Apple’s total revenue per second.\n\nWhether you like PumpFun or not, it’s on track to break records and write history.\n\nAll eyes on $PUMP today.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 243,
+        "retweets": 13,
+        "replies": 109,
+        "quotes": 7,
+        "bookmarks": 12
+      },
+      "created_at": "Sat Jul 12 09:12:16 +0000 2025",
+      "views": "26257",
+      "scraped_at": "2025-07-15 21:43:31",
+      "success": true
+    },
+    {
+      "url": "https://x.com/howdymerry/status/1944873944559051225",
+      "tweet_id": "1944873944559051225",
+      "text": "bear posting pump is so incredibly low testosterone this is the product that brought in the greatest number of net new people onchain over the past few years and ignited multiple metas pretty clear team is visionary applications",
+      "raw_text": "bear posting pump is so incredibly low testosterone\n\nthis is the product that brought in the greatest number of net new people onchain over the past few years and ignited multiple metas\n\npretty clear team is visionary\n\napplications",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 103,
+        "retweets": 8,
+        "replies": 17,
+        "quotes": 2,
+        "bookmarks": 4
+      },
+      "created_at": "Mon Jul 14 21:37:37 +0000 2025",
+      "views": "17199",
+      "scraped_at": "2025-07-15 21:43:34",
+      "success": true
+    },
+    {
+      "url": "https://x.com/howdymerry/status/1944501558722670733",
+      "tweet_id": "1944501558722670733",
+      "text": "the most bullish thing about @metagametrade is we don’t even have to hire an asian girl to do bd and marketing i am the asian girl that does bd and marketing (and product, hiring, legal, opps etc)",
+      "raw_text": "the most bullish thing about @metagametrade is we don’t even have to hire an asian girl to do bd and marketing\n\ni am the asian girl that does bd and marketing \n\n(and product, hiring, legal, opps etc)",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 70,
+        "retweets": 0,
+        "replies": 11,
+        "quotes": 0,
+        "bookmarks": 4
+      },
+      "created_at": "Sun Jul 13 20:57:53 +0000 2025",
+      "views": "3810",
+      "scraped_at": "2025-07-15 21:43:38",
+      "success": true
+    },
+    {
+      "url": "https://x.com/howdymerry/status/1944240201402134688",
+      "tweet_id": "1944240201402134688",
+      "text": "im like catnip for tech bros ive been in sf for two weeks and this guy asked me to move in with him already please chill",
+      "raw_text": "im like catnip for tech bros\n\nive been in sf for two weeks and this guy asked me to move in with him already\n\nplease chill",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 32,
+        "retweets": 0,
+        "replies": 10,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Sun Jul 13 03:39:20 +0000 2025",
+      "views": "2115",
+      "scraped_at": "2025-07-15 21:43:42",
+      "success": true
+    },
+    {
+      "url": "https://x.com/howdymerry/status/1944148406261477701",
+      "tweet_id": "1944148406261477701",
+      "text": "internet capital markets doesn’t mean any failing b2b saas company can go public on the blockchain and suddenly get flush with liquidity it means that there is enormous demand for internet native value that is unmet in traditional markets it’s demand for both new products that enable new forms of value creation (eg modern payment networks and token launchpads) and new attention driven valuation frameworks my favorite quote by an analyst went something like ‘i can tell if you think tesla is under or overvalued by how you feel towards elon musk’ how we perceive value is changing, some companies that i know have a better product and team than their competitors struggle to raise or get traction because they simply lack the ability to create internet native value founder of one of these companies with a less quality product is simply a phenomenal storyteller so his company is worth more than a competitor with a better product and less charismatic founder in an era of abundant slop tech, the only scarcity is attention thank god i grew up on 4chan tweet more @metagametrade",
+      "raw_text": "internet capital markets doesn’t mean any failing b2b saas company can go public on the blockchain and suddenly get flush with liquidity\n\nit means that there is enormous demand for internet native value that is unmet in traditional markets\n\nit’s demand for both new products that enable new forms of value creation (eg modern payment networks and token launchpads) and new attention driven valuation frameworks\n\nmy favorite quote by an analyst went something like ‘i can tell if you think tesla is under or overvalued by how you feel towards elon musk’\n\nhow we perceive value is changing, some companies that i know have a better product and team than their competitors struggle to raise or get traction because they simply lack the ability to create internet native value\n\nfounder of one of these companies with a less quality product is simply a phenomenal storyteller so his company is worth more than a competitor with a better product and less charismatic founder\n\nin an era of abundant slop tech, the only scarcity is attention\n\nthank god i grew up on 4chan\n\ntweet more\n\n@metagametrade",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 80,
+        "retweets": 8,
+        "replies": 17,
+        "quotes": 0,
+        "bookmarks": 14
+      },
+      "created_at": "Sat Jul 12 21:34:35 +0000 2025",
+      "views": "4139",
+      "scraped_at": "2025-07-15 21:43:46",
+      "success": true
+    },
+    {
+      "url": "https://x.com/howdymerry/status/1944090796862394768",
+      "tweet_id": "1944090796862394768",
+      "text": "we are entering the golden age of applications in crypto applications shall enjoy a thousand year reign of fertility and prosperity applications @metagametrade",
+      "raw_text": "we are entering the golden age of applications in crypto\n\napplications shall enjoy a thousand year reign of fertility and prosperity\n\napplications\n\n@metagametrade",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 21,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "created_at": "Sat Jul 12 17:45:40 +0000 2025",
+      "views": "1261",
+      "scraped_at": "2025-07-15 21:43:51",
+      "success": true
+    },
+    {
+      "url": "https://x.com/NateGeraci/status/1944938209902788952",
+      "tweet_id": "1944938209902788952",
+      "text": "Another $260mil into spot eth ETFs... Nearly $1.1bil over past *four* trading days. Easily best streak since launch last July.",
+      "raw_text": "Another $260mil into spot eth ETFs...\n\nNearly $1.1bil over past *four* trading days.\n\nEasily best streak since launch last July.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 507,
+        "retweets": 54,
+        "replies": 40,
+        "quotes": 11,
+        "bookmarks": 19
+      },
+      "created_at": "Tue Jul 15 01:52:59 +0000 2025",
+      "views": "162765",
+      "scraped_at": "2025-07-15 21:43:54",
+      "success": true
+    },
+    {
+      "url": "https://x.com/NateGeraci/status/1944934447260016916",
+      "tweet_id": "1944934447260016916",
+      "text": "Besides that I think Vanguard should allow brokerage access to crypto ETFs… Here are my 3 most strongly held beliefs on category… 1) BlackRock should absolutely file for spot xrp, sol, etc ETFs. Crypto index ETF as well. Protect their current crypto ETF leadership position.",
+      "raw_text": "Besides that I think Vanguard should allow brokerage access to crypto ETFs…\n\nHere are my 3 most strongly held beliefs on category…\n\n1) BlackRock should absolutely file for spot xrp, sol, etc ETFs. Crypto index ETF as well. Protect their current crypto ETF leadership position.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 340,
+        "retweets": 51,
+        "replies": 21,
+        "quotes": 6,
+        "bookmarks": 30
+      },
+      "created_at": "Tue Jul 15 01:38:02 +0000 2025",
+      "views": "88690",
+      "scraped_at": "2025-07-15 21:43:58",
+      "success": true
+    },
+    {
+      "url": "https://x.com/NateGeraci/status/1944934449407471763",
+      "tweet_id": "1944934449407471763",
+      "text": "2) Not too late for State Street (3rd largest ETF issuer) to enter category. Honestly don’t understand strategy here. Do they think they’re somehow protecting gold ETFs? 3) Schwab should file for/launch spot crypto ETFs. Why give advantage to Fidelity, their primary competitor?",
+      "raw_text": "2) Not too late for State Street (3rd largest ETF issuer) to enter category. Honestly don’t understand strategy here. Do they think they’re somehow protecting gold ETFs?\n\n3) Schwab should file for/launch spot crypto ETFs. Why give advantage to Fidelity, their primary competitor?",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 98,
+        "retweets": 10,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 4
+      },
+      "created_at": "Tue Jul 15 01:38:02 +0000 2025",
+      "views": "7014",
+      "scraped_at": "2025-07-15 21:44:02",
+      "success": true
+    },
+    {
+      "url": "https://x.com/NateGeraci/status/1944912628238963023",
+      "tweet_id": "1944912628238963023",
+      "text": "Two things on this… 1) Yes, I’m *highly* aware that Vanguard holds MSTR *on behalf* of its fund investors. Obviously. 2) I’m also very aware that Vanguard *has* to hold MSTR to properly track various indices. But if you don’t see the irony here, I don’t know what to tell you.",
+      "raw_text": "Two things on this…\n\n1) Yes, I’m *highly* aware that Vanguard holds MSTR *on behalf* of its fund investors. Obviously.\n\n2) I’m also very aware that Vanguard *has* to hold MSTR to properly track various indices.\n\nBut if you don’t see the irony here, I don’t know what to tell you.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 160,
+        "retweets": 20,
+        "replies": 22,
+        "quotes": 4,
+        "bookmarks": 2
+      },
+      "created_at": "Tue Jul 15 00:11:19 +0000 2025",
+      "views": "38685",
+      "scraped_at": "2025-07-15 21:44:06",
+      "success": true
+    },
+    {
+      "url": "https://x.com/NateGeraci/status/1943832887763042567",
+      "tweet_id": "1943832887763042567",
+      "text": "Look at what @ricedelman just told @investmentnews… “ETFs, as we know them today, really won't exist in 5yrs. They'll be replaced by tokenized versions of themselves.” Highly noteworthy coming from founder of now $300bil RIA. Very aggressive timeline, but I agree longer-term.",
+      "raw_text": "Look at what @ricedelman just told @investmentnews…\n\n“ETFs, as we know them today, really won't exist in 5yrs. They'll be replaced by tokenized versions of themselves.”\n\nHighly noteworthy coming from founder of now $300bil RIA.\n\nVery aggressive timeline, but I agree longer-term. https://t.co/yuf6mk25Fv",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 178,
+        "retweets": 29,
+        "replies": 30,
+        "quotes": 4,
+        "bookmarks": 30
+      },
+      "created_at": "Sat Jul 12 00:40:49 +0000 2025",
+      "views": "21174",
+      "scraped_at": "2025-07-15 21:44:09",
+      "success": true
+    },
+    {
+      "url": "https://x.com/RyanWatkins_/status/1944039585077768596",
+      "tweet_id": "1944039585077768596",
+      "text": "Pump ICO sold out in 14 minutes. Even better, it was the 3rd largest ICO in history, and raised the majority onchain on Solana.",
+      "raw_text": "Pump ICO sold out in 14 minutes.\n\nEven better, it was the 3rd largest ICO in history, and raised the majority onchain on Solana.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 387,
+        "retweets": 17,
+        "replies": 44,
+        "quotes": 13,
+        "bookmarks": 20
+      },
+      "created_at": "Sat Jul 12 14:22:10 +0000 2025",
+      "views": "70305",
+      "scraped_at": "2025-07-15 21:44:13",
+      "success": true
+    },
+    {
+      "url": "https://x.com/RyanWatkins_/status/1944040799483650530",
+      "tweet_id": "1944040799483650530",
+      "text": "Wonder what entrepreneurs do now that they realize they can raise hundreds of millions onchain so fast 🤔",
+      "raw_text": "Wonder what entrepreneurs do now that they realize they can raise hundreds of millions onchain so fast 🤔",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 108,
+        "retweets": 12,
+        "replies": 14,
+        "quotes": 4,
+        "bookmarks": 5
+      },
+      "created_at": "Sat Jul 12 14:26:59 +0000 2025",
+      "views": "11164",
+      "scraped_at": "2025-07-15 21:44:17",
+      "success": true
+    },
+    {
+      "url": "https://x.com/RyanWatkins_/status/1942389922788254081",
+      "tweet_id": "1942389922788254081",
+      "text": "Whoever cracks prediction markets with leverage, and finds a way to embed it into a Twitter-like social feed, will likely create a generational businesses. One of the biggest opportunities in SocialFi.",
+      "raw_text": "Whoever cracks prediction markets with leverage, and finds a way to embed it into a Twitter-like social feed, will likely create a generational businesses.\n\nOne of the biggest opportunities in SocialFi.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 715,
+        "retweets": 46,
+        "replies": 191,
+        "quotes": 34,
+        "bookmarks": 240
+      },
+      "created_at": "Tue Jul 08 01:07:00 +0000 2025",
+      "views": "116667",
+      "scraped_at": "2025-07-15 21:44:21",
+      "success": true
+    },
+    {
+      "url": "https://x.com/RyanWatkins_/status/1942389982594789702",
+      "tweet_id": "1942389982594789702",
+      "text": "Think this would cook the memecoin market in the process, or at the least steal good amount of activity.",
+      "raw_text": "Think this would cook the memecoin market in the process, or at the least steal good amount of activity.",
       "user": {
         "username": "",
         "display_name": "",
@@ -152,80 +1766,240 @@
       },
       "stats": {
         "likes": 46,
-        "retweets": 9,
-        "replies": 16,
-        "quotes": 1,
+        "retweets": 5,
+        "replies": 5,
+        "quotes": 0,
         "bookmarks": 2
       },
-      "created_at": "Tue Jul 15 00:44:36 +0000 2025",
-      "views": "2712",
-      "scraped_at": "2025-07-15 18:38:22",
+      "created_at": "Tue Jul 08 01:07:14 +0000 2025",
+      "views": "6851",
+      "scraped_at": "2025-07-15 21:44:25",
       "success": true
     },
     {
-      "url": "https://x.com/goon_crypto/status/1944206502329561544",
-      "tweet_id": "1944206502329561544",
-      "text": "$VADER Update: We’re back at pre-Yapping levels. Even with 63.8% staked, the market isn’t holding. Airdrops aren’t enough. The \"new ideas\" aren’t moving the needle. Genesis is slowing. Narrative is fading. Feels like we’re one real catalyst away from flipping everything. But what’s it going to be?",
-      "raw_text": "$VADER Update:\n\nWe’re back at pre-Yapping levels.\nEven with 63.8% staked, the market isn’t holding.\n\nAirdrops aren’t enough.\nThe \"new ideas\" aren’t moving the needle.\n\nGenesis is slowing.\nNarrative is fading.\n\nFeels like we’re one real catalyst away from flipping everything.\n\nBut what’s it going to be?",
+      "url": "https://x.com/RyanWatkins_/status/1941562131242954956",
+      "tweet_id": "1941562131242954956",
+      "text": "I feel like we’re entering an “enterprise blockchain” 2.0 era of sorts, where we’re seeing a ton of companies both within and outside the cryptoeconomy experiment with different ways of building with blockchains, and people are once again becoming skeptical about the value proposition of tokens. “If all this technology is open source, why won’t [insert big company] come in and co-opt it and win?” The difference this time vs the 2016 era, is these companies aren’t all building separate systems from what already exists. They’re building Ethereum L2s, protocols on L1s like Solana, and issuing assets on every blockchain. So now the few generational assets this industry has built, can benefit from the distribution flywheels of centralized exchanges, fintech leaders, and social media giants. There’s still an outstanding question of where most the value will be captured. We’re no longer in the era of every token going up, just because the industry is growing and enterprises like BlackRock, Robinhood, and Stripe are validating the tech. But this shouldn’t be a revelation for an industry that is now firmly in its growth stage, not pioneer phase. Valuations are now at levels where they need to be justified with real economics and believable stories. You don’t get paid anymore for just being super early and figuring out what’s not a complete scam (although even scams worked too for a long time). Anyways, this is an exciting time if you’re willing to put in the work. We’re in the big leagues now and you will no longer find the answers you’re looking for by looking narrowly at the cryptoeconomy. It’s a big world out there and we’re finally starting to shake things up.",
+      "raw_text": "I feel like we’re entering an “enterprise blockchain” 2.0 era of sorts, where we’re seeing a ton of companies both within and outside the cryptoeconomy experiment with different ways of building with blockchains, and people are once again becoming skeptical about the value proposition of tokens. \n\n“If all this technology is open source, why won’t [insert big company] come in and co-opt it and win?” \n\nThe difference this time vs the 2016 era, is these companies aren’t all building separate systems from what already exists. They’re building Ethereum L2s, protocols on L1s like Solana, and issuing assets on every blockchain. \n\nSo now the few generational assets this industry has built, can benefit from the distribution flywheels of centralized exchanges, fintech leaders, and social media giants.\n\nThere’s still an outstanding question of where most the value will be captured. We’re no longer in the era of every token going up, just because the industry is growing and enterprises like BlackRock, Robinhood, and Stripe are validating the tech. \n\nBut this shouldn’t be a revelation for an industry that is now firmly in its growth stage, not pioneer phase. Valuations are now at levels where they need to be justified with real economics and believable stories. You don’t get paid anymore for just being super early and figuring out what’s not a complete scam (although even scams worked too for a long time).\n\nAnyways, this is an exciting time if you’re willing to put in the work. We’re in the big leagues now and you will no longer find the answers you’re looking for by looking narrowly at the cryptoeconomy. It’s a big world out there and we’re finally starting to shake things up.",
       "user": {
         "username": "",
         "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 30,
+        "likes": 238,
+        "retweets": 32,
+        "replies": 50,
+        "quotes": 7,
+        "bookmarks": 60
+      },
+      "created_at": "Sat Jul 05 18:17:39 +0000 2025",
+      "views": "25498",
+      "scraped_at": "2025-07-15 21:44:29",
+      "success": true
+    },
+    {
+      "url": "https://x.com/camolNFT/status/1944849925415821391",
+      "tweet_id": "1944849925415821391",
+      "text": "BREAKING NEWS: It’s officially pumpkin spice season 🎃",
+      "raw_text": "BREAKING NEWS: \n\nIt’s officially pumpkin spice season 🎃 https://t.co/nVc3ICcZ3S",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 54,
         "retweets": 0,
-        "replies": 22,
+        "replies": 30,
         "quotes": 0,
         "bookmarks": 0
       },
-      "created_at": "Sun Jul 13 01:25:26 +0000 2025",
-      "views": "1389",
-      "scraped_at": "2025-07-15 18:38:26",
+      "created_at": "Mon Jul 14 20:02:10 +0000 2025",
+      "views": "2156",
+      "scraped_at": "2025-07-15 21:44:33",
       "success": true
     },
     {
-      "url": "https://x.com/goon_crypto/status/1944200445477761385",
-      "tweet_id": "1944200445477761385",
-      "text": "So @predibot_ just hit another ATH. Easily one of the better performing Genesis launches this week. They launched with a live product and real revenue already flowing. No fluff. Just usage. $1.4m market cap and growing. Still early for $PREDI.",
-      "raw_text": "So @predibot_ just hit another ATH.\nEasily one of the better performing Genesis launches this week.\n\nThey launched with a live product and real revenue already flowing.\nNo fluff. Just usage.\n\n$1.4m market cap and growing.\nStill early for $PREDI. https://t.co/57dmC6nY4j",
+      "url": "https://x.com/camolNFT/status/1944849955879067937",
+      "tweet_id": "1944849955879067937",
+      "text": "this is real btw",
+      "raw_text": "this is real btw",
       "user": {
         "username": "",
         "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 53,
-        "retweets": 8,
-        "replies": 15,
-        "quotes": 1,
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Mon Jul 14 20:02:17 +0000 2025",
+      "views": "247",
+      "scraped_at": "2025-07-15 21:44:36",
+      "success": true
+    },
+    {
+      "url": "https://x.com/camolNFT/status/1944835444593615026",
+      "tweet_id": "1944835444593615026",
+      "text": "Ranked #12 on the Global Project X Leaderboard. What rank are you???? bullish on the bozo @Lamboland_",
+      "raw_text": "Ranked #12 on the Global Project X Leaderboard.\nWhat rank are you????\n\nbullish on the bozo @Lamboland_ https://t.co/FwwgnxoOen",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 33,
+        "retweets": 3,
+        "replies": 16,
+        "quotes": 0,
         "bookmarks": 1
       },
-      "created_at": "Sun Jul 13 01:01:22 +0000 2025",
-      "views": "2664",
-      "scraped_at": "2025-07-15 18:38:30",
+      "created_at": "Mon Jul 14 19:04:37 +0000 2025",
+      "views": "1917",
+      "scraped_at": "2025-07-15 21:44:40",
       "success": true
     },
     {
-      "url": "https://x.com/goon_crypto/status/1943958877814632869",
-      "tweet_id": "1943958877814632869",
-      "text": "Still losing money by following the wrong people? If you’re still chasing vibes and clout, you’re already behind. Here’s how @outlight_ai levels you up using real data: 🧵👇",
-      "raw_text": "Still losing money by following the wrong people?\n\nIf you’re still chasing vibes and clout, you’re already behind.\n\nHere’s how @outlight_ai levels you up using real data:\n\n🧵👇 https://t.co/OE4FhQgBjb",
+      "url": "https://x.com/camolNFT/status/1944835447743500722",
+      "success": false,
+      "error": "No text returned",
+      "scraped_at": "2025-07-15 21:44:43"
+    },
+    {
+      "url": "https://x.com/camolNFT/status/1944834367286628431",
+      "tweet_id": "1944834367286628431",
+      "text": "@prjx_hl since we're shilling ref links:",
+      "raw_text": "@prjx_hl since we're shilling ref links:\nhttps://t.co/K30CDAOIMU",
       "user": {
         "username": "",
         "display_name": "",
         "verified": true
       },
       "stats": {
-        "likes": 39,
-        "retweets": 1,
-        "replies": 22,
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
         "quotes": 0,
+        "bookmarks": 0
+      },
+      "created_at": "Mon Jul 14 19:00:21 +0000 2025",
+      "views": "192",
+      "scraped_at": "2025-07-15 21:44:46",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Xeer/status/1945092286972346713",
+      "tweet_id": "1945092286972346713",
+      "text": "Color me impressed. Wouldn't be surprised if $PENGU reclaims ATH in a week or less.",
+      "raw_text": "Color me impressed. Wouldn't be surprised if $PENGU reclaims ATH in a week or less. https://t.co/Kpx3PgTlRN",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 162,
+        "retweets": 8,
+        "replies": 39,
+        "quotes": 2,
+        "bookmarks": 5
+      },
+      "created_at": "Tue Jul 15 12:05:13 +0000 2025",
+      "views": "4793",
+      "scraped_at": "2025-07-15 21:44:50",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Xeer/status/1944664022697295923",
+      "tweet_id": "1944664022697295923",
+      "text": "BTC at 123K feels nice. I wonder what 124K feels like.",
+      "raw_text": "BTC at 123K feels nice.\n\nI wonder what 124K feels like. https://t.co/clAl8A5vFu",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 117,
+        "retweets": 4,
+        "replies": 42,
+        "quotes": 1,
         "bookmarks": 2
       },
-      "created_at": "Sat Jul 12 09:01:28 +0000 2025",
-      "views": "1020",
-      "scraped_at": "2025-07-15 18:38:34",
+      "created_at": "Mon Jul 14 07:43:27 +0000 2025",
+      "views": "3649",
+      "scraped_at": "2025-07-15 21:44:54",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Xeer/status/1944647272958140603",
+      "tweet_id": "1944647272958140603",
+      "text": "humor me. what happens if $PUMP goes live like RIGHT NOW.",
+      "raw_text": "humor me. what happens if $PUMP goes live like RIGHT NOW. https://t.co/8nOX69kSzs",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 79,
+        "retweets": 0,
+        "replies": 36,
+        "quotes": 0,
+        "bookmarks": 5
+      },
+      "created_at": "Mon Jul 14 06:36:54 +0000 2025",
+      "views": "10911",
+      "scraped_at": "2025-07-15 21:44:58",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Xeer/status/1944419347960902006",
+      "tweet_id": "1944419347960902006",
+      "text": "say if you raised 50 million from \"investors\" to run your start-up, do you consider that 50m \"your money\" or \"investor money\"?. spoke to a founder recently and he referred to the 50m as \"his money\" and he's making 200k per month from yield farming using HIS stables. you love to see it. meanwhile his token is under 700k market cap with 100k liquidity and every investor he has ever had is underwater while he flies around the world first class to attend crypto conferences and parties.",
+      "raw_text": "say if you raised 50 million from \"investors\" to run your start-up, do you consider that 50m \"your money\" or \"investor money\"?.\n\nspoke to a founder recently and he referred to the 50m as \"his money\" and he's making 200k per month from yield farming using HIS stables. you love to see it.\n\nmeanwhile his token is under 700k market cap with 100k liquidity and every investor he has ever had is underwater while he flies around the world first class to attend crypto conferences and parties.",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 1219,
+        "retweets": 43,
+        "replies": 329,
+        "quotes": 29,
+        "bookmarks": 236
+      },
+      "created_at": "Sun Jul 13 15:31:12 +0000 2025",
+      "views": "160697",
+      "scraped_at": "2025-07-15 21:45:02",
+      "success": true
+    },
+    {
+      "url": "https://x.com/Xeer/status/1944638613955715239",
+      "tweet_id": "1944638613955715239",
+      "text": "Yes $PENGU is up 700% but I still bought this dip. Am I doing this right? Or am I retarded? (If I'm wrong I'm deleting this post.)",
+      "raw_text": "Yes $PENGU is up 700% but I still bought this dip. Am I doing this right? Or am I retarded?\n\n(If I'm wrong I'm deleting this post.) https://t.co/W5IS2xIxHq",
+      "user": {
+        "username": "",
+        "display_name": "",
+        "verified": true
+      },
+      "stats": {
+        "likes": 239,
+        "retweets": 5,
+        "replies": 49,
+        "quotes": 1,
+        "bookmarks": 2
+      },
+      "created_at": "Mon Jul 14 06:02:29 +0000 2025",
+      "views": "13194",
+      "scraped_at": "2025-07-15 21:45:06",
       "success": true
     }
   ]
